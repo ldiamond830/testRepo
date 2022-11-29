@@ -729,3 +729,756 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.29-20.59.43:726][969]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/testBlueprint8F68969246983FEEF7B1B9AEAE9D998B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/testBlueprint.uasset'
 [2022.11.29-20.59.43:739][969]AssetCheck: New page: Asset Save: testBlueprint
 [2022.11.29-20.59.43:740][969]LogContentValidation: Display: Validating Blueprint /Game/testBlueprint.testBlueprint
+[2022.11.29-21.08.22:782][656]LogViewport: Scene viewport resized to 1564x1254, mode Windowed.
+[2022.11.29-21.08.24:984][760]LogSlate: Window 'testBlueprint' being destroyed
+[2022.11.29-21.08.24:989][760]LogSlate: Window 'testBlueprint' being destroyed
+[2022.11.29-21.08.24:998][760]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-21.08.24:998][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-21.08.42:934][205]LogViewport: Scene viewport resized to 1564x815, mode Windowed.
+[2022.11.29-21.08.59:521][976]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.11.29-21.08.59:521][976]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.11.29-21.08.59:523][976]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_0
+[2022.11.29-21.08.59:523][976]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_0
+[2022.11.29-21.09.00:705][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.11.29-21.09.00:705][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.11.29-21.09.00:708][ 54]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_00D8616FEB98554E01_1925472487
+[2022.11.29-21.09.00:708][ 54]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_00D8616FEB98554E01_1925472487
+[2022.11.29-21.09.04:165][216]Cmd: TRANSACTION UNDO
+[2022.11.29-21.09.04:165][216]LogEditorTransaction: Undo Create Actors
+[2022.11.29-21.09.10:815][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2022.11.29-21.09.10:815][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2022.11.29-21.09.10:815][553]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2022.11.29-21.09.10:827][553]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2022.11.29-21.09.12:562][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2022.11.29-21.09.12:562][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2022.11.29-21.09.12:563][634]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_00D8616FEB98554E01_1937329488
+[2022.11.29-21.09.12:563][634]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_00D8616FEB98554E01_1937329488
+[2022.11.29-21.09.17:316][847]Cmd: MODE GRID=0
+[2022.11.29-21.09.18:545][910]Cmd: MODE ROTGRID=0
+[2022.11.29-21.09.18:922][930]Cmd: MODE SCALEGRID=0
+[2022.11.29-21.10.15:072][547]LogWorldPartition: Warning: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_00D8616FEB98554E01_1925472487 is unreachable without properly detaching object /Temp/__ExternalActors__/Untitled_1/A/PP/Q6R39T4GW6W8SOFBT350V4.PackageMetaData in its package
+[2022.11.29-21.10.15:080][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.29-21.10.15:083][547]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.035
+[2022.11.29-21.10.15:376][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.29-21.10.37:999][938]LogEditor: Attempting to add actor of class 'SplineMeshActor' to level at 29163.84,28000.86,8.58
+[2022.11.29-21.10.38:571][977]LogEditor: Attempting to add actor of class 'SplineMeshActor' to level at 601.08,458.48,-0.00
+[2022.11.29-21.10.48:331][491]EditorErrors: New page: Actor attachment
+[2022.11.29-21.13.21:741][322]EditorErrors: New page: Actor attachment
+[2022.11.29-21.13.47:355][637]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled
+[2022.11.29-21.13.47:355][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-21.15.13:671][ 83]LogSlate: Window 'Untitled' being destroyed
+[2022.11.29-21.15.13:676][ 83]LogSlate: Window 'Untitled' being destroyed
+[2022.11.29-21.15.13:680][ 83]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-21.15.13:680][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-21.15.17:602][319]EditorErrors: New page: Actor attachment
+[2022.11.29-21.16.40:763][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2022.11.29-21.16.40:763][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2022.11.29-21.16.40:764][929]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_00D8616FEB98564E01_1311788666
+[2022.11.29-21.16.40:764][929]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_00D8616FEB98564E01_1311788666
+[2022.11.29-21.16.45:160][157]Cmd: DELETE
+[2022.11.29-21.16.45:160][157]Cmd: ACTOR DELETE
+[2022.11.29-21.16.45:175][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.29-21.16.45:202][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.29-21.16.45:205][157]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.29-21.20.24:313][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-21.20.24:334][839]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.29-21.20.24:334][839]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.29-21.20.24:335][839]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.29-21.20.24:335][839]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2022.11.29-21.20.24:335][839]LogWorldPartition: Display: GetPartitionedActors took 350 us
+[2022.11.29-21.20.24:418][839]LogWorldPartition: Display: GenerateStreaming took 84 ms
+[2022.11.29-21.20.24:426][839]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.29-21.20.24:432][839]LogPlayLevel: [PlayLevel] Compiling testBlueprint before play...
+[2022.11.29-21.20.24:459][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.29-21.20.24:461][839]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2022.11.29-21.20.24:468][839]PIE: New page: PIE session: Untitled_1 (Nov 29, 2022, 11:20:24 AM)
+[2022.11.29-21.20.24:472][839]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.29-21.20.24:473][839]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.29-21.20.24:476][839]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.11.29-21.20.24:562][839]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.29-21.20.24:565][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088707s)
+[2022.11.29-21.20.24:565][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.088816s)
+[2022.11.29-21.20.24:566][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-21.20.24:566][839]LogAIModule: Creating AISystem for world Untitled_1
+[2022.11.29-21.20.24:567][839]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.29-21.20.24:567][839]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.29-21.20.24:571][839]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.11.29-21.20.24:572][839]LogPlayLevel: PIE: World Init took: (0.006395s)
+[2022.11.29-21.20.24:594][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.29-21.20.24:602][839]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-21.20.24:602][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-21.20.24:602][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-21.20.24:602][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-21.20.24:602][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-21.20.24:602][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-21.20.24:604][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-21.20.24:621][839]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.11.29-21.20.24:621][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-21.20.24:621][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-21.20.24:621][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-21.20.24:622][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.29-21.20.24:622][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.29-21.20.24:623][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.29-21.20.24:623][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.29-21.20.24:623][839]LogInit: FAudioDevice initialized.
+[2022.11.29-21.20.24:624][839]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2022.11.29-21.20.24:648][839]LogLoad: Game class is 'GameModeBase'
+[2022.11.29-21.20.24:651][839]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2022.11.29-16.20.24
+[2022.11.29-21.20.24:654][839]LogWorld: Bringing up level for play took: 0.005133
+[2022.11.29-21.20.24:657][839]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.11.29-21.20.24:711][839]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1078.254 Y=627.915 Z=667.130
+[2022.11.29-21.20.24:711][839]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2022.11.29-21.20.24:711][839]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1078.254 Y=627.915 Z=667.130,P=-0.000000 Y=-128.856736 R=0.000000
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.11.29-21.20.24:727][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_TM27AJQTOQ55ONVEI0ECE1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_3MA67PA3DFBCH9ZN7JQD7L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_GB0G8OII70SZ6GD113L2XO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_IFJ8LJV48IC5TH68CZLNHO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_XD4VCUJXDAR9W2NOY9DW31.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_5ZNW5G7MV8SB8U230NTMG6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_D43LKCJAZBO2UYCSUCUWIS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_213GHJR3VJKF8O6TBXNDVM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_M0AB19DRPSE9MKYPZTVNP9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.11.29-21.20.24:728][839]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.11.29-21.20.24:765][839]LogStaticMesh: Display: Waiting for static meshes to be ready 33/49 (/Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT) ...
+[2022.11.29-21.20.24:793][839]LogStaticMesh: Display: Waiting for static meshes to be ready 35/49 (/Temp/Untitled_1_InstanceOf_D43LKCJAZBO2UYCSUCUWIS) ...
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2022.11.29-21.20.24:972][839]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2022.11.29-21.20.25:053][839]PIE: Server logged in
+[2022.11.29-21.20.25:054][839]PIE: Play in editor total start time 0.735 seconds.
+[2022.11.29-21.20.28:465][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-21.20.28:465][991]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2022.11.29-21.20.28:492][991]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-21.20.28:494][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-21.20.28:505][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-21.20.28:510][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-21.20.28:532][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-21.20.28:532][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.29-21.20.28:534][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.29-21.20.28:577][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.29-21.20.28:609][992]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.29-21.21.05:092][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.29-21.21.05:098][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.053
+[2022.11.29-21.24.19:510][296]EditorErrors: New page: Actor attachment
+[2022.11.29-21.29.07:190][839]LogAssetTools: Warning: Failed to import 'C:\Users\andre\Downloads\SplineFollowProject\Content\BP_TargetSpline.uasset'. Unknown extension 'uasset'.
+[2022.11.29-21.29.07:203][839]LogAssetTools: Warning: Failed to import 'C:\Users\andre\Downloads\SplineFollowProject\Content\FollowSplineComponent.uasset'. Unknown extension 'uasset'.
+[2022.11.29-21.31.16:305][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.29-21.31.16:310][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.037
+[2022.11.29-21.31.53:348][845]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.29-21.31.53:505][845]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TestLevel_HLOD0_Instancing
+/Game/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0
+/Game/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A
+/Game/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW
+/Game/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70
+/Game/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6
+/Game/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE
+/Game/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG
+/Game/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F
+/Game/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS
+/Game/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC
+/Game/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ
+/Game/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q
+/Game/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU
+/Game/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B
+/Game/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3
+/Game/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU
+/Game/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW
+/Game/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9
+/Game/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J
+/Game/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK
+/Game/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM
+/Game/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ
+/Game/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB
+/Game/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26
+/Game/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q
+/Game/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X
+/Game/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH
+/Game/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX
+/Game/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE
+/Game/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2
+/Game/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3
+/Game/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT
+/Game/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4
+/Game/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2
+/Game/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF
+/Game/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43
+/Game/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD
+/Game/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO
+/Game/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT
+/Game/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW
+/Game/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F
+/Game/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X
+/Game/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX
+/Game/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF
+/Game/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT
+/Game/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM
+/Game/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH
+/Game/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV
+/Game/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1
+/Game/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG
+/Game/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D
+/Game/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW
+/Game/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65
+/Game/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS
+/Game/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4
+/Game/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S
+/Game/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1
+/Game/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR
+/Game/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO
+/Game/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1
+/Game/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX
+/Game/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF
+/Game/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625
+/Game/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX
+/Game/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B
+/Game/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X
+/Game/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q
+/Game/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051
+/Game/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C
+/Game/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL
+/Game/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1
+/Game/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95
+/Game/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT
+/Game/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY
+/Game/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3
+/Game/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX
+/Game/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR
+/Game/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7
+/Game/__ExternalActors__/TestLevel/9/GC/3C5MXIMYXX545HWTCQBNJV
+/Game/__ExternalActors__/TestLevel/E/KT/71JFY98MF5853EV3YUP7NB
+/Game/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X
+/Game/__ExternalActors__/TestLevel/3/DC/UE4WV60ZK7B2J8O2F2BV7O
+/Game/__ExternalActors__/TestLevel/E/RV/M36NNSHXXH6KHW544B8UNM
+/Game/__ExternalActors__/TestLevel/3/UO/99CLIIAW41ZUWNNMUUFDN8
+/Game/__ExternalActors__/TestLevel/D/3A/ALSF0XZ9X5U7AE08D2PZWH
+/Game/__ExternalActors__/TestLevel/2/CN/WRU3N0PN0RIRI6A5BPXR7T
+/Game/__ExternalActors__/TestLevel/0/T7/JX4ZTU1HZZIU9UYWSOQ5Z8
+/Game/__ExternalActors__/TestLevel/5/OI/X21JT9W8D0IRXXY4CL7KNR
+/Game/__ExternalActors__/TestLevel/A/UB/GLEOU5SHRS9C5XLE8CJEDW
+/Game/__ExternalActors__/TestLevel/3/6S/JAHWUVP2P8XY1RHF4Z2TT6
+/Game/__ExternalActors__/TestLevel/3/4A/I1N44CBKZ559XULZX54PVN
+/Game/__ExternalActors__/TestLevel/2/10/MA0O1AZKMVC1QGDIWP1K34
+/Game/__ExternalActors__/TestLevel/2/4N/6AAXL25C7LNLX38I09PC7X
+/Game/__ExternalActors__/TestLevel/2/KL/PJAMNJQ4URLDUOFYHGIBYO
+/Game/__ExternalActors__/TestLevel/A/8K/OT1TW5ORG18DJ2FET60ZUR
+/Game/__ExternalActors__/TestLevel/6/W8/VFUGCX4OPFIKQUIW2I8FJL
+/Game/__ExternalActors__/TestLevel/C/VK/PH6X6HZ956AXUCM9FMN2HA
+/Game/__ExternalActors__/TestLevel/6/6Q/EGFAX7RC23WMGLKDK6868G
+/Game/__ExternalActors__/TestLevel/3/RN/V6GWAID3QWF2DN0VRNVA5C
+/Game/__ExternalActors__/TestLevel/E/YB/QXKDPEONO1UKNALF0UBIXY
+/Game/__ExternalActors__/TestLevel/2/R7/DPQ1X6MOVQURN1KH0ZZS7W
+[2022.11.29-21.31.53:506][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel_HLOD0_Instancing" FILE="../../../../../../Users/andre/source/repos/testRepo/Test/Content/TestLevel_HLOD0_Instancing.uasset" SILENT=true
+[2022.11.29-21.31.53:507][845]LogSavePackage: Moving output files for package: /Game/TestLevel_HLOD0_Instancing
+[2022.11.29-21.31.53:507][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/TestLevel_HLOD0_Instancing09DD1A7A4061C1E6A58082901F88C743.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/TestLevel_HLOD0_Instancing.uasset'
+[2022.11.29-21.31.53:509][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0
+[2022.11.29-21.31.53:509][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/9R9P0RDFT42JHZ7D5NAFN0513EDCD347998554951E47BDB1EE5806.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0.uasset'
+[2022.11.29-21.31.53:512][845]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A
+[2022.11.29-21.31.53:512][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/MQQBNZPPNBWZ3ETRE7HU8A20C5D5134A817DA5DC8D33846F236CC1.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A.uasset'
+[2022.11.29-21.31.53:513][845]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW
+[2022.11.29-21.31.53:514][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/3BHHXYUBR5XYPEWAZEUFDW7E3770C74F3F101D1CBED2A6C2ECEA1C.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW.uasset'
+[2022.11.29-21.31.53:515][845]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70
+[2022.11.29-21.31.53:515][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/4WVR7E8KX2WIM7AJ3S7A701B8E5AAF4EB0E6A4CAC4AA9EC37BD1F5.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70.uasset'
+[2022.11.29-21.31.53:517][845]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6
+[2022.11.29-21.31.53:517][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/7GJMEG9VSCHPGHFJM648P6539674FA4F4B05DAC55172B80B384015.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6.uasset'
+[2022.11.29-21.31.53:518][845]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE
+[2022.11.29-21.31.53:518][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/XGQKI8TLOYSQO69G2FA9PEC7A95A9B44C1449141BBA49B6E2E6DB4.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE.uasset'
+[2022.11.29-21.31.53:523][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG
+[2022.11.29-21.31.53:523][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/VJID8KUAH6GS6ZKKDJ8WMGBD22C0AE409F0646EEDE0182D90C315B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG.uasset'
+[2022.11.29-21.31.53:525][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F
+[2022.11.29-21.31.53:525][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/8BNTBG7BVWMNJHLLW5V85F10E0BC7C4FAE70995BB545AAA04A77F4.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F.uasset'
+[2022.11.29-21.31.53:526][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS
+[2022.11.29-21.31.53:527][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/7FKO69CTG8V9SJRJ2XMGWSBF893C0F4A1235ED3A496F8BDB2407EC.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS.uasset'
+[2022.11.29-21.31.53:528][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC
+[2022.11.29-21.31.53:529][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/Z39O8X4ENU2QQZNQC9MDTC83288EDF4FAC0A3CD18113AA6B6059E9.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC.uasset'
+[2022.11.29-21.31.53:530][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ
+[2022.11.29-21.31.53:530][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/60AXFWT7AY1G8OW498A0NQBE55687D4DEA3BBD77C42C80F3BB86E1.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ.uasset'
+[2022.11.29-21.31.53:532][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q
+[2022.11.29-21.31.53:532][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/1X1458TOL3DE211JNI4J7Q500876284C52DF47C72F52B77479AE98.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q.uasset'
+[2022.11.29-21.31.53:533][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU
+[2022.11.29-21.31.53:533][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/M6VGE5XFL6KD6FTERF5YVU8DEC826B4E90BB5851AA9D8480208A29.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU.uasset'
+[2022.11.29-21.31.53:537][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B
+[2022.11.29-21.31.53:537][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/P1C7IDNV135T9APVJZDE2BC806D9F0408C5F7ABEF171B949A618D3.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B.uasset'
+[2022.11.29-21.31.53:545][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3
+[2022.11.29-21.31.53:546][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/TG077VXWFGCS3WSZDUFDI3539907FA410ACC76D5F216A25588372F.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3.uasset'
+[2022.11.29-21.31.53:553][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU
+[2022.11.29-21.31.53:553][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/L6Y7T7KA2Z75KPTJG7YAVU63DDDCC944989EB64D2AFFBFD9530CA3.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU.uasset'
+[2022.11.29-21.31.53:562][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW
+[2022.11.29-21.31.53:562][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/PHYJUGHUHNSHE0LPKMD6KWD2CFF43B4762F2B01D269E92667639A9.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW.uasset'
+[2022.11.29-21.31.53:571][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9
+[2022.11.29-21.31.53:571][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/ICE0IEPD2XF7YJ7QSPSMS9942CB6404B86FD0FA27FF5BCD4CD2019.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9.uasset'
+[2022.11.29-21.31.53:580][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J
+[2022.11.29-21.31.53:580][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/R97DT7DLMXS5FXW8HF1G6J1026FCB048ADFB47144ABFB5119E9A81.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J.uasset'
+[2022.11.29-21.31.53:588][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK
+[2022.11.29-21.31.53:588][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/ZN71SX57YVNMBLC4U42TQKFEFDA9A14AF86B64FFE78DB621CD0C90.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK.uasset'
+[2022.11.29-21.31.53:600][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM
+[2022.11.29-21.31.53:600][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/HPLVSKHGYFRK0OKIO3FKTMAA244BEF420BFA7102EC02A92B8D0E6B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM.uasset'
+[2022.11.29-21.31.53:608][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ
+[2022.11.29-21.31.53:608][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/X5CTR1PPUL6VOBIAUZU3CQ5DD5DEFD403C2687D84F7FB8F0B75442.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ.uasset'
+[2022.11.29-21.31.53:616][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB
+[2022.11.29-21.31.53:616][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/2DXGKDNGQ8FKW1PG2WTROB4002F31648E51F7A5575B5BC9FCAB7AE.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB.uasset'
+[2022.11.29-21.31.53:626][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26
+[2022.11.29-21.31.53:626][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/GD27R35XAEXG8X6UPLPM26C8DB18A7454724E196284AB3C399F6AB.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26.uasset'
+[2022.11.29-21.31.53:634][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q
+[2022.11.29-21.31.53:634][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/C1NXFT3445IHQFSW27W70Q4F7C2CEA4631FFA3195811BDC16ED261.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q.uasset'
+[2022.11.29-21.31.53:641][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X
+[2022.11.29-21.31.53:642][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/EIJBPFIKPO1FSHAENCRN2X91CBF716410A73E8598381A99CDBE673.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X.uasset'
+[2022.11.29-21.31.53:649][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH
+[2022.11.29-21.31.53:649][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/FNWCTJEHDIASLCBHKFBVNHD5BFC5514B825E81C33DD4886827D55C.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH.uasset'
+[2022.11.29-21.31.53:659][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX
+[2022.11.29-21.31.53:659][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/0XZPDVKHYS291KFB0NRPQX63BC161C42537ADC85309EA38E9682D1.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX.uasset'
+[2022.11.29-21.31.53:667][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE
+[2022.11.29-21.31.53:667][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/8BHYJKKJ7FCZG69JFC3OIE1A5CD9744A2B61833FC7C59AA7872697.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE.uasset'
+[2022.11.29-21.31.53:675][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2
+[2022.11.29-21.31.53:675][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/RCM552Z2X9S4FSAZMYGIW2297F2D43492C8F690BC6AA880A6EA1CF.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2.uasset'
+[2022.11.29-21.31.53:684][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3
+[2022.11.29-21.31.53:684][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/1SX5LH34NN7WSA4S30POQ369E36F7943B49003E13418A1C14D34A5.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3.uasset'
+[2022.11.29-21.31.53:692][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT
+[2022.11.29-21.31.53:692][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/CU8607DRIZDRL3721P75JT87EA77D34FEFFE2C43F2ACA6EB91514A.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT.uasset'
+[2022.11.29-21.31.53:702][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4
+[2022.11.29-21.31.53:702][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/EAPHRG2ZAA07Z3XADIC9B4AD52B36C48C68D4F87E6099B13C650A9.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4.uasset'
+[2022.11.29-21.31.53:710][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2
+[2022.11.29-21.31.53:710][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/FO5YKNCWPZQDYOO3Q2I1C24B91D07B48B9F469FB89B883F6DCDF8F.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2.uasset'
+[2022.11.29-21.31.53:718][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF
+[2022.11.29-21.31.53:718][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/KW559SDPKTXA5GB82HX6EFEF35C4214E1128110CE732B514F34591.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF.uasset'
+[2022.11.29-21.31.53:726][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43
+[2022.11.29-21.31.53:726][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/4OHZ0C35XEIJLWB1IYBD43EE390CFA4453C8711E8D6DA39E023526.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43.uasset'
+[2022.11.29-21.31.53:734][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD
+[2022.11.29-21.31.53:734][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/KVY8MIT5LQFF3I505L5EADA550D62A4BE5F7CB00D70CAD560FDE1A.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD.uasset'
+[2022.11.29-21.31.53:742][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO
+[2022.11.29-21.31.53:742][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/M0AB4YJ5PZBLS487BAE5TOA9153B1D454C4240AA1EF4B2B54D6C3E.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO.uasset'
+[2022.11.29-21.31.53:750][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT
+[2022.11.29-21.31.53:750][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/GHU8R9O1BNXL96VD22EONT1AE56C1149907F872A357AAB47AF58DB.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT.uasset'
+[2022.11.29-21.31.53:757][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW
+[2022.11.29-21.31.53:758][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/GTTXN0JUQ3SCLMAZFQ74PW7017278E410AAD1D4F3E94A386D53177.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW.uasset'
+[2022.11.29-21.31.53:766][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F
+[2022.11.29-21.31.53:766][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/3AOQQ4ARIK1LVMPHX1BD8F537C283D42542883DFCBBABC0EBFB807.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F.uasset'
+[2022.11.29-21.31.53:775][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X
+[2022.11.29-21.31.53:775][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/Y4A4SJH8WLJ6YBP2H2257X27A869DA42259A058FAACF94883644A4.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X.uasset'
+[2022.11.29-21.31.53:783][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX
+[2022.11.29-21.31.53:783][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/2HB5NJS9KABOK0SFDM3QEX178D185F40387E4B68F8318D70B6BBB7.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX.uasset'
+[2022.11.29-21.31.53:791][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF
+[2022.11.29-21.31.53:792][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/G87GXJ9QBQGTW5OS9QJDCF85455936433D4526E7D0EFAEA1431009.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF.uasset'
+[2022.11.29-21.31.53:803][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT
+[2022.11.29-21.31.53:803][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/5ZRQXEVJ1P3XE1NK1LXIZT0E271DB144F3ACC531CE2580A23D4D24.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT.uasset'
+[2022.11.29-21.31.53:809][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM
+[2022.11.29-21.31.53:810][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/WIWRAPURKJZ33EJGH20IVM325066BC487DAF37D2B662839371C615.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM.uasset'
+[2022.11.29-21.31.53:817][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH
+[2022.11.29-21.31.53:817][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/JHM13ID7U6YAYOERUKZ8QHE627BED9405A1B92B87FA5A39AE7054C.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH.uasset'
+[2022.11.29-21.31.53:825][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV
+[2022.11.29-21.31.53:825][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/UWI92CZEI6Z9D8HSY92TMV1294393544AE08DE5CE466825882E118.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV.uasset'
+[2022.11.29-21.31.53:832][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1
+[2022.11.29-21.31.53:833][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/JXXSFIWDOOD07TJ8E1EHF1D62124104C7695C954307C93C481C5D8.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1.uasset'
+[2022.11.29-21.31.53:840][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG
+[2022.11.29-21.31.53:840][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/ITRU9VA1L44HXM8R5R9QVG324543E246D6D9FF998401B25A9E2C4E.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG.uasset'
+[2022.11.29-21.31.53:847][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D
+[2022.11.29-21.31.53:847][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/RMPMO9OXGIRCHTRWBCH98D45F053EE42E5E28115082DB7296A5D3A.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D.uasset'
+[2022.11.29-21.31.53:855][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW
+[2022.11.29-21.31.53:855][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/TP5BH1TLR3C2ENYBDRYVMW0C9CF9BD4A45B90B73C4038183B14732.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW.uasset'
+[2022.11.29-21.31.53:863][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65
+[2022.11.29-21.31.53:863][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/D6KH4NSFFTH42BILVC3I6582251E484D206BF5304F88A2E9C03AA6.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65.uasset'
+[2022.11.29-21.31.53:870][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS
+[2022.11.29-21.31.53:870][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/7AK1G9DMJC7P4D8VGDMVLSF6B317C843CAD0F73A3AE1A9736E87EF.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS.uasset'
+[2022.11.29-21.31.53:878][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4
+[2022.11.29-21.31.53:878][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/WD24BHM7BP69X6DTO0Q6N4DACA059A4E5BBA60FB09AC99F242624E.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4.uasset'
+[2022.11.29-21.31.53:886][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S
+[2022.11.29-21.31.53:886][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/MT6ESU0IUY4TWKZTIMNW6S75CE36FE4989FE82EE00C5B9FF18DC06.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S.uasset'
+[2022.11.29-21.31.53:893][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1
+[2022.11.29-21.31.53:893][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/TWOFFRRVY9VSMSTV5UG1G145D51EF84771265B847F888F6CF81196.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1.uasset'
+[2022.11.29-21.31.53:901][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR
+[2022.11.29-21.31.53:901][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/DYBWDNJQQY6XDV9T7BS9PREB3B2C1F4B59F7248791F88DA10CAF85.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR.uasset'
+[2022.11.29-21.31.53:911][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO
+[2022.11.29-21.31.53:911][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/I6GJ2FWOQGJ8YWBCFTIZDO05020B3C4EF1FF955D29CEAB59C9DFE0.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO.uasset'
+[2022.11.29-21.31.53:919][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1
+[2022.11.29-21.31.53:919][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/SQQBD0BMD4PNPD5WSFUJT1A4C878D9481F48DB8EF452A130158678.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1.uasset'
+[2022.11.29-21.31.53:927][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX
+[2022.11.29-21.31.53:927][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/CYGWGY33NPHZTWZ61AJFIX965BDD054B1B35448EEEB2B4ECCF3C62.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX.uasset'
+[2022.11.29-21.31.53:935][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF
+[2022.11.29-21.31.53:935][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/9X9Q7CO0ZENLZDNWU9ANRFBC548A504868D8E2C0124DA8022961E9.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF.uasset'
+[2022.11.29-21.31.53:944][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625
+[2022.11.29-21.31.53:944][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/70178Q9KBJY6MRQP3XA6259AF608784118E5CEE8100B92B8CD6B8D.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625.uasset'
+[2022.11.29-21.31.53:952][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX
+[2022.11.29-21.31.53:952][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/MB2SL64WYLS2Q4U6FRANOX88CB81054770C6CE9D0C8E81085D6E65.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX.uasset'
+[2022.11.29-21.31.53:959][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B
+[2022.11.29-21.31.53:959][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/R38TIY0LVNPI5SHXAEJV1BDC6355F34FB110E7069024B2F6532BA8.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B.uasset'
+[2022.11.29-21.31.53:967][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X
+[2022.11.29-21.31.53:967][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/T566HK2FVKNADZGP7X8Y6XAD1BDBB547468D2B94BFE6BEE2239634.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X.uasset'
+[2022.11.29-21.31.53:975][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q
+[2022.11.29-21.31.53:975][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/Y5BB1CUEM17Y8WR5RJK87Q00EBACE64B5FD6E89CD3779098D7E81E.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q.uasset'
+[2022.11.29-21.31.53:983][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051
+[2022.11.29-21.31.53:983][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/HTOA4C6V8E92B9VY1EQ051DC67794A4B8DBC22E8317288322C1EC7.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051.uasset'
+[2022.11.29-21.31.53:991][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C
+[2022.11.29-21.31.53:991][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/JDNAGE0I5VOCRA39RY0V8CDAE962A94A0A93144BDCCEB2CFF76B8B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C.uasset'
+[2022.11.29-21.31.54:001][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL
+[2022.11.29-21.31.54:001][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/VFOOBEI4AI1XX0FH87WQCL33E9C3B84278485A5B87C1AAB3B1FC63.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL.uasset'
+[2022.11.29-21.31.54:009][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1
+[2022.11.29-21.31.54:009][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/YD2D72PL1NQR5AVVN0A6T1BF523BDA400246E9A059329CE323748D.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1.uasset'
+[2022.11.29-21.31.54:016][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95
+[2022.11.29-21.31.54:016][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/QS56GPQM2O7LUV9UBT0U95EE53252141D145D4A1E417BE0713FBFC.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95.uasset'
+[2022.11.29-21.31.54:023][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT
+[2022.11.29-21.31.54:023][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/ZQ8SST11X5NF91JUSLE5PT0CBE6753443DD866F17015862B30C438.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT.uasset'
+[2022.11.29-21.31.54:031][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY
+[2022.11.29-21.31.54:031][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/7JDHWJJCBN9WJGW25FRQIYDD457BD241F7D0D30D0A999A0D09655D.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY.uasset'
+[2022.11.29-21.31.54:039][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3
+[2022.11.29-21.31.54:039][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/3OHEB34NCTNIM0E7KNSKJ301170CF9466D57DB27520CB0C359C828.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3.uasset'
+[2022.11.29-21.31.54:046][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX
+[2022.11.29-21.31.54:046][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/KP3HZMYZJS9NOTW6E174BX72AB428847B00742A29D8F83B6AD974C.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX.uasset'
+[2022.11.29-21.31.54:053][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR
+[2022.11.29-21.31.54:053][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/7BYMR5FG4AK0AN0Q277EDRE6A3F91E41EB204752256CB487409550.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR.uasset'
+[2022.11.29-21.31.54:061][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7
+[2022.11.29-21.31.54:061][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/PW3S7FZAH6VYNV0KAT46G73A7589AC4BD6D1B330A9F0BE814FC575.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7.uasset'
+[2022.11.29-21.31.54:063][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/GC/3C5MXIMYXX545HWTCQBNJV
+[2022.11.29-21.31.54:063][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/3C5MXIMYXX545HWTCQBNJV48FFC0F44D3111A11622C39456D631A8.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/9/GC/3C5MXIMYXX545HWTCQBNJV.uasset'
+[2022.11.29-21.31.54:064][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/KT/71JFY98MF5853EV3YUP7NB
+[2022.11.29-21.31.54:064][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/71JFY98MF5853EV3YUP7NB4B3328D8427BECD690EF27983A111619.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/E/KT/71JFY98MF5853EV3YUP7NB.uasset'
+[2022.11.29-21.31.54:205][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X
+[2022.11.29-21.31.54:205][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/6B9OCJG2HWVPHTXG81EQ0X4D0700E64C1285DD09B8DB82BC78DC3D.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X.uasset'
+[2022.11.29-21.31.54:486][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/DC/UE4WV60ZK7B2J8O2F2BV7O
+[2022.11.29-21.31.54:486][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/UE4WV60ZK7B2J8O2F2BV7O3C2F17CE4A5A2359D14D3F92F890595C.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/DC/UE4WV60ZK7B2J8O2F2BV7O.uasset'
+[2022.11.29-21.31.55:313][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/RV/M36NNSHXXH6KHW544B8UNM
+[2022.11.29-21.31.55:313][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/M36NNSHXXH6KHW544B8UNM458648A14886274C7DC49B9699B785FF.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/E/RV/M36NNSHXXH6KHW544B8UNM.uasset'
+[2022.11.29-21.31.55:454][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/UO/99CLIIAW41ZUWNNMUUFDN8
+[2022.11.29-21.31.55:454][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/99CLIIAW41ZUWNNMUUFDN8D6A0AAE44CBD6D70F4506DAFA9C0B97F.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/UO/99CLIIAW41ZUWNNMUUFDN8.uasset'
+[2022.11.29-21.31.55:593][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/3A/ALSF0XZ9X5U7AE08D2PZWH
+[2022.11.29-21.31.55:593][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/ALSF0XZ9X5U7AE08D2PZWH08C231274FDEF1EB67CF47AE82D60B42.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/D/3A/ALSF0XZ9X5U7AE08D2PZWH.uasset'
+[2022.11.29-21.31.55:733][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/CN/WRU3N0PN0RIRI6A5BPXR7T
+[2022.11.29-21.31.55:733][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/WRU3N0PN0RIRI6A5BPXR7T242BB9464B2E78265B2E46AC3D5D37F0.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/2/CN/WRU3N0PN0RIRI6A5BPXR7T.uasset'
+[2022.11.29-21.31.56:423][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/T7/JX4ZTU1HZZIU9UYWSOQ5Z8
+[2022.11.29-21.31.56:423][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/JX4ZTU1HZZIU9UYWSOQ5Z8B6DF4FA14180389242D6B186B7FA594B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/0/T7/JX4ZTU1HZZIU9UYWSOQ5Z8.uasset'
+[2022.11.29-21.31.56:700][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/5/OI/X21JT9W8D0IRXXY4CL7KNR
+[2022.11.29-21.31.56:700][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/X21JT9W8D0IRXXY4CL7KNRDEF5DC164BC99B4546FCF784F02FB762.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/5/OI/X21JT9W8D0IRXXY4CL7KNR.uasset'
+[2022.11.29-21.31.56:842][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/UB/GLEOU5SHRS9C5XLE8CJEDW
+[2022.11.29-21.31.56:842][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/GLEOU5SHRS9C5XLE8CJEDW6F20C01348BFD6E2ABDD45AB1C6D6267.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/UB/GLEOU5SHRS9C5XLE8CJEDW.uasset'
+[2022.11.29-21.31.57:245][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/6S/JAHWUVP2P8XY1RHF4Z2TT6
+[2022.11.29-21.31.57:245][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/JAHWUVP2P8XY1RHF4Z2TT6BD6800A24796B0B77D76F09B4F0AA047.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/6S/JAHWUVP2P8XY1RHF4Z2TT6.uasset'
+[2022.11.29-21.31.57:384][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/4A/I1N44CBKZ559XULZX54PVN
+[2022.11.29-21.31.57:384][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/I1N44CBKZ559XULZX54PVN08AF92CF4548870AA97C58A36A44C08D.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/4A/I1N44CBKZ559XULZX54PVN.uasset'
+[2022.11.29-21.31.57:652][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/10/MA0O1AZKMVC1QGDIWP1K34
+[2022.11.29-21.31.57:652][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/MA0O1AZKMVC1QGDIWP1K34BF9F5EAF41D97308A3E7D290FB7E9486.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/2/10/MA0O1AZKMVC1QGDIWP1K34.uasset'
+[2022.11.29-21.31.58:478][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/4N/6AAXL25C7LNLX38I09PC7X
+[2022.11.29-21.31.58:478][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/6AAXL25C7LNLX38I09PC7X5F15307F43D5DC8645267EA334638AA9.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/2/4N/6AAXL25C7LNLX38I09PC7X.uasset'
+[2022.11.29-21.31.58:619][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/KL/PJAMNJQ4URLDUOFYHGIBYO
+[2022.11.29-21.31.58:619][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/PJAMNJQ4URLDUOFYHGIBYO81CC07EA4C21125B326B8C969365EC1C.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/2/KL/PJAMNJQ4URLDUOFYHGIBYO.uasset'
+[2022.11.29-21.31.58:894][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/8K/OT1TW5ORG18DJ2FET60ZUR
+[2022.11.29-21.31.58:894][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/OT1TW5ORG18DJ2FET60ZURCB1110B74EEC04A9A67CEE84C04A87AC.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/A/8K/OT1TW5ORG18DJ2FET60ZUR.uasset'
+[2022.11.29-21.31.59:037][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/W8/VFUGCX4OPFIKQUIW2I8FJL
+[2022.11.29-21.31.59:037][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/VFUGCX4OPFIKQUIW2I8FJLCDD2748048E4D9AA883FC09797A2E9D0.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/W8/VFUGCX4OPFIKQUIW2I8FJL.uasset'
+[2022.11.29-21.31.59:312][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/VK/PH6X6HZ956AXUCM9FMN2HA
+[2022.11.29-21.31.59:312][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/PH6X6HZ956AXUCM9FMN2HAC1EB7C0A4911DEB6BD0256910731EA50.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/C/VK/PH6X6HZ956AXUCM9FMN2HA.uasset'
+[2022.11.29-21.31.59:450][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/6Q/EGFAX7RC23WMGLKDK6868G
+[2022.11.29-21.31.59:451][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/EGFAX7RC23WMGLKDK6868GBE27B8D841D66FF6A51B58AFB4765137.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/6/6Q/EGFAX7RC23WMGLKDK6868G.uasset'
+[2022.11.29-21.31.59:723][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/RN/V6GWAID3QWF2DN0VRNVA5C
+[2022.11.29-21.31.59:723][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/V6GWAID3QWF2DN0VRNVA5CDE35DC724B3E00447B1F95AEF68FB7A7.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/3/RN/V6GWAID3QWF2DN0VRNVA5C.uasset'
+[2022.11.29-21.31.59:862][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/YB/QXKDPEONO1UKNALF0UBIXY
+[2022.11.29-21.31.59:862][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/QXKDPEONO1UKNALF0UBIXYB9C10E1E44E2436D72EB03A051B8B4B9.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/E/YB/QXKDPEONO1UKNALF0UBIXY.uasset'
+[2022.11.29-21.32.00:846][845]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/R7/DPQ1X6MOVQURN1KH0ZZS7W
+[2022.11.29-21.32.00:846][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/DPQ1X6MOVQURN1KH0ZZS7W319942DD4CCDF0ADBC5BCF96C4701DE1.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/__ExternalActors__/TestLevel/2/R7/DPQ1X6MOVQURN1KH0ZZS7W.uasset'
+[2022.11.29-21.32.00:852][845]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TestLevel_HLOD0_Instancing
+/Game/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0
+/Game/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A
+/Game/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW
+/Game/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70
+/Game/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6
+/Game/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE
+/Game/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG
+/Game/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F
+/Game/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS
+/Game/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC
+/Game/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ
+/Game/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q
+/Game/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU
+/Game/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B
+/Game/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3
+/Game/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU
+/Game/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW
+/Game/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9
+/Game/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J
+/Game/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK
+/Game/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM
+/Game/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ
+/Game/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB
+/Game/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26
+/Game/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q
+/Game/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X
+/Game/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH
+/Game/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX
+/Game/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE
+/Game/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2
+/Game/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3
+/Game/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT
+/Game/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4
+/Game/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2
+/Game/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF
+/Game/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43
+/Game/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD
+/Game/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO
+/Game/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT
+/Game/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW
+/Game/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F
+/Game/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X
+/Game/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX
+/Game/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF
+/Game/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT
+/Game/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM
+/Game/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH
+/Game/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV
+/Game/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1
+/Game/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG
+/Game/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D
+/Game/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW
+/Game/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65
+/Game/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS
+/Game/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4
+/Game/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S
+/Game/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1
+/Game/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR
+/Game/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO
+/Game/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1
+/Game/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX
+/Game/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF
+/Game/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625
+/Game/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX
+/Game/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B
+/Game/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X
+/Game/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q
+/Game/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051
+/Game/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C
+/Game/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL
+/Game/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1
+/Game/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95
+/Game/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT
+/Game/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY
+/Game/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3
+/Game/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX
+/Game/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR
+/Game/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7
+/Game/__ExternalActors__/TestLevel/9/GC/3C5MXIMYXX545HWTCQBNJV
+/Game/__ExternalActors__/TestLevel/E/KT/71JFY98MF5853EV3YUP7NB
+/Game/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X
+/Game/__ExternalActors__/TestLevel/3/DC/UE4WV60ZK7B2J8O2F2BV7O
+/Game/__ExternalActors__/TestLevel/E/RV/M36NNSHXXH6KHW544B8UNM
+/Game/__ExternalActors__/TestLevel/3/UO/99CLIIAW41ZUWNNMUUFDN8
+/Game/__ExternalActors__/TestLevel/D/3A/ALSF0XZ9X5U7AE08D2PZWH
+/Game/__ExternalActors__/TestLevel/2/CN/WRU3N0PN0RIRI6A5BPXR7T
+/Game/__ExternalActors__/TestLevel/0/T7/JX4ZTU1HZZIU9UYWSOQ5Z8
+/Game/__ExternalActors__/TestLevel/5/OI/X21JT9W8D0IRXXY4CL7KNR
+/Game/__ExternalActors__/TestLevel/A/UB/GLEOU5SHRS9C5XLE8CJEDW
+/Game/__ExternalActors__/TestLevel/3/6S/JAHWUVP2P8XY1RHF4Z2TT6
+/Game/__ExternalActors__/TestLevel/3/4A/I1N44CBKZ559XULZX54PVN
+/Game/__ExternalActors__/TestLevel/2/10/MA0O1AZKMVC1QGDIWP1K34
+/Game/__ExternalActors__/TestLevel/2/4N/6AAXL25C7LNLX38I09PC7X
+/Game/__ExternalActors__/TestLevel/2/KL/PJAMNJQ4URLDUOFYHGIBYO
+/Game/__ExternalActors__/TestLevel/A/8K/OT1TW5ORG18DJ2FET60ZUR
+/Game/__ExternalActors__/TestLevel/6/W8/VFUGCX4OPFIKQUIW2I8FJL
+/Game/__ExternalActors__/TestLevel/C/VK/PH6X6HZ956AXUCM9FMN2HA
+/Game/__ExternalActors__/TestLevel/6/6Q/EGFAX7RC23WMGLKDK6868G
+/Game/__ExternalActors__/TestLevel/3/RN/V6GWAID3QWF2DN0VRNVA5C
+/Game/__ExternalActors__/TestLevel/E/YB/QXKDPEONO1UKNALF0UBIXY
+/Game/__ExternalActors__/TestLevel/2/R7/DPQ1X6MOVQURN1KH0ZZS7W
+[2022.11.29-21.32.00:852][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Users/andre/source/repos/testRepo/Test/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.29-21.32.00:872][845]LogWorldPartition: Warning: Actor /Game/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_00D8616FEB98564E01_1311788666 is unreachable without properly detaching object /Temp/__ExternalActors__/Untitled_1/C/A2/UKCEMUACT8E1Q3YFUPUVA2.PackageMetaData in its package
+[2022.11.29-21.32.00:874][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.29-21.32.00:878][845]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2022.11.29-21.32.00:878][845]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/Test/Saved/TestLevelAA56520D45352E88B794D590E06C4BAC.tmp' to '../../../../../../Users/andre/source/repos/testRepo/Test/Content/TestLevel.umap'
+[2022.11.29-21.32.00:935][845]LogFileHelpers: Saving map 'TestLevel' took 7.576
+[2022.11.29-21.32.00:952][845]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating WorldDataLayers /Game/TestLevel.TestLevel:PersistentLevel.WorldDataLayers
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/TestLevel.TestLevel:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating DirectionalLight /Game/TestLevel.TestLevel:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating StaticMeshActor /Game/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating SkyAtmosphere /Game/TestLevel.TestLevel:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating SkyLight /Game/TestLevel.TestLevel:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating ExponentialHeightFog /Game/TestLevel.TestLevel:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating VolumetricCloud /Game/TestLevel.TestLevel:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating Landscape /Game/TestLevel.TestLevel:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2022.11.29-21.32.00:952][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2022.11.29-21.32.00:953][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating HLODLayer /Game/TestLevel_HLOD0_Instancing.TestLevel_HLOD0_Instancing
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating SplineMeshActor /Game/TestLevel.TestLevel:PersistentLevel.SplineMeshActor_UAID_00D8616FEB98554E01_2023338489
+[2022.11.29-21.32.00:954][845]LogContentValidation: Display: Validating StaticMeshActor /Game/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_00D8616FEB98554E01_1937329488
+[2022.11.29-21.32.01:290][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.29-21.32.10:754][306]LogEditor: Attempting to add actor of class 'CableActor' to level at 122.34,778.37,-0.00
+[2022.11.29-21.32.11:602][360]LogEditor: Attempting to add actor of class 'CableActor' to level at 477.04,522.30,-0.00
+[2022.11.29-21.32.13:903][463]Cmd: TRANSACTION UNDO
+[2022.11.29-21.32.13:903][463]LogEditorTransaction: Undo Create Actors
