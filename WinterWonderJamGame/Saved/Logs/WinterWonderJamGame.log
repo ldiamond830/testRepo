@@ -2117,3 +2117,518 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.26-19.29.23:788][786]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMapE3E8B63F4FB9C0B01920B98589217506.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
 [2022.12.26-19.29.23:822][786]AssetCheck: New page: Asset Save: GameMap
 [2022.12.26-19.29.23:823][786]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-19.31.11:004][800]LogMaterial: Display: Missing cached shadermap for M_FoliageTrees_V02 in PCD3D_SM5, Default, SM5 (DDC key hash: E4CE3D99F497FB7176A068210F2BF75E573CB588), compiling. 
+[2022.12.26-19.31.11:099][800]LogMaterial: Display: Missing cached shadermap for MI_TreeBark_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CD78796E7F9387639D7E49186B285C76E25C8D7), compiling. 
+[2022.12.26-19.31.11:235][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_02.SM_Pine_02
+[2022.12.26-19.31.11:235][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_02.SM_Pine_02
+[2022.12.26-19.31.11:236][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_02.SM_Pine_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_74
+[2022.12.26-19.31.12:149][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_02.SM_Pine_02
+[2022.12.26-19.31.12:149][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_02.SM_Pine_02
+[2022.12.26-19.31.12:149][883]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_02.SM_Pine_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_75
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: Total job queries 796, among them cache hits 46 (5.78%)
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: Tracking 470 distinct input hashes that result in 344 distinct outputs (73.19%)
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: RAM used: 1.07 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: Shaders Compiled: 659
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: Jobs assigned 481, completed 470 (97.71%)
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: Average time worker was idle: 29.04 s
+[2022.12.26-19.31.19:257][564]LogShaderCompilers: Display: Time job spent in pending queue: average 9.13 s, longest 37.01 s
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Job execution time: average 6.41 s, max 16.73 s
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Job life time (pending + execution): average 15.73 s, max 39.43
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 216.38 s
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Jobs were issued in 173 batches (only local compilation was used), average 2.78 jobs/batch
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Average processing rate: 2.17 jobs/sec
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   17 times, average 1.30 sec, max 2.34 sec, min 0.40 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   16 times, average 1.16 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   16 times, average 1.04 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   16 times, average 1.04 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   17 times, average 1.02 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.68% of total time (compiled   17 times, average 1.30 sec, max 2.34 sec, min 0.40 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 4.77% of total time (compiled   16 times, average 1.16 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.45% of total time (compiled   17 times, average 1.02 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.30% of total time (compiled   16 times, average 1.04 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 4.28% of total time (compiled   16 times, average 1.04 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.31.19:258][564]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.31.34:987][262]Cmd: TRANSACTION UNDO
+[2022.12.26-19.31.34:987][262]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.31.37:293][451]Cmd: TRANSACTION UNDO
+[2022.12.26-19.31.37:293][451]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.32.02:087][ 61]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_01.SM_Pine_01
+[2022.12.26-19.32.02:087][ 61]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_01.SM_Pine_01
+[2022.12.26-19.32.02:087][ 61]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_01.SM_Pine_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_76
+[2022.12.26-19.32.02:868][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_01.SM_Pine_01
+[2022.12.26-19.32.02:868][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_01.SM_Pine_01
+[2022.12.26-19.32.02:869][136]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_01.SM_Pine_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_77
+[2022.12.26-19.32.03:020][146]LogMeshUtilities: Finished distance field build in 1.1s - 49x49x126 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 81% occupied, 4489 triangles, SM_Pine_01
+[2022.12.26-19.32.34:959][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_04.SM_Pine_04
+[2022.12.26-19.32.34:959][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_04.SM_Pine_04
+[2022.12.26-19.32.34:959][664]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_04.SM_Pine_04 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_78
+[2022.12.26-19.32.36:264][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_04.SM_Pine_04
+[2022.12.26-19.32.36:264][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_04.SM_Pine_04
+[2022.12.26-19.32.36:264][799]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Trees/SM_Pine_04.SM_Pine_04 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_79
+[2022.12.26-19.32.38:842][ 95]LogMeshUtilities: Finished distance field build in 4.2s - 105x105x126 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 76% occupied, 3835 triangles, SM_Pine_04
+[2022.12.26-19.33.27:856][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.33.27:856][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.33.27:856][233]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_80
+[2022.12.26-19.33.28:545][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.33.28:545][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.33.28:545][300]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_81
+[2022.12.26-19.33.43:597][ 30]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesWithLeaves_01.SM_BushesWithLeaves_01
+[2022.12.26-19.33.43:597][ 30]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesWithLeaves_01.SM_BushesWithLeaves_01
+[2022.12.26-19.33.43:597][ 30]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesWithLeaves_01.SM_BushesWithLeaves_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_82
+[2022.12.26-19.33.45:416][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesWithLeaves_01.SM_BushesWithLeaves_01
+[2022.12.26-19.33.45:416][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesWithLeaves_01.SM_BushesWithLeaves_01
+[2022.12.26-19.33.45:416][219]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesWithLeaves_01.SM_BushesWithLeaves_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_83
+[2022.12.26-19.35.23:964][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.26-19.35.23:974][937]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-19.35.23:986][937]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMapBCB12EDF43748696BFCD169C958FDD22.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-19.35.24:000][937]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-19.35.24:000][937]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-19.35.33:245][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_02.SM_Bush_02
+[2022.12.26-19.35.33:245][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_02.SM_Bush_02
+[2022.12.26-19.35.33:245][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_02.SM_Bush_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_84
+[2022.12.26-19.35.33:799][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_02.SM_Bush_02
+[2022.12.26-19.35.33:799][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_02.SM_Bush_02
+[2022.12.26-19.35.33:800][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_02.SM_Bush_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_85
+[2022.12.26-19.35.41:863][ 22]Cmd: TRANSACTION UNDO
+[2022.12.26-19.35.41:863][ 22]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.35.48:467][758]Cmd: TRANSACTION UNDO
+[2022.12.26-19.35.48:467][758]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.35.50:682][980]Cmd: DELETE
+[2022.12.26-19.35.50:682][980]Cmd: ACTOR DELETE
+[2022.12.26-19.35.50:683][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.35.50:690][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.26-19.35.50:692][980]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.26-19.36.32:458][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.36.32:458][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.36.32:458][857]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_86
+[2022.12.26-19.36.32:824][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.36.32:824][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.36.32:825][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_87
+[2022.12.26-19.36.44:928][326]Cmd: TRANSACTION UNDO
+[2022.12.26-19.36.44:928][326]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.37.06:177][728]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesClumps_02.SM_BushesClumps_02
+[2022.12.26-19.37.06:177][728]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesClumps_02.SM_BushesClumps_02
+[2022.12.26-19.37.06:177][728]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesClumps_02.SM_BushesClumps_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_88
+[2022.12.26-19.37.10:033][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesClumps_02.SM_BushesClumps_02
+[2022.12.26-19.37.10:033][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesClumps_02.SM_BushesClumps_02
+[2022.12.26-19.37.10:034][134]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushesClumps_02.SM_BushesClumps_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_89
+[2022.12.26-19.38.04:266][467]Cmd: DUPLICATE
+[2022.12.26-19.38.04:266][467]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.38.20:292][358]Cmd: DUPLICATE
+[2022.12.26-19.38.20:292][358]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.38.29:405][421]Cmd: DUPLICATE
+[2022.12.26-19.38.29:405][421]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.38.45:316][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.38.45:316][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.38.45:317][266]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_93
+[2022.12.26-19.38.46:680][411]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.38.46:680][411]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01
+[2022.12.26-19.38.46:681][411]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_BushClump_01.SM_BushClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_94
+[2022.12.26-19.38.57:554][662]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.189 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.26-19.39.05:713][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_03.SM_Bush_03
+[2022.12.26-19.39.05:713][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_03.SM_Bush_03
+[2022.12.26-19.39.05:714][618]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_95
+[2022.12.26-19.39.06:427][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_03.SM_Bush_03
+[2022.12.26-19.39.06:427][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_03.SM_Bush_03
+[2022.12.26-19.39.06:428][690]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Bush/SM_Bush_03.SM_Bush_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_96
+[2022.12.26-19.39.13:467][505]Cmd: TRANSACTION UNDO
+[2022.12.26-19.39.13:467][505]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.39.14:119][540]Cmd: TRANSACTION UNDO
+[2022.12.26-19.39.14:119][540]LogEditorTransaction: Undo Create Actors
+[2022.12.26-19.39.19:908][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.39.19:908][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.39.19:909][178]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_97
+[2022.12.26-19.39.22:402][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.39.22:402][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.39.22:403][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_98
+[2022.12.26-19.39.30:113][349]Cmd: DUPLICATE
+[2022.12.26-19.39.30:114][349]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.39.43:175][887]Cmd: DUPLICATE
+[2022.12.26-19.39.43:175][887]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.39.57:576][577]Cmd: DUPLICATE
+[2022.12.26-19.39.57:576][577]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.40.23:451][631]Cmd: DUPLICATE
+[2022.12.26-19.40.23:451][631]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.40.48:893][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_Grass_01.SM_Grass_01
+[2022.12.26-19.40.48:893][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_Grass_01.SM_Grass_01
+[2022.12.26-19.40.48:893][522]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_Grass_01.SM_Grass_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_104
+[2022.12.26-19.40.52:845][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_Grass_01.SM_Grass_01
+[2022.12.26-19.40.52:845][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_Grass_01.SM_Grass_01
+[2022.12.26-19.40.52:846][973]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_Grass_01.SM_Grass_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_105
+[2022.12.26-19.40.54:815][200]Cmd: DUPLICATE
+[2022.12.26-19.40.54:815][200]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.40.57:683][535]Cmd: DUPLICATE
+[2022.12.26-19.40.57:683][535]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.41.00:285][838]Cmd: DUPLICATE
+[2022.12.26-19.41.00:285][838]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.41.17:254][833]Cmd: DUPLICATE
+[2022.12.26-19.41.17:254][833]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.41.37:492][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.41.37:492][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.41.37:492][187]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_113
+[2022.12.26-19.41.38:780][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.41.38:780][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.41.38:780][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_114
+[2022.12.26-19.41.43:806][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.41.43:806][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.41.43:806][876]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_115
+[2022.12.26-19.41.44:514][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.41.44:514][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.41.44:514][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_116
+[2022.12.26-19.41.45:590][ 71]Cmd: TRANSACTION UNDO
+[2022.12.26-19.41.45:590][ 71]LogEditorTransaction: Undo Create Actors
+[2022.12.26-19.41.48:599][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.41.48:599][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.41.48:599][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_117
+[2022.12.26-19.41.49:225][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.41.49:225][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.41.49:226][387]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_118
+[2022.12.26-19.42.22:596][316]LogMaterial: Display: Missing cached shadermap for MI_Branch_01 in PCD3D_SM5, Default, SM5 (DDC key hash: E6E4E0DBC972FFE707285BA6CCA7564802B0FABF), compiling. 
+[2022.12.26-19.42.22:746][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_02.SM_MediumBranch_02
+[2022.12.26-19.42.22:746][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_02.SM_MediumBranch_02
+[2022.12.26-19.42.22:746][317]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_02.SM_MediumBranch_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_119
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Total job queries 888, among them cache hits 46 (5.18%)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Tracking 645 distinct input hashes that result in 406 distinct outputs (62.95%)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: RAM used: 1.27 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Shaders Compiled: 751
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Jobs assigned 647, completed 645 (99.69%)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Average time worker was idle: 31.61 s
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Time job spent in pending queue: average 15.97 s, longest 71.95 s
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Job execution time: average 6.68 s, max 16.73 s
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Job life time (pending + execution): average 22.70 s, max 72.75
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 281.57 s
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Jobs were issued in 197 batches (only local compilation was used), average 3.28 jobs/batch
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Average processing rate: 2.29 jobs/sec
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Effective parallelization: 1.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   20 times, average 1.45 sec, max 2.49 sec, min 0.40 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   20 times, average 1.13 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   20 times, average 1.07 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   20 times, average 1.02 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   20 times, average 1.01 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.69% of total time (compiled   20 times, average 1.45 sec, max 2.49 sec, min 0.40 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 4.43% of total time (compiled   20 times, average 1.13 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.19% of total time (compiled   20 times, average 1.07 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 3.99% of total time (compiled   20 times, average 1.02 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 3.96% of total time (compiled   20 times, average 1.01 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.42.23:287][370]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.42.23:648][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_02.SM_MediumBranch_02
+[2022.12.26-19.42.23:648][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_02.SM_MediumBranch_02
+[2022.12.26-19.42.23:649][404]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_02.SM_MediumBranch_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_120
+[2022.12.26-19.42.35:582][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_SmallBranch_01.SM_SmallBranch_01
+[2022.12.26-19.42.35:582][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_SmallBranch_01.SM_SmallBranch_01
+[2022.12.26-19.42.35:582][594]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_SmallBranch_01.SM_SmallBranch_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_121
+[2022.12.26-19.42.36:223][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_SmallBranch_01.SM_SmallBranch_01
+[2022.12.26-19.42.36:223][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_SmallBranch_01.SM_SmallBranch_01
+[2022.12.26-19.42.36:224][646]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_SmallBranch_01.SM_SmallBranch_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_122
+[2022.12.26-19.42.48:670][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_01.SM_BigBranch_01
+[2022.12.26-19.42.48:670][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_01.SM_BigBranch_01
+[2022.12.26-19.42.48:670][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_01.SM_BigBranch_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_123
+[2022.12.26-19.42.49:497][ 99]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_01.SM_BigBranch_01
+[2022.12.26-19.42.49:497][ 99]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_01.SM_BigBranch_01
+[2022.12.26-19.42.49:498][ 99]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_01.SM_BigBranch_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_124
+[2022.12.26-19.42.58:124][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_03.SM_MediumBranch_03
+[2022.12.26-19.42.58:124][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_03.SM_MediumBranch_03
+[2022.12.26-19.42.58:125][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_03.SM_MediumBranch_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_125
+[2022.12.26-19.42.58:732][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_03.SM_MediumBranch_03
+[2022.12.26-19.42.58:732][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_03.SM_MediumBranch_03
+[2022.12.26-19.42.58:733][ 85]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_MediumBranch_03.SM_MediumBranch_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_126
+[2022.12.26-19.43.07:294][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_03.SM_BigBranch_03
+[2022.12.26-19.43.07:294][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_03.SM_BigBranch_03
+[2022.12.26-19.43.07:294][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_03.SM_BigBranch_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_127
+[2022.12.26-19.43.07:900][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_03.SM_BigBranch_03
+[2022.12.26-19.43.07:900][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_03.SM_BigBranch_03
+[2022.12.26-19.43.07:900][129]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Branches/SM_BigBranch_03.SM_BigBranch_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_128
+[2022.12.26-19.43.26:578][329]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-19.43.26:583][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-19.43.26:583][329]PIE: New page: PIE session: GameMap (Dec 26, 2022, 9:43:26 AM)
+[2022.12.26-19.43.26:611][329]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.43.26:616][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004667s)
+[2022.12.26-19.43.26:616][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/GameMap.GameMap to /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap (0.004752s)
+[2022.12.26-19.43.26:616][329]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.26-19.43.26:616][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-19.43.26:616][329]LogAIModule: Creating AISystem for world GameMap
+[2022.12.26-19.43.26:616][329]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2022.12.26-19.43.26:623][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.26-19.43.26:625][329]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-19.43.26:625][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-19.43.26:625][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-19.43.26:626][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-19.43.26:626][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-19.43.26:626][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-19.43.26:627][329]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-19.43.26:645][329]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.12.26-19.43.26:646][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-19.43.26:646][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-19.43.26:646][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-19.43.26:647][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.12.26-19.43.26:647][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.12.26-19.43.26:648][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.12.26-19.43.26:648][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.12.26-19.43.26:648][329]LogInit: FAudioDevice initialized.
+[2022.12.26-19.43.26:648][329]LogAudio: Display: Audio Device (ID: 17) registered with world 'GameMap'.
+[2022.12.26-19.43.26:662][329]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-19.43.26:665][329]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.12.26-14.43.26
+[2022.12.26-19.43.26:665][329]LogWorld: Bringing up level for play took: 0.003133
+[2022.12.26-19.43.26:667][329]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.12.26-19.43.26:669][329]PIE: Server logged in
+[2022.12.26-19.43.26:669][329]PIE: Play in editor total start time 0.087 seconds.
+[2022.12.26-19.44.26:741][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.44.26:741][525]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.44.26:741][525]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-19.44.26:742][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.44.26:752][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-19.44.26:754][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.44.26:760][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-19.44.26:760][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.12.26-19.44.26:761][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.12.26-19.44.26:764][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.44.26:766][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.26-19.44.26:834][527]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.26-19.44.38:743][876]Cmd: DUPLICATE
+[2022.12.26-19.44.38:743][876]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.44.43:688][449]Cmd: TRANSACTION UNDO
+[2022.12.26-19.44.43:688][449]LogEditorTransaction: Undo Duplicate Elements
+[2022.12.26-19.44.44:455][496]Cmd: TRANSACTION UNDO
+[2022.12.26-19.44.44:455][496]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.26-19.44.52:953][477]Cmd: DUPLICATE
+[2022.12.26-19.44.52:953][477]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.45.29:230][718]Cmd: DUPLICATE
+[2022.12.26-19.45.29:231][718]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.45.43:349][374]Cmd: DUPLICATE
+[2022.12.26-19.45.43:349][374]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.46.01:219][479]Cmd: DUPLICATE
+[2022.12.26-19.46.01:219][479]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.47.13:953][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.26-19.47.13:967][  9]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/GameMap_Auto2
+[2022.12.26-19.47.13:967][  9]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap_Auto22E0B817F44AB4D74426964BE20693708.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/Autosaves/Game/FirstPerson/Maps/GameMap_Auto2.umap'
+[2022.12.26-19.47.13:972][  9]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/GameMap' took 0.026
+[2022.12.26-19.47.13:972][  9]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.12.26-19.47.31:703][ 88]Cmd: DUPLICATE
+[2022.12.26-19.47.31:703][ 88]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.47.49:589][188]Cmd: DUPLICATE
+[2022.12.26-19.47.49:589][188]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.48.05:686][ 78]Cmd: DUPLICATE
+[2022.12.26-19.48.05:686][ 78]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.48.28:036][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-19.48.28:041][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-19.48.28:041][326]PIE: New page: PIE session: GameMap (Dec 26, 2022, 9:48:28 AM)
+[2022.12.26-19.48.28:072][326]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.48.28:078][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005925s)
+[2022.12.26-19.48.28:078][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/GameMap.GameMap to /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap (0.006007s)
+[2022.12.26-19.48.28:078][326]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.26-19.48.28:078][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-19.48.28:078][326]LogAIModule: Creating AISystem for world GameMap
+[2022.12.26-19.48.28:078][326]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2022.12.26-19.48.28:085][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.26-19.48.28:086][326]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-19.48.28:087][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-19.48.28:087][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-19.48.28:087][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-19.48.28:087][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-19.48.28:087][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-19.48.28:089][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-19.48.28:106][326]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.12.26-19.48.28:106][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-19.48.28:106][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-19.48.28:106][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-19.48.28:107][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.12.26-19.48.28:107][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.12.26-19.48.28:108][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.12.26-19.48.28:108][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.12.26-19.48.28:108][326]LogInit: FAudioDevice initialized.
+[2022.12.26-19.48.28:108][326]LogAudio: Display: Audio Device (ID: 18) registered with world 'GameMap'.
+[2022.12.26-19.48.28:118][326]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-19.48.28:121][326]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.12.26-14.48.28
+[2022.12.26-19.48.28:122][326]LogWorld: Bringing up level for play took: 0.003545
+[2022.12.26-19.48.28:123][326]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.12.26-19.48.28:125][326]PIE: Server logged in
+[2022.12.26-19.48.28:126][326]PIE: Play in editor total start time 0.084 seconds.
+[2022.12.26-19.49.18:622][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.49.18:622][374]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.49.18:622][374]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-19.49.18:623][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.49.18:632][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-19.49.18:633][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.49.18:640][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-19.49.18:640][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.12.26-19.49.18:641][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.12.26-19.49.18:644][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.49.18:646][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.26-19.49.18:715][376]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.12.26-19.49.23:333][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.49.23:333][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.49.23:333][891]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_162
+[2022.12.26-19.49.23:885][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.49.23:885][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.49.23:886][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_163
+[2022.12.26-19.49.58:198][957]Cmd: TRANSACTION UNDO
+[2022.12.26-19.49.58:198][957]LogEditorTransaction: Undo Clicking on Elements
+[2022.12.26-19.49.58:684][973]Cmd: TRANSACTION UNDO
+[2022.12.26-19.49.58:684][973]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.50.02:846][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.50.02:846][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.50.02:846][447]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_164
+[2022.12.26-19.50.03:496][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.50.03:496][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.50.03:497][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_165
+[2022.12.26-19.50.19:363][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.50.19:363][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.50.19:363][357]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_166
+[2022.12.26-19.50.20:009][421]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.50.20:009][421]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03
+[2022.12.26-19.50.20:009][421]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_03.SM_GrassClump_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_167
+[2022.12.26-19.50.23:682][848]Cmd: TRANSACTION UNDO
+[2022.12.26-19.50.23:682][848]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.50.26:383][101]Cmd: TRANSACTION UNDO
+[2022.12.26-19.50.26:383][101]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.50.28:133][308]Cmd: DELETE
+[2022.12.26-19.50.28:133][308]Cmd: ACTOR DELETE
+[2022.12.26-19.50.28:136][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.50.28:143][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.26-19.50.28:145][308]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.26-19.50.29:931][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_04.SM_GrassClump_04
+[2022.12.26-19.50.29:932][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_04.SM_GrassClump_04
+[2022.12.26-19.50.29:932][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_04.SM_GrassClump_04 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_168
+[2022.12.26-19.50.30:555][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_04.SM_GrassClump_04
+[2022.12.26-19.50.30:555][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_04.SM_GrassClump_04
+[2022.12.26-19.50.30:556][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_04.SM_GrassClump_04 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_169
+[2022.12.26-19.50.35:687][169]Cmd: TRANSACTION UNDO
+[2022.12.26-19.50.35:687][169]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.50.36:484][221]Cmd: TRANSACTION UNDO
+[2022.12.26-19.50.36:485][221]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.50.38:178][422]Cmd: DELETE
+[2022.12.26-19.50.38:178][422]Cmd: ACTOR DELETE
+[2022.12.26-19.50.38:180][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.50.38:188][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.26-19.50.38:190][422]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.12.26-19.50.39:351][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.50.39:351][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.50.39:352][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_170
+[2022.12.26-19.50.40:017][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.50.40:017][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05
+[2022.12.26-19.50.40:018][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_05.SM_GrassClump_05 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_171
+[2022.12.26-19.50.46:124][314]Cmd: TRANSACTION UNDO
+[2022.12.26-19.50.46:125][314]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.50.47:648][454]Cmd: DELETE
+[2022.12.26-19.50.47:648][454]Cmd: ACTOR DELETE
+[2022.12.26-19.50.47:650][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.50.47:656][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.26-19.50.47:658][454]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.26-19.51.26:605][980]Cmd: DELETE
+[2022.12.26-19.51.26:605][980]Cmd: ACTOR DELETE
+[2022.12.26-19.51.26:607][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:607][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:608][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:608][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:608][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:608][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:608][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.26:614][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.26-19.51.26:616][980]LogEditorActor: Deleted 7 Actors (0.011 secs)
+[2022.12.26-19.51.29:337][298]Cmd: DELETE
+[2022.12.26-19.51.29:337][298]Cmd: ACTOR DELETE
+[2022.12.26-19.51.29:339][298]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.51.29:346][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.26-19.51.29:348][298]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.26-19.51.39:687][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.51.39:687][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.51.39:687][448]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_172
+[2022.12.26-19.51.42:030][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.51.42:030][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.51.42:030][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_173
+[2022.12.26-19.51.57:099][429]Cmd: TRANSACTION UNDO
+[2022.12.26-19.51.57:099][429]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.52.09:685][847]Cmd: DUPLICATE
+[2022.12.26-19.52.09:685][847]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.52.25:945][753]Cmd: DUPLICATE
+[2022.12.26-19.52.25:945][753]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.52.57:531][406]Cmd: TRANSACTION UNDO
+[2022.12.26-19.52.57:531][406]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.52.58:236][445]Cmd: TRANSACTION UNDO
+[2022.12.26-19.52.58:236][445]LogEditorTransaction: Undo Clicking on Elements
+[2022.12.26-19.53.06:090][340]Cmd: TRANSACTION UNDO
+[2022.12.26-19.53.06:090][340]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.26-19.53.10:821][841]Cmd: DUPLICATE
+[2022.12.26-19.53.10:821][841]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.53.19:452][858]Cmd: DUPLICATE
+[2022.12.26-19.53.19:452][858]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.53.25:388][553]Cmd: DUPLICATE
+[2022.12.26-19.53.25:388][553]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.53.38:823][133]Cmd: DUPLICATE
+[2022.12.26-19.53.38:823][133]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.54.20:551][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.26-19.54.20:569][103]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-19.54.20:570][103]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMapD87EFEA046AA043F73CFA9858DC99F0B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-19.54.20:589][103]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-19.54.20:589][103]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-19.54.38:071][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.54.38:071][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.54.38:071][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_194
+[2022.12.26-19.54.38:814][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.54.38:814][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01
+[2022.12.26-19.54.38:815][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_01.SM_GrassClump_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_195
+[2022.12.26-19.55.07:304][559]Cmd: DUPLICATE
+[2022.12.26-19.55.07:304][559]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.56.32:279][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/DriedLeaves/SM_DriedLeaves_01.SM_DriedLeaves_01
+[2022.12.26-19.56.32:280][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/DriedLeaves/SM_DriedLeaves_01.SM_DriedLeaves_01
+[2022.12.26-19.56.32:280][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/DriedLeaves/SM_DriedLeaves_01.SM_DriedLeaves_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_197
+[2022.12.26-19.56.34:638][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/DriedLeaves/SM_DriedLeaves_01.SM_DriedLeaves_01
+[2022.12.26-19.56.34:639][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/DriedLeaves/SM_DriedLeaves_01.SM_DriedLeaves_01
+[2022.12.26-19.56.34:639][676]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/DriedLeaves/SM_DriedLeaves_01.SM_DriedLeaves_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_198
+[2022.12.26-19.57.09:333][750]Cmd: DUPLICATE
+[2022.12.26-19.57.09:333][750]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.57.19:051][887]Cmd: DUPLICATE
+[2022.12.26-19.57.19:051][887]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.58.09:056][133]Cmd: DUPLICATE
+[2022.12.26-19.58.09:056][133]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.58.24:114][868]Cmd: DUPLICATE
+[2022.12.26-19.58.24:114][868]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.59.17:855][163]Cmd: DUPLICATE
+[2022.12.26-19.59.17:855][163]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.59.53:042][323]Cmd: DUPLICATE
+[2022.12.26-19.59.53:042][323]Cmd: ACTOR DUPLICATE
+[2022.12.26-20.00.02:841][480]Cmd: DUPLICATE
+[2022.12.26-20.00.02:841][480]Cmd: ACTOR DUPLICATE
+[2022.12.26-20.00.22:236][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.26-20.00.22:255][768]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-20.00.22:256][768]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap5B1EEF6E480B74DC6680ADAE722C3943.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-20.00.22:271][768]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-20.00.22:271][768]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-20.10.22:380][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.26-20.10.22:400][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/GameMap_Auto3
+[2022.12.26-20.10.22:400][ 47]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap_Auto37ADC497F477CD480075AA0BA49B6424B.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/Autosaves/Game/FirstPerson/Maps/GameMap_Auto3.umap'
+[2022.12.26-20.10.22:406][ 47]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/GameMap' took 0.033
+[2022.12.26-20.10.22:406][ 47]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2022.12.26-20.10.29:754][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.26-20.10.29:772][ 69]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-20.10.29:773][ 69]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap96F5EFDD4FCC4E9AC03FDEAD17850302.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-20.10.29:787][ 69]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-20.10.29:787][ 69]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-20.18.14:637][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.26-20.18.14:657][721]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-20.18.14:658][721]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMapCEE473CE41795B5AD658F9AD9B9C8347.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-20.18.14:672][721]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-20.18.14:672][721]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
