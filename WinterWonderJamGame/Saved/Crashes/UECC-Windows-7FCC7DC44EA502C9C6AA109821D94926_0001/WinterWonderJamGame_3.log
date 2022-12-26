@@ -890,23 +890,3 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.26-17.56.59:732][559]LogStaticMesh: Display: Building static mesh SM_TempleFloor_01...
 [2022.12.26-17.56.59:940][559]LogStaticMesh: Built static mesh [0.06s] /Game/GothicTemple/Environment/Props/GothicTemple/SM_GothicBrokenBlock_01.SM_GothicBrokenBlock_01
 [2022.12.26-17.56.59:940][559]LogStaticMesh: Built static mesh [0.01s] /Game/GothicTemple/Environment/Props/OldTemple/Floor/SM_TempleFloor_01.SM_TempleFloor_01
-[2022.12.26-17.57.02:306][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
-[2022.12.26-17.57.02:306][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049980s
-[2022.12.26-17.58.02:008][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.002994s (59.752683s overbudget)
-[2022.12.26-17.58.04:197][559]LogMeshUtilities: Finished distance field build in 1.2s - 14x56x126 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 82% occupied, 418 triangles, SM_GothicArc_05
-[2022.12.26-17.58.04:197][559]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 373 triangles, SM_TempleFloor_01
-[2022.12.26-17.58.04:197][559]LogMeshUtilities: Finished distance field build in 1.8s - 126x98x91 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 29% occupied, 373 triangles, SM_Backdrop_01
-[2022.12.26-17.58.04:235][559]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
-[2022.12.26-17.58.04:235][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.12.26-17.58.04:264][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
-[2022.12.26-17.58.04:290][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
-[2022.12.26-17.58.04:293][559]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameMap'.
-[2022.12.26-17.58.04:293][559]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
-[2022.12.26-17.58.04:293][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2022.12.26-17.58.04:294][559]LogAIModule: Creating AISystem for world GameMap
-[2022.12.26-17.58.04:367][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2022.12.26-17.58.04:406][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
-[2022.12.26-17.58.04:413][559]Cmd: MAP CHECKDEP NOCLEARLOG
-[2022.12.26-17.58.04:413][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
-[2022.12.26-17.58.04:413][559]LogFileHelpers: Loading map 'GameMap' took 77.420
-[2022.12.26-17.58.04:418][559]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001165s (68.847390s overbudget)
