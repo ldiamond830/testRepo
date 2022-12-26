@@ -1665,3 +1665,455 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.26-19.01.38:049][ 50]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap48ECB9BC4B4CBF4A42A28DBCB65BDF57.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
 [2022.12.26-19.01.38:062][ 50]AssetCheck: New page: Asset Save: GameMap
 [2022.12.26-19.01.38:062][ 50]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-19.05.51:331][949]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.12.26-19.05.51:331][949]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.12.26-19.05.58:539][773]LogMaterial: Display: Missing cached shadermap for M_WaterOcean in PCD3D_SM5, Default, SM5 (DDC key hash: F3C9C436334410C7DB9C6390A15FD539F5E203EC), compiling. 
+[2022.12.26-19.06.01:745][109]Cmd: TRANSACTION UNDO
+[2022.12.26-19.06.01:745][109]LogEditorTransaction: Undo Create Actors
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Total job queries 301, among them cache hits 44 (14.62%)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Tracking 228 distinct input hashes that result in 168 distinct outputs (73.68%)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Shaders Compiled: 168
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Jobs assigned 239, completed 228 (95.40%)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Average time worker was idle: 18.12 s
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Time job spent in pending queue: average 8.34 s, longest 30.87 s
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Job execution time: average 5.33 s, max 11.18 s
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Job life time (pending + execution): average 14.03 s, max 32.28
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 107.36 s
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Jobs were issued in 121 batches (only local compilation was used), average 1.98 jobs/batch
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Average processing rate: 2.12 jobs/sec
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 1.29 sec, max 2.13 sec, min 0.40 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.03 sec, max 1.56 sec, min 0.58 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 0.97 sec, max 1.36 sec, min 0.57 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    9 times, average 0.94 sec, max 1.34 sec, min 0.56 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 0.91 sec, max 1.50 sec, min 0.53 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.73% of total time (compiled   10 times, average 1.29 sec, max 2.13 sec, min 0.40 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 4.82% of total time (compiled    9 times, average 1.03 sec, max 1.56 sec, min 0.58 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 4.67% of total time (compiled   10 times, average 0.89 sec, max 1.34 sec, min 0.54 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.67% of total time (compiled   10 times, average 0.89 sec, max 1.30 sec, min 0.52 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.54% of total time (compiled    9 times, average 0.97 sec, max 1.36 sec, min 0.57 sec)
+[2022.12.26-19.06.06:787][550]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.07.01:447][691]LogMaterial: Display: Missing cached shadermap for M_BackgroundMountains in PCD3D_SM5, Default, SM5 (DDC key hash: 90F514768177B18CDB67AA3A526EBAACEBE7814D), compiling. 
+[2022.12.26-19.07.01:477][691]LogMaterial: Display: Missing cached shadermap for MI_Mountain_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 91D66E3009650D20E322DC85AF100FE81D857631), compiling. 
+[2022.12.26-19.07.01:626][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.07.01:626][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.07.01:626][697]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_57
+[2022.12.26-19.07.03:658][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.07.03:658][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.07.03:658][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_58
+[2022.12.26-19.07.04:089][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.07.04:089][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.07.04:089][937]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_59
+[2022.12.26-19.07.12:435][832]LogMeshUtilities: Finished distance field build in 10.9s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 9936 triangles, SM_Mountain_02
+[2022.12.26-19.07.17:242][384]Cmd: TRANSACTION UNDO
+[2022.12.26-19.07.17:243][384]LogEditorTransaction: Undo Create Actors
+[2022.12.26-19.08.06:537][  1]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.08.06:537][  1]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.08.06:538][  1]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_60
+[2022.12.26-19.08.07:500][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.08.07:500][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02
+[2022.12.26-19.08.07:501][103]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_02/SM_Mountain_02.SM_Mountain_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61
+[2022.12.26-19.08.20:280][606]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2022.12.26-19.08.20:347][614]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2022.12.26-19.08.20:949][686]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2022.12.26-19.08.21:548][758]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2022.12.26-19.08.41:855][172]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2022.12.26-19.08.42:021][192]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2022.12.26-19.08.43:933][414]Cmd: MODE GRID=0
+[2022.12.26-19.08.44:648][497]Cmd: MODE ROTGRID=0
+[2022.12.26-19.08.45:156][557]Cmd: MODE SCALEGRID=0
+[2022.12.26-19.09.23:315][ 78]Cmd: TRANSACTION UNDO
+[2022.12.26-19.09.23:315][ 78]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.09.23:790][ 96]Cmd: TRANSACTION UNDO
+[2022.12.26-19.09.23:790][ 96]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.09.24:112][130]Cmd: TRANSACTION UNDO
+[2022.12.26-19.09.24:112][130]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.09.24:527][179]Cmd: TRANSACTION UNDO
+[2022.12.26-19.09.24:527][179]LogEditorTransaction: Undo Clicking on Elements
+[2022.12.26-19.09.26:471][393]Cmd: DELETE
+[2022.12.26-19.09.26:471][393]Cmd: ACTOR DELETE
+[2022.12.26-19.09.26:472][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.09.26:479][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.26-19.09.26:481][393]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.26-19.09.28:941][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_01/SM_Mountain_01.SM_Mountain_01
+[2022.12.26-19.09.28:941][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_01/SM_Mountain_01.SM_Mountain_01
+[2022.12.26-19.09.28:941][664]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_01/SM_Mountain_01.SM_Mountain_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_62
+[2022.12.26-19.09.29:834][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_01/SM_Mountain_01.SM_Mountain_01
+[2022.12.26-19.09.29:834][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Mountain_01/SM_Mountain_01.SM_Mountain_01
+[2022.12.26-19.09.29:835][767]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Mountain_01/SM_Mountain_01.SM_Mountain_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_63
+[2022.12.26-19.09.36:530][534]LogMeshUtilities: Finished distance field build in 7.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 26042 triangles, SM_Mountain_01
+[2022.12.26-19.09.54:226][628]Cmd: DELETE
+[2022.12.26-19.09.54:226][628]Cmd: ACTOR DELETE
+[2022.12.26-19.09.54:227][628]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.09.54:235][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.26-19.09.54:237][628]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.26-19.10.29:452][739]LogMaterial: Display: Missing cached shadermap for M_MasterGrass in PCD3D_SM5, Default, SM5 (DDC key hash: 92F735F39D47951F95143C4B8068C0D1765423B7), compiling. 
+[2022.12.26-19.10.29:582][739]LogMaterial: Display: Missing cached shadermap for MI_GrassClump_01 in PCD3D_SM5, Default, SM5 (DDC key hash: E6CC51C628FBA7DF35C19ACF4F2F1D9576465096), compiling. 
+[2022.12.26-19.10.29:707][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.10.29:707][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.10.29:707][739]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_64
+[2022.12.26-19.10.30:324][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.10.30:324][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02
+[2022.12.26-19.10.30:324][804]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Folliage/Grass/SM_GrassClump_02.SM_GrassClump_02 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_65
+[2022.12.26-19.10.35:986][324]Cmd: TRANSACTION UNDO
+[2022.12.26-19.10.35:986][324]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Total job queries 535, among them cache hits 44 (8.22%)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Tracking 303 distinct input hashes that result in 228 distinct outputs (75.25%)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: RAM used: 0.78 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Shaders Compiled: 402
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Jobs assigned 323, completed 303 (93.81%)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Average time worker was idle: 19.23 s
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Time job spent in pending queue: average 8.37 s, longest 30.87 s
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Job execution time: average 6.32 s, max 16.73 s
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Job life time (pending + execution): average 14.96 s, max 32.28
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 148.92 s
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Jobs were issued in 138 batches (only local compilation was used), average 2.34 jobs/batch
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Effective parallelization: 1.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   13 times, average 1.30 sec, max 2.13 sec, min 0.40 sec)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   12 times, average 1.22 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   12 times, average 1.10 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 1.07 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 1.02 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.10.37:852][473]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.26-19.10.37:853][473]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.23% of total time (compiled   13 times, average 1.30 sec, max 2.13 sec, min 0.40 sec)
+[2022.12.26-19.10.37:853][473]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.42% of total time (compiled   12 times, average 1.22 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.10.37:853][473]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.91% of total time (compiled   13 times, average 1.02 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.10.37:853][473]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 4.86% of total time (compiled   12 times, average 1.10 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.10.37:853][473]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.76% of total time (compiled   13 times, average 0.99 sec, max 2.20 sec, min 0.52 sec)
+[2022.12.26-19.10.37:853][473]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.10.40:212][706]Cmd: TRANSACTION UNDO
+[2022.12.26-19.10.40:212][706]LogEditorTransaction: Undo Create Actors
+[2022.12.26-19.10.42:273][869]LogMaterial: Display: Missing cached shadermap for T_Grass_Atlas_01_BCA_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1DA92B6ECB2E28AFBF53FC51A527412E89A49F42), compiling. 
+[2022.12.26-19.10.44:440][ 66]Cmd: TRANSACTION UNDO
+[2022.12.26-19.10.44:440][ 66]LogEditorTransaction: Undo Create Actors
+[2022.12.26-19.11.09:628][862]Cmd: TRANSACTION UNDO
+[2022.12.26-19.11.09:628][862]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.11.27:558][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.26-19.11.27:558][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.26-19.11.27:558][871]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_66
+[2022.12.26-19.11.27:558][871]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_66
+[2022.12.26-19.11.28:276][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.26-19.11.28:276][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.26-19.11.28:277][946]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_67
+[2022.12.26-19.11.28:277][946]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_67
+[2022.12.26-19.11.57:973][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.26-19.11.57:983][392]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/GameMap_Auto1
+[2022.12.26-19.11.57:983][392]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap_Auto1B1891CA24E9FA31232CDF183BDEDD8B3.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/Autosaves/Game/FirstPerson/Maps/GameMap_Auto1.umap'
+[2022.12.26-19.11.57:987][392]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/GameMap' took 0.022
+[2022.12.26-19.11.57:987][392]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.12.26-19.12.27:614][861]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.26-19.12.47:898][  3]LogMaterial: Display: Missing cached shadermap for M_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: DF6044AF0376C0D6CB4880C0D0C14C28571DA42B), compiling. 
+[2022.12.26-19.13.44:538][897]LogMaterial: Display: Missing cached shadermap for MI_Mountain_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 346E455054617F5AE99F893DAEB7C22E27823F4C), compiling. 
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Total job queries 612, among them cache hits 46 (7.52%)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Tracking 445 distinct input hashes that result in 322 distinct outputs (72.36%)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: RAM used: 1.02 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Shaders Compiled: 475
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Jobs assigned 456, completed 445 (97.59%)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Average time worker was idle: 17.43 s
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Time job spent in pending queue: average 9.54 s, longest 37.01 s
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Job execution time: average 6.38 s, max 16.73 s
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Job life time (pending + execution): average 16.14 s, max 39.43
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 204.99 s
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Jobs were issued in 168 batches (only local compilation was used), average 2.71 jobs/batch
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Average processing rate: 2.17 jobs/sec
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   15 times, average 1.26 sec, max 2.13 sec, min 0.40 sec)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   15 times, average 1.17 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   15 times, average 1.05 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   15 times, average 1.05 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   15 times, average 1.03 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.15% of total time (compiled   15 times, average 1.26 sec, max 2.13 sec, min 0.40 sec)
+[2022.12.26-19.13.52:037][557]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 4.78% of total time (compiled   15 times, average 1.17 sec, max 3.28 sec, min 0.58 sec)
+[2022.12.26-19.13.52:038][557]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 4.30% of total time (compiled   15 times, average 1.05 sec, max 3.35 sec, min 0.51 sec)
+[2022.12.26-19.13.52:038][557]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.29% of total time (compiled   15 times, average 1.05 sec, max 2.77 sec, min 0.56 sec)
+[2022.12.26-19.13.52:038][557]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.20% of total time (compiled   15 times, average 1.03 sec, max 1.72 sec, min 0.56 sec)
+[2022.12.26-19.13.52:038][557]LogShaderCompilers: Display: ================================================
+[2022.12.26-19.13.55:100][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-19.13.55:105][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-19.13.55:105][880]PIE: New page: PIE session: GameMap (Dec 26, 2022, 9:13:55 AM)
+[2022.12.26-19.13.55:128][880]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.13.55:131][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003077s)
+[2022.12.26-19.13.55:131][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/GameMap.GameMap to /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap (0.003170s)
+[2022.12.26-19.13.55:131][880]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.26-19.13.55:131][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-19.13.55:132][880]LogAIModule: Creating AISystem for world GameMap
+[2022.12.26-19.13.55:132][880]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.12.26-19.13.55:140][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.26-19.13.55:142][880]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-19.13.55:142][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-19.13.55:142][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-19.13.55:143][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-19.13.55:143][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-19.13.55:143][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-19.13.55:144][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-19.13.55:165][880]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.12.26-19.13.55:165][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-19.13.55:165][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-19.13.55:165][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-19.13.55:166][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.12.26-19.13.55:166][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.12.26-19.13.55:167][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.12.26-19.13.55:167][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.12.26-19.13.55:168][880]LogInit: FAudioDevice initialized.
+[2022.12.26-19.13.55:168][880]LogAudio: Display: Audio Device (ID: 13) registered with world 'GameMap'.
+[2022.12.26-19.13.55:180][880]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-19.13.55:182][880]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.12.26-14.13.55
+[2022.12.26-19.13.55:182][880]LogWorld: Bringing up level for play took: 0.002184
+[2022.12.26-19.13.55:184][880]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.12.26-19.13.55:186][880]PIE: Server logged in
+[2022.12.26-19.13.55:187][880]PIE: Play in editor total start time 0.081 seconds.
+[2022.12.26-19.14.11:798][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.14.11:798][856]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.14.11:798][856]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-19.14.11:799][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.14.11:812][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-19.14.11:814][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.14.11:819][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-19.14.11:819][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.26-19.14.11:821][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.26-19.14.11:823][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.14.11:825][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.26-19.14.11:893][858]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.12.26-19.14.41:580][306]Cmd: TRANSACTION UNDO
+[2022.12.26-19.14.41:580][306]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.14.44:168][571]Cmd: TRANSACTION UNDO
+[2022.12.26-19.14.44:168][571]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.15.57:995][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-19.15.58:000][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-19.15.58:000][269]PIE: New page: PIE session: GameMap (Dec 26, 2022, 9:15:58 AM)
+[2022.12.26-19.15.58:028][269]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.15.58:031][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2022.12.26-19.15.58:031][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/GameMap.GameMap to /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap (0.003176s)
+[2022.12.26-19.15.58:031][269]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.26-19.15.58:031][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-19.15.58:032][269]LogAIModule: Creating AISystem for world GameMap
+[2022.12.26-19.15.58:032][269]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2022.12.26-19.15.58:038][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.26-19.15.58:040][269]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-19.15.58:040][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-19.15.58:040][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-19.15.58:040][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-19.15.58:040][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-19.15.58:040][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-19.15.58:042][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-19.15.58:060][269]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.12.26-19.15.58:060][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-19.15.58:060][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-19.15.58:060][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-19.15.58:061][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.12.26-19.15.58:061][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.12.26-19.15.58:062][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.12.26-19.15.58:062][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.12.26-19.15.58:062][269]LogInit: FAudioDevice initialized.
+[2022.12.26-19.15.58:062][269]LogAudio: Display: Audio Device (ID: 14) registered with world 'GameMap'.
+[2022.12.26-19.15.58:071][269]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-19.15.58:072][269]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.12.26-14.15.58
+[2022.12.26-19.15.58:073][269]LogWorld: Bringing up level for play took: 0.002162
+[2022.12.26-19.15.58:074][269]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.12.26-19.15.58:076][269]PIE: Server logged in
+[2022.12.26-19.15.58:077][269]PIE: Play in editor total start time 0.077 seconds.
+[2022.12.26-19.16.16:179][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.16.16:179][428]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.16.16:179][428]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-19.16.16:179][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.16.16:187][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-19.16.16:189][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.16.16:195][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.16.16:196][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.26-19.16.16:197][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.26-19.16.16:201][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.26-19.16.16:240][429]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.12.26-19.18.14:283][330]LogTexture: Display: Building textures: /Game/GothicTemple/Environment/Props/Steps/T_Steps_AO.T_Steps_AO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.26-19.18.14:376][337]LogTexture: Display: Building textures: /Game/GothicTemple/Environment/Props/Steps/T_Steps_C.T_Steps_C (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.26-19.18.14:377][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.14:377][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.14:378][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_68
+[2022.12.26-19.18.14:396][337]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/GothicTemple/Environment/Props/Steps/SM_Steps_01) ...
+[2022.12.26-19.18.15:382][337]LogStaticMesh: Display: Building static mesh SM_Steps_01...
+[2022.12.26-19.18.15:533][337]LogStaticMesh: Built static mesh [0.18s] /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.16:256][414]LogTexture: Display: Building textures: /Game/GothicTemple/Environment/Props/Steps/T_Steps_N.T_Steps_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.12.26-19.18.16:806][474]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.16:806][474]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.16:806][474]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_69
+[2022.12.26-19.18.23:929][305]Cmd: TRANSACTION UNDO
+[2022.12.26-19.18.23:929][305]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.18.24:714][356]Cmd: TRANSACTION UNDO
+[2022.12.26-19.18.24:715][356]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.18.30:930][ 54]Cmd: TRANSACTION UNDO
+[2022.12.26-19.18.30:930][ 54]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.18.40:472][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.40:472][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.40:473][107]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_70
+[2022.12.26-19.18.41:170][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.41:170][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01
+[2022.12.26-19.18.41:170][176]LogActorFactory: Actor Factory spawned StaticMesh /Game/GothicTemple/Environment/Props/Steps/SM_Steps_01.SM_Steps_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/GameMap.GameMap:PersistentLevel.StaticMeshActor_71
+[2022.12.26-19.18.57:793][124]Cmd: TRANSACTION UNDO
+[2022.12.26-19.18.57:793][124]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.18.58:375][151]Cmd: TRANSACTION UNDO
+[2022.12.26-19.18.58:375][151]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.18.59:478][281]Cmd: TRANSACTION UNDO
+[2022.12.26-19.18.59:478][281]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.19.00:069][349]Cmd: TRANSACTION UNDO
+[2022.12.26-19.19.00:069][349]LogEditorTransaction: Undo Scale Elements
+[2022.12.26-19.19.31:210][999]Cmd: DELETE
+[2022.12.26-19.19.31:210][999]Cmd: ACTOR DELETE
+[2022.12.26-19.19.31:212][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.19.31:220][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.26-19.19.31:222][999]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.26-19.19.32:881][185]Cmd: DUPLICATE
+[2022.12.26-19.19.32:882][185]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.19.40:610][ 94]Cmd: DUPLICATE
+[2022.12.26-19.19.40:610][ 94]Cmd: ACTOR DUPLICATE
+[2022.12.26-19.19.48:190][993]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-19.19.48:195][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-19.19.48:195][993]PIE: New page: PIE session: GameMap (Dec 26, 2022, 9:19:48 AM)
+[2022.12.26-19.19.48:218][993]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.19.48:222][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2022.12.26-19.19.48:222][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/GameMap.GameMap to /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap (0.003244s)
+[2022.12.26-19.19.48:222][993]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.26-19.19.48:222][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-19.19.48:222][993]LogAIModule: Creating AISystem for world GameMap
+[2022.12.26-19.19.48:222][993]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2022.12.26-19.19.48:229][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.26-19.19.48:231][993]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-19.19.48:231][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-19.19.48:231][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-19.19.48:231][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-19.19.48:231][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-19.19.48:231][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-19.19.48:233][993]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-19.19.48:250][993]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.12.26-19.19.48:251][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-19.19.48:251][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-19.19.48:251][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-19.19.48:251][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.12.26-19.19.48:251][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.12.26-19.19.48:253][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.12.26-19.19.48:253][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.12.26-19.19.48:253][993]LogInit: FAudioDevice initialized.
+[2022.12.26-19.19.48:253][993]LogAudio: Display: Audio Device (ID: 15) registered with world 'GameMap'.
+[2022.12.26-19.19.48:266][993]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-19.19.48:267][993]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.12.26-14.19.48
+[2022.12.26-19.19.48:268][993]LogWorld: Bringing up level for play took: 0.001948
+[2022.12.26-19.19.48:269][993]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.12.26-19.19.48:271][993]PIE: Server logged in
+[2022.12.26-19.19.48:271][993]PIE: Play in editor total start time 0.076 seconds.
+[2022.12.26-19.20.06:858][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.20.06:859][213]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.20.06:859][213]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-19.20.06:859][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.20.06:873][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-19.20.06:875][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.20.06:881][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-19.20.06:881][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.26-19.20.06:883][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.26-19.20.06:885][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.20.06:887][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.26-19.20.06:957][215]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.12.26-19.21.09:096][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-19.21.09:101][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-19.21.09:101][523]PIE: New page: PIE session: GameMap (Dec 26, 2022, 9:21:09 AM)
+[2022.12.26-19.21.09:139][523]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.21.09:142][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003205s)
+[2022.12.26-19.21.09:142][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/GameMap.GameMap to /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap (0.003351s)
+[2022.12.26-19.21.09:142][523]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.26-19.21.09:142][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-19.21.09:143][523]LogAIModule: Creating AISystem for world GameMap
+[2022.12.26-19.21.09:143][523]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2022.12.26-19.21.09:149][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.26-19.21.09:151][523]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-19.21.09:151][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-19.21.09:151][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-19.21.09:151][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-19.21.09:151][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-19.21.09:151][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-19.21.09:153][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-19.21.09:171][523]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2022.12.26-19.21.09:171][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-19.21.09:171][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-19.21.09:171][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-19.21.09:172][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.12.26-19.21.09:172][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.12.26-19.21.09:173][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.12.26-19.21.09:173][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.12.26-19.21.09:173][523]LogInit: FAudioDevice initialized.
+[2022.12.26-19.21.09:173][523]LogAudio: Display: Audio Device (ID: 16) registered with world 'GameMap'.
+[2022.12.26-19.21.09:183][523]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-19.21.09:185][523]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.12.26-14.21.09
+[2022.12.26-19.21.09:186][523]LogWorld: Bringing up level for play took: 0.002128
+[2022.12.26-19.21.09:187][523]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.12.26-19.21.09:189][523]PIE: Server logged in
+[2022.12.26-19.21.09:190][523]PIE: Play in editor total start time 0.088 seconds.
+[2022.12.26-19.21.26:969][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.21.26:969][643]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_GameMap
+[2022.12.26-19.21.26:969][643]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-19.21.26:969][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.21.26:983][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-19.21.26:985][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-19.21.26:991][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-19.21.26:991][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.26-19.21.26:993][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.26-19.21.26:996][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.26-19.21.27:035][644]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.12.26-19.21.50:749][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.26-19.21.50:758][447]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-19.21.50:759][447]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMap8BC7025843A7A0930C6793BBFF9903E3.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-19.21.50:774][447]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-19.21.50:774][447]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
+[2022.12.26-19.25.49:971][567]Cmd: TRANSACTION UNDO
+[2022.12.26-19.25.49:971][567]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.25.53:909][982]Cmd: TRANSACTION UNDO
+[2022.12.26-19.25.53:909][982]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.26.01:262][790]Cmd: TRANSACTION UNDO
+[2022.12.26-19.26.01:262][790]LogEditorTransaction: Undo Move Elements
+[2022.12.26-19.26.06:346][335]Cmd: EDIT CUT
+[2022.12.26-19.26.06:349][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.26-19.26.06:356][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.26-19.26.06:358][335]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.26-19.26.08:094][542]Cmd: TRANSACTION UNDO
+[2022.12.26-19.26.08:094][542]LogEditorTransaction: Undo Cut
+[2022.12.26-19.29.23:778][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.26-19.29.23:787][786]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/GameMap
+[2022.12.26-19.29.23:788][786]LogSavePackage: Moving '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/GameMapE3E8B63F4FB9C0B01920B98589217506.tmp' to '../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/GameMap.umap'
+[2022.12.26-19.29.23:822][786]AssetCheck: New page: Asset Save: GameMap
+[2022.12.26-19.29.23:823][786]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/GameMap.GameMap
