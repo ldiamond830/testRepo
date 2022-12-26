@@ -910,3 +910,1724 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.26-17.58.04:413][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
 [2022.12.26-17.58.04:413][559]LogFileHelpers: Loading map 'GameMap' took 77.420
 [2022.12.26-17.58.04:418][559]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001165s (68.847390s overbudget)
+[2022.12.26-18.01.35:493][717]BlueprintLog: New page: Compile Enemy
+[2022.12.26-18.01.35:530][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.26-18.03.03:949][407]LogViewport: Scene viewport resized to 753x1016, mode Windowed.
+[2022.12.26-18.03.05:583][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.12.26-18.03.06:845][548]LogSlate: Window 'Save Content' being destroyed
+[2022.12.26-18.03.06:911][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/Enemy" FILE="C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset" SILENT=true
+[2022.12.26-18.03.06:926][548]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2022.12.26-18.03.06:927][548]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Enemy9D889E8644D1F0C619A5C58405ED050E.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2022.12.26-18.03.06:980][548]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2022.12.26-18.03.06:980][548]Cmd: MAP LOAD FILE="C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.26-18.03.06:980][548]LightingResults: New page: Lighting Build
+[2022.12.26-18.03.06:981][548]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2022.12.26-18.03.06:982][548]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-18.03.06:982][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-18.03.06:982][548]MapCheck: New page: Map Check
+[2022.12.26-18.03.06:982][548]LightingResults: New page: Lighting Build
+[2022.12.26-18.03.07:009][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-18.03.07:011][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.26-18.03.07:012][548]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-18.03.07:013][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-18.03.07:041][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.12.26-18.03.07:067][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.26-18.03.07:073][548]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.12.26-18.03.07:074][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-18.03.07:074][548]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.26-18.03.07:074][548]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.26-18.03.07:074][548]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.12.26-18.03.07:110][548]LogWorldPartition: Display: WorldPartition initialize took 35 ms
+[2022.12.26-18.03.07:114][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.26-18.03.07:158][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.26-18.03.07:163][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.26-18.03.07:163][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2022.12.26-18.03.07:163][548]LogFileHelpers: Loading map 'FirstPersonMap' took 0.183
+[2022.12.26-18.03.07:178][548]AssetCheck: New page: Asset Save: Enemy
+[2022.12.26-18.03.07:178][548]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2022.12.26-18.04.58:300][883]LogViewport: Scene viewport resized to 1526x1022, mode Windowed.
+[2022.12.26-18.05.50:184][245]LogViewport: Scene viewport resized to 1170x1022, mode Windowed.
+[2022.12.26-18.06.51:077][937]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.26-18.06.51:078][937]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.26-18.06.51:091][937]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_0
+[2022.12.26-18.06.51:118][937]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_0
+[2022.12.26-18.06.52:323][ 72]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.26-18.06.52:323][ 72]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.26-18.06.52:338][ 72]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175
+[2022.12.26-18.06.52:339][ 72]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175
+[2022.12.26-18.06.52:443][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.06.53:623][201]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.06.58:475][669]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.02:083][992]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.03:991][197]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.05:982][411]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.08:951][728]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.12:234][ 52]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.18:933][772]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.20:854][946]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.24:491][320]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.29:587][803]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.32:041][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.07.34:029][280]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.08.05:593][483]BlueprintLog: New page: Compile Enemy
+[2022.12.26-18.08.05:634][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.12.26-18.08.11:791][754]LogProperty: Warning: Illegal TEXT reference to a private object in external package (NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175) from referencer (Enemy_C /Game/FirstPerson/Blueprints/Enemy.Default__Enemy_C).  Import failed...
+[2022.12.26-18.08.11:791][754]LogProperty: Warning: Illegal TEXT reference to a private object in external package (NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175) from referencer (Enemy_C /Engine/Transient.World_6:PersistentLevel.Enemy_C_0).  Import failed...
+[2022.12.26-18.08.21:871][574]LogProperty: Warning: Illegal TEXT reference to a private object in external package (NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175) from referencer (Enemy_C /Game/FirstPerson/Blueprints/Enemy.Default__Enemy_C).  Import failed...
+[2022.12.26-18.08.21:871][574]LogProperty: Warning: Illegal TEXT reference to a private object in external package (NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175) from referencer (Enemy_C /Engine/Transient.World_6:PersistentLevel.Enemy_C_0).  Import failed...
+[2022.12.26-18.08.29:782][348]LogProperty: Warning: Illegal TEXT reference to a private object in external package (NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175) from referencer (Enemy_C /Game/FirstPerson/Blueprints/Enemy.Default__Enemy_C).  Import failed...
+[2022.12.26-18.08.29:782][348]LogProperty: Warning: Illegal TEXT reference to a private object in external package (NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175) from referencer (Enemy_C /Engine/Transient.World_6:PersistentLevel.Enemy_C_0).  Import failed...
+[2022.12.26-18.11.06:046][260]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.26-18.13.08:138][167]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2022.12.26-18.13.50:377][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.12.26-18.13.50:395][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6N/M0HVTQYXQ63L00ISVO126P_Auto1
+[2022.12.26-18.13.50:395][826]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/M0HVTQYXQ63L00ISVO126P_Auto1B694115F427BD27E0D5D1EA9A3057965.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6N/M0HVTQYXQ63L00ISVO126P_Auto1.uasset'
+[2022.12.26-18.13.50:396][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2022.12.26-18.13.50:396][826]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.12.26-18.13.50:396][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Enemy] ([2] browsable assets)...
+[2022.12.26-18.13.50:396][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Enemy]
+[2022.12.26-18.13.50:402][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto1
+[2022.12.26-18.13.50:402][826]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Enemy_Auto109297100443888E35A797F901E1F21C9.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto1.uasset'
+[2022.12.26-18.13.50:402][826]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.12.26-18.16.05:421][213]LogViewport: Scene viewport resized to 988x747, mode Windowed.
+[2022.12.26-18.16.28:667][418]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2022.12.26-18.16.28:667][418]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2022.12.26-18.16.28:668][418]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_0
+[2022.12.26-18.16.28:669][418]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_0
+[2022.12.26-18.16.29:728][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2022.12.26-18.16.29:728][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2022.12.26-18.16.29:731][534]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_UAID_244BFE56F5CCC85601_1870930176
+[2022.12.26-18.16.29:732][534]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_UAID_244BFE56F5CCC85601_1870930176
+[2022.12.26-18.16.29:756][535]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.34:792][ 77]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.34:819][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.34:837][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.34:872][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.34:890][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.34:907][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.35:081][110]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.16.35:258][126]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.17.02:087][ 13]BlueprintLog: New page: Compile Enemy
+[2022.12.26-18.17.02:135][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.26-18.17.02:230][ 14]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.17.02:478][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/Enemy" FILE="C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset" SILENT=true
+[2022.12.26-18.17.02:484][ 26]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2022.12.26-18.17.02:485][ 26]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Enemy9F8F17DC4AA9064CA1A4F295AE5553BE.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2022.12.26-18.17.02:496][ 26]AssetCheck: New page: Asset Save: Enemy
+[2022.12.26-18.17.02:496][ 26]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2022.12.26-18.17.10:247][795]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.12.26-18.17.10:247][795]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.12.26-18.17.11:342][917]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.17.15:440][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-18.17.15:463][288]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.26-18.17.15:463][288]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.26-18.17.15:463][288]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.26-18.17.15:463][288]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.26-18.17.15:463][288]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.26-18.17.15:463][288]LogWorldPartition: Display: GetPartitionedActors took 62 us
+[2022.12.26-18.17.15:464][288]LogWorldPartition: Display: GenerateStreaming took 681 us
+[2022.12.26-18.17.15:498][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-18.17.15:502][288]PIE: New page: PIE session: FirstPersonMap (Dec 26, 2022, 8:17:15 AM)
+[2022.12.26-18.17.15:516][288]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.26-18.17.15:520][288]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.26-18.17.15:522][288]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.26-18.17.15:580][288]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.26-18.17.15:580][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057933s)
+[2022.12.26-18.17.15:580][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.058322s)
+[2022.12.26-18.17.15:593][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-18.17.15:593][288]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.26-18.17.15:594][288]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.26-18.17.15:594][288]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.26-18.17.15:596][288]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.12.26-18.17.15:596][288]LogPlayLevel: PIE: World Init took: (0.015955s)
+[2022.12.26-18.17.15:641][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.26-18.17.15:643][288]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-18.17.15:643][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-18.17.15:643][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-18.17.15:644][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-18.17.15:644][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-18.17.15:644][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-18.17.15:646][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-18.17.15:715][288]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.26-18.17.15:715][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-18.17.15:715][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-18.17.15:715][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-18.17.15:716][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.26-18.17.15:716][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.26-18.17.15:717][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.26-18.17.15:717][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.26-18.17.15:717][288]LogInit: FAudioDevice initialized.
+[2022.12.26-18.17.15:717][288]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2022.12.26-18.17.15:755][288]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-18.17.15:757][288]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.26-13.17.15
+[2022.12.26-18.17.15:758][288]LogWorld: Bringing up level for play took: 0.002922
+[2022.12.26-18.17.15:767][288]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.12.26-18.17.15:951][288]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.12.26-18.17.15:951][288]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.26-18.17.15:985][288]PIE: Server logged in
+[2022.12.26-18.17.15:998][288]PIE: Play in editor total start time 0.544 seconds.
+[2022.12.26-18.17.21:077][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-18.17.21:078][814]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.26-18.17.21:078][814]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-18.17.21:078][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-18.17.21:092][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-18.17.21:098][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-18.17.21:130][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-18.17.21:131][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.26-18.17.21:132][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.26-18.17.21:137][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-18.17.21:160][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.26-18.17.21:193][815]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.26-18.17.28:220][387]LogViewport: Scene viewport resized to 988x745, mode Windowed.
+[2022.12.26-18.17.30:727][573]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.17.36:231][ 55]BlueprintLog: New page: Compile Enemy
+[2022.12.26-18.17.36:311][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.26-18.17.36:404][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.17.36:609][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/Enemy" FILE="C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset" SILENT=true
+[2022.12.26-18.17.36:615][ 65]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2022.12.26-18.17.36:615][ 65]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Enemy019DFEC74D836EF5F39669A60C850DC0.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2022.12.26-18.17.36:626][ 65]AssetCheck: New page: Asset Save: Enemy
+[2022.12.26-18.17.36:626][ 65]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2022.12.26-18.17.40:752][487]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.17.42:450][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2022.12.26-18.17.42:457][677]LogWorldPartition: Display: GenerateStreaming took 325 us
+[2022.12.26-18.17.42:458][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.26-18.17.42:458][677]PIE: New page: PIE session: FirstPersonMap (Dec 26, 2022, 8:17:42 AM)
+[2022.12.26-18.17.42:458][677]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.26-18.17.42:463][677]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.26-18.17.42:463][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005433s)
+[2022.12.26-18.17.42:463][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005487s)
+[2022.12.26-18.17.42:463][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.26-18.17.42:464][677]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.26-18.17.42:464][677]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.26-18.17.42:464][677]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.26-18.17.42:465][677]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.26-18.17.42:465][677]LogPlayLevel: PIE: World Init took: (0.002176s)
+[2022.12.26-18.17.42:497][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.12.26-18.17.42:499][677]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.26-18.17.42:499][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.26-18.17.42:499][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.26-18.17.42:500][677]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.26-18.17.42:500][677]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.26-18.17.42:500][677]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.26-18.17.42:501][677]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.26-18.17.42:568][677]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.12.26-18.17.42:568][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.26-18.17.42:568][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.26-18.17.42:568][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.26-18.17.42:569][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.26-18.17.42:569][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.26-18.17.42:570][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.26-18.17.42:570][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.26-18.17.42:570][677]LogInit: FAudioDevice initialized.
+[2022.12.26-18.17.42:570][677]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2022.12.26-18.17.42:582][677]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.26-18.17.42:584][677]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.12.26-13.17.42
+[2022.12.26-18.17.42:584][677]LogWorld: Bringing up level for play took: 0.002439
+[2022.12.26-18.17.42:587][677]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.12.26-18.17.42:588][677]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.12.26-18.17.42:588][677]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.26-18.17.42:588][677]PIE: Server logged in
+[2022.12.26-18.17.42:589][677]PIE: Play in editor total start time 0.133 seconds.
+[2022.12.26-18.17.42:590][677]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:611][678]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:658][679]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:683][680]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:708][681]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:720][682]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:728][683]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:736][684]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:745][685]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:753][686]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:771][687]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:780][688]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:805][689]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:814][690]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:822][691]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:830][692]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:838][693]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:846][694]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:854][695]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:863][696]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:871][697]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:880][698]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:888][699]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:897][700]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:905][701]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:914][702]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:922][703]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:930][704]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:939][705]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:947][706]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:956][707]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:964][708]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:972][709]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:980][710]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:988][711]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.42:997][712]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:005][713]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:014][714]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:022][715]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:030][716]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:038][717]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:047][718]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:055][719]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:063][720]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:072][721]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:080][722]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:088][723]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:097][724]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:105][725]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:113][726]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:122][727]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:130][728]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:138][729]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:147][730]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:155][731]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:164][732]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:172][733]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:180][734]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:188][735]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:197][736]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:205][737]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:213][738]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:222][739]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:230][740]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:238][741]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:247][742]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:256][743]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:264][744]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:272][745]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:280][746]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:289][747]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:297][748]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:305][749]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:314][750]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:322][751]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:330][752]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:339][753]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:347][754]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:356][755]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:364][756]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:373][757]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:381][758]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:389][759]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:398][760]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:422][761]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:431][762]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:439][763]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:447][764]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:455][765]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:464][766]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:474][767]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:481][768]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:489][769]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:498][770]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:506][771]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:515][772]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:524][773]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:532][774]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:540][775]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:549][776]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:557][777]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:566][778]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:574][779]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:583][780]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:591][781]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:599][782]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:608][783]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:616][784]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:624][785]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:633][786]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:641][787]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:650][788]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:658][789]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:666][790]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:675][791]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:683][792]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:691][793]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:700][794]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:708][795]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:717][796]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:725][797]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:733][798]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:742][799]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:750][800]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:758][801]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:767][802]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:775][803]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:782][804]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:791][805]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:799][806]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:808][807]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:816][808]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:824][809]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:832][810]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:841][811]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:849][812]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:857][813]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:866][814]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:874][815]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:882][816]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:891][817]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:899][818]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:907][819]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:916][820]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:924][821]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:933][822]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:941][823]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:949][824]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:958][825]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:966][826]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:974][827]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:982][828]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:991][829]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.43:999][830]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:007][831]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:016][832]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:025][833]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:033][834]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:041][835]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:049][836]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:058][837]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:066][838]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:074][839]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:083][840]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:091][841]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:099][842]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:108][843]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:117][844]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:125][845]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:133][846]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:141][847]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:149][848]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:158][849]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:166][850]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:175][851]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:182][852]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:191][853]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:199][854]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:207][855]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:216][856]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:224][857]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:232][858]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:240][859]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:249][860]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:257][861]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:265][862]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:274][863]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:282][864]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:290][865]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:299][866]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:307][867]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:315][868]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:324][869]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:332][870]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:341][871]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:349][872]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:357][873]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:366][874]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:374][875]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:382][876]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:391][877]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:399][878]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:407][879]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:416][880]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:425][881]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:433][882]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:442][883]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:450][884]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:458][885]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:467][886]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:475][887]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:483][888]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:491][889]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:500][890]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:508][891]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:516][892]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:524][893]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:533][894]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:541][895]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:549][896]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:558][897]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:566][898]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:575][899]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:583][900]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:591][901]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:599][902]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:608][903]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:616][904]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:625][905]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:633][906]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:641][907]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:650][908]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:658][909]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:667][910]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:674][911]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:682][912]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:691][913]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:699][914]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:707][915]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:716][916]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:724][917]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:732][918]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:741][919]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:749][920]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:757][921]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:766][922]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:774][923]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:783][924]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:791][925]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:799][926]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:808][927]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:816][928]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:824][929]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:833][930]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:841][931]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:850][932]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:858][933]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:866][934]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:875][935]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:883][936]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:891][937]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:900][938]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:908][939]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:916][940]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:925][941]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:933][942]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:941][943]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:950][944]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:958][945]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:967][946]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:975][947]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:983][948]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.44:991][949]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:000][950]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:008][951]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:016][952]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:025][953]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:033][954]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:042][955]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:049][956]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:057][957]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:066][958]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:074][959]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:083][960]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:091][961]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:099][962]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:108][963]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:116][964]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:124][965]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:133][966]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:141][967]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:149][968]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:158][969]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:166][970]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:175][971]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:183][972]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:191][973]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:200][974]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:208][975]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:216][976]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:225][977]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:233][978]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:241][979]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:250][980]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:258][981]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:267][982]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:275][983]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:283][984]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:292][985]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:300][986]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:308][987]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:317][988]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:325][989]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:334][990]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:342][991]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:350][992]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:358][993]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:367][994]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:375][995]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:384][996]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:392][997]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:400][998]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:409][999]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:417][  0]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:424][  1]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:433][  2]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:441][  3]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:449][  4]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:458][  5]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:466][  6]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:474][  7]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:483][  8]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:491][  9]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:499][ 10]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:508][ 11]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:516][ 12]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:525][ 13]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:533][ 14]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:542][ 15]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:550][ 16]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:558][ 17]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:567][ 18]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:575][ 19]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:584][ 20]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:592][ 21]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:600][ 22]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:609][ 23]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:617][ 24]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:625][ 25]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:634][ 26]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:642][ 27]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:650][ 28]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:659][ 29]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:667][ 30]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:676][ 31]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:684][ 32]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:692][ 33]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:701][ 34]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:709][ 35]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:717][ 36]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:726][ 37]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:734][ 38]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:742][ 39]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:751][ 40]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:759][ 41]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:767][ 42]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:776][ 43]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:784][ 44]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:793][ 45]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:801][ 46]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:809][ 47]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:818][ 48]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:826][ 49]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:834][ 50]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:843][ 51]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:850][ 52]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:858][ 53]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:867][ 54]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:875][ 55]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:884][ 56]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:892][ 57]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:900][ 58]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:909][ 59]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:917][ 60]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:926][ 61]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:934][ 62]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:942][ 63]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:950][ 64]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:959][ 65]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:967][ 66]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:975][ 67]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:984][ 68]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.45:992][ 69]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:000][ 70]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:009][ 71]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:018][ 72]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:026][ 73]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:034][ 74]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:042][ 75]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:051][ 76]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:059][ 77]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:067][ 78]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:076][ 79]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:084][ 80]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:092][ 81]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:101][ 82]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:109][ 83]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:117][ 84]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:126][ 85]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:134][ 86]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:142][ 87]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:151][ 88]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:159][ 89]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:167][ 90]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:176][ 91]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:184][ 92]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:192][ 93]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:201][ 94]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:209][ 95]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:218][ 96]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:225][ 97]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:234][ 98]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:243][ 99]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:251][100]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:259][101]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:267][102]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:276][103]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:284][104]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:292][105]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:301][106]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:309][107]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:317][108]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:326][109]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:334][110]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:343][111]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:351][112]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:359][113]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:367][114]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:376][115]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:384][116]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:393][117]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:401][118]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:409][119]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:418][120]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:426][121]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:434][122]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:443][123]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:451][124]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:460][125]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:468][126]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:477][127]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:485][128]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:494][129]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:502][130]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:511][131]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:519][132]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:527][133]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:536][134]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:544][135]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:552][136]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:561][137]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:569][138]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:577][139]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:586][140]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:595][141]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:602][142]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:610][143]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:618][144]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:626][145]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:634][146]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:643][147]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:651][148]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:659][149]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:668][150]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:676][151]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:684][152]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:693][153]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:701][154]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:711][155]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:718][156]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:727][157]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:735][158]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:745][159]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:754][160]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:761][161]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:769][162]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:777][163]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:786][164]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:794][165]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:802][166]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:811][167]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:819][168]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:827][169]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:836][170]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:845][171]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:852][172]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:861][173]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:869][174]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:879][175]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:887][176]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:895][177]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:903][178]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:912][179]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:920][180]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:928][181]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:937][182]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:945][183]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:954][184]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:962][185]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:969][186]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:977][187]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:986][188]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.46:994][189]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:003][190]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:011][191]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:020][192]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:028][193]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:036][194]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:044][195]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:053][196]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:061][197]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:069][198]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:078][199]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:086][200]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:095][201]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:103][202]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:112][203]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:119][204]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:128][205]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:136][206]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:144][207]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:153][208]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:161][209]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:170][210]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:178][211]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:186][212]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:195][213]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:203][214]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:211][215]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:219][216]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:251][217]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:265][218]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:273][219]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:281][220]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:290][221]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:298][222]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:307][223]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:315][224]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:323][225]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:332][226]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:340][227]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:349][228]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:356][229]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:365][230]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:374][231]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:381][232]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:390][233]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:398][234]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:406][235]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:415][236]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:423][237]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:431][238]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:439][239]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:448][240]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:456][241]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:464][242]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:473][243]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:481][244]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:489][245]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:498][246]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:506][247]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:514][248]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:523][249]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:531][250]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:539][251]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:548][252]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:556][253]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:564][254]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:573][255]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:581][256]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:590][257]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:598][258]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:606][259]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:615][260]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:623][261]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:631][262]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:640][263]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:648][264]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:656][265]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:665][266]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:673][267]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:682][268]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:690][269]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:698][270]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:707][271]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:715][272]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:723][273]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:732][274]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:740][275]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:748][276]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:756][277]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:764][278]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:772][279]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:781][280]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:789][281]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:798][282]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:806][283]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:815][284]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:823][285]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:831][286]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:839][287]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:848][288]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:856][289]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:864][290]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:873][291]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:882][292]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:890][293]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:898][294]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:906][295]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:915][296]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:923][297]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:931][298]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:940][299]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:948][300]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:957][301]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:965][302]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:973][303]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:982][304]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:990][305]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.47:998][306]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:007][307]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:015][308]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:023][309]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:032][310]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:040][311]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:049][312]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:057][313]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:065][314]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:074][315]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:082][316]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:090][317]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:098][318]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:107][319]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:115][320]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:123][321]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:131][322]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:140][323]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:148][324]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:156][325]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:165][326]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:173][327]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:182][328]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:190][329]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:199][330]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:207][331]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:215][332]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:224][333]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:233][334]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:240][335]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:249][336]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:257][337]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:266][338]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:274][339]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:283][340]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:291][341]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:299][342]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:307][343]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:315][344]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:324][345]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:332][346]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:341][347]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:349][348]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:357][349]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:365][350]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:374][351]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:382][352]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:390][353]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:399][354]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:407][355]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:415][356]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:424][357]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:432][358]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:440][359]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:449][360]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:457][361]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:465][362]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:474][363]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:482][364]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:491][365]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:499][366]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:508][367]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:516][368]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:525][369]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:533][370]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:541][371]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:549][372]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:558][373]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:566][374]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:574][375]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:582][376]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:590][377]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:599][378]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:607][379]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:616][380]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:624][381]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:632][382]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:641][383]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:649][384]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:657][385]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:666][386]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:674][387]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:682][388]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:690][389]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:699][390]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:707][391]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:715][392]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:724][393]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:732][394]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:741][395]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:749][396]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:757][397]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:766][398]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:774][399]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:783][400]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:791][401]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:799][402]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:807][403]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:816][404]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:824][405]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:832][406]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:841][407]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:849][408]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:858][409]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:866][410]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:874][411]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:883][412]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:891][413]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:900][414]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:908][415]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:916][416]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:924][417]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:933][418]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:941][419]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:949][420]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:958][421]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:967][422]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:975][423]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:983][424]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.48:992][425]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:000][426]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:009][427]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:016][428]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:025][429]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:033][430]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:041][431]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:050][432]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:058][433]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:067][434]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:075][435]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:083][436]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:091][437]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:100][438]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:108][439]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:116][440]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:124][441]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:132][442]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:141][443]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:149][444]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:157][445]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:166][446]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:174][447]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:182][448]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:191][449]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:199][450]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:208][451]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:216][452]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:224][453]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:232][454]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:241][455]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:249][456]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:258][457]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:266][458]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:274][459]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:283][460]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:291][461]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:300][462]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:308][463]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:316][464]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:324][465]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:333][466]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:341][467]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:350][468]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:358][469]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:366][470]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:375][471]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:383][472]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:391][473]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:400][474]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:408][475]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:417][476]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:425][477]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:433][478]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:442][479]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:450][480]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:459][481]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:467][482]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:475][483]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:484][484]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:491][485]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:500][486]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:508][487]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:516][488]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:524][489]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:533][490]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:541][491]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:550][492]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:559][493]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:566][494]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:575][495]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:583][496]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:592][497]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:600][498]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:608][499]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:617][500]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:626][501]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:633][502]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:642][503]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:650][504]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:658][505]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:667][506]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:675][507]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:684][508]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:692][509]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:700][510]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:709][511]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:717][512]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:725][513]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:733][514]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:741][515]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:750][516]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:758][517]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:767][518]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:775][519]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:783][520]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:792][521]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:800][522]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:808][523]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:817][524]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:825][525]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:834][526]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:842][527]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:851][528]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:859][529]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:866][530]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:874][531]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:883][532]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:891][533]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:900][534]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:909][535]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:917][536]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:925][537]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:934][538]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:943][539]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:952][540]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:959][541]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:967][542]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:976][543]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:984][544]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.49:992][545]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:001][546]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:009][547]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:017][548]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:026][549]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:035][550]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:043][551]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:051][552]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:059][553]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:067][554]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:076][555]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:084][556]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:092][557]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:100][558]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:109][559]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:117][560]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:125][561]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:133][562]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:142][563]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:151][564]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:159][565]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:167][566]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:175][567]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:184][568]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:192][569]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:200][570]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:209][571]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:218][572]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:227][573]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:236][574]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:244][575]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:253][576]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:261][577]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:269][578]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:278][579]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:286][580]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:295][581]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:303][582]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:311][583]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:320][584]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:329][585]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:337][586]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:346][587]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:354][588]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:361][589]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:370][590]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:378][591]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:387][592]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:395][593]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:404][594]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:412][595]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:421][596]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:429][597]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:438][598]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:446][599]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:455][600]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:463][601]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:471][602]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:480][603]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:488][604]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:496][605]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:505][606]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:513][607]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:522][608]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:530][609]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:538][610]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:547][611]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:555][612]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:563][613]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:572][614]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:580][615]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:588][616]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:597][617]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:606][618]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:614][619]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:622][620]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:630][621]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:638][622]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:647][623]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:655][624]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:664][625]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:672][626]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:680][627]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:689][628]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:698][629]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:707][630]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:715][631]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:723][632]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:731][633]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:740][634]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:748][635]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:757][636]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:766][637]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:774][638]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:782][639]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:791][640]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:800][641]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:809][642]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:817][643]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:825][644]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:834][645]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:842][646]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:851][647]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:859][648]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:867][649]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:876][650]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:885][651]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:893][652]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:902][653]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:910][654]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:919][655]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:927][656]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:936][657]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:944][658]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:953][659]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:961][660]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:970][661]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:979][662]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:988][663]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.50:996][664]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:005][665]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:013][666]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:022][667]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:030][668]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:038][669]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:046][670]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:055][671]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:063][672]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:071][673]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:080][674]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:089][675]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:097][676]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:106][677]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:114][678]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:123][679]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:131][680]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:140][681]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:148][682]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:157][683]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:166][684]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:174][685]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:182][686]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:191][687]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:199][688]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:208][689]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:216][690]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:226][691]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:234][692]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:243][693]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:251][694]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:260][695]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:268][696]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:276][697]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:285][698]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:293][699]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:302][700]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:310][701]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:319][702]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:328][703]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:336][704]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:345][705]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:353][706]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:361][707]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:370][708]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:379][709]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:387][710]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:396][711]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:405][712]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:412][713]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:421][714]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:430][715]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:439][716]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:447][717]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:456][718]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:464][719]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:472][720]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:481][721]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:489][722]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:498][723]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:506][724]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:515][725]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:523][726]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:532][727]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:540][728]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:549][729]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:557][730]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:566][731]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:574][732]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:583][733]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:592][734]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:600][735]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:609][736]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:617][737]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:625][738]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:634][739]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:642][740]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:650][741]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:659][742]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:667][743]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:675][744]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:684][745]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:692][746]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:700][747]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:709][748]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:718][749]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:726][750]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:734][751]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:742][752]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:750][753]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:759][754]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:767][755]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:775][756]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:784][757]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:792][758]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:801][759]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:809][760]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:818][761]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:827][762]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:836][763]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:844][764]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:853][765]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:861][766]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:870][767]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:879][768]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:887][769]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:895][770]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:904][771]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:911][772]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:920][773]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:928][774]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:937][775]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:945][776]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:954][777]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:962][778]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:970][779]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:979][780]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:987][781]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.51:995][782]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:004][783]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:012][784]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:020][785]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:029][786]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:037][787]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:045][788]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:054][789]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:062][790]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:070][791]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:079][792]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:087][793]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:096][794]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:104][795]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:112][796]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:121][797]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:129][798]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:137][799]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:145][800]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:154][801]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:162][802]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:171][803]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:179][804]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:187][805]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:196][806]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:204][807]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:212][808]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:221][809]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:230][810]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:239][811]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:247][812]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:256][813]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:264][814]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:272][815]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:281][816]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:289][817]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:297][818]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:305][819]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:314][820]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:322][821]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:331][822]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:339][823]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:348][824]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:356][825]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:365][826]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:373][827]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:382][828]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:390][829]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:399][830]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:408][831]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:416][832]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:425][833]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:433][834]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:441][835]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:449][836]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:458][837]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:467][838]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:475][839]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:484][840]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:492][841]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:500][842]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:509][843]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:517][844]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:526][845]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:535][846]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:543][847]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:551][848]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:560][849]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:568][850]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:577][851]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:585][852]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:594][853]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:602][854]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:611][855]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:619][856]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:628][857]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:636][858]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:645][859]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:654][860]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:662][861]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:670][862]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:679][863]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:687][864]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:696][865]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:704][866]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:713][867]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:721][868]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:730][869]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:739][870]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:747][871]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:755][872]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:763][873]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:771][874]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:780][875]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:789][876]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:796][877]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:805][878]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:814][879]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:822][880]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:830][881]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:839][882]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:848][883]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:857][884]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:865][885]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:874][886]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:882][887]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:891][888]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:899][889]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:908][890]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:916][891]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:925][892]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:933][893]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:941][894]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:949][895]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:958][896]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:966][897]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:974][898]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:982][899]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:991][900]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.52:999][901]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:008][902]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:016][903]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:025][904]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:033][905]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:041][906]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:050][907]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:058][908]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:067][909]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:075][910]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:083][911]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:092][912]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:100][913]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:108][914]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:117][915]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:126][916]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:134][917]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:141][918]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:149][919]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:158][920]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:166][921]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:174][922]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:183][923]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:191][924]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:199][925]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:208][926]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:217][927]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:225][928]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:235][929]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:242][930]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:250][931]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:259][932]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:267][933]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:275][934]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:284][935]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:292][936]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:300][937]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:309][938]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:317][939]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:325][940]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:334][941]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:342][942]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:350][943]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:359][944]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:367][945]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:375][946]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:384][947]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:392][948]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:400][949]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:409][950]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:417][951]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:426][952]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:434][953]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:442][954]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:451][955]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:458][956]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:467][957]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:475][958]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:484][959]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:492][960]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:501][961]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:509][962]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:516][963]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:525][964]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:533][965]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:541][966]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:550][967]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:559][968]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:567][969]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:575][970]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:583][971]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:592][972]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:600][973]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:608][974]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:617][975]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:625][976]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:634][977]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:642][978]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:650][979]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:658][980]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:667][981]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:675][982]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:684][983]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:692][984]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:700][985]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:708][986]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:717][987]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:725][988]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:734][989]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:742][990]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:750][991]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:758][992]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:767][993]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:775][994]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:784][995]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:792][996]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:800][997]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:808][998]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:817][999]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:825][  0]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:834][  1]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:842][  2]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:850][  3]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:859][  4]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:867][  5]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:876][  6]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:884][  7]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:892][  8]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:901][  9]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:909][ 10]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:917][ 11]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:926][ 12]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:934][ 13]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:943][ 14]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:951][ 15]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:959][ 16]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:967][ 17]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:976][ 18]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:984][ 19]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.53:993][ 20]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:001][ 21]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:009][ 22]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:017][ 23]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:026][ 24]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:034][ 25]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:042][ 26]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:051][ 27]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:059][ 28]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:068][ 29]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:076][ 30]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:084][ 31]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:093][ 32]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:101][ 33]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:109][ 34]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:118][ 35]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:125][ 36]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:133][ 37]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:142][ 38]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:150][ 39]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:158][ 40]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:167][ 41]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:175][ 42]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:183][ 43]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:192][ 44]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:200][ 45]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:208][ 46]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:217][ 47]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:225][ 48]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:234][ 49]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:242][ 50]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:251][ 51]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:259][ 52]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:267][ 53]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:276][ 54]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:284][ 55]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:292][ 56]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:301][ 57]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:309][ 58]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:317][ 59]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:326][ 60]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:334][ 61]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:343][ 62]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:351][ 63]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:359][ 64]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:368][ 65]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:376][ 66]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:384][ 67]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:393][ 68]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:401][ 69]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:409][ 70]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:418][ 71]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:426][ 72]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:434][ 73]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:443][ 74]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:451][ 75]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:459][ 76]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:468][ 77]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:476][ 78]LogBlueprintUserMessages: [Enemy_C_UAID_244BFE56F5CCC85601_1870930176] failure
+[2022.12.26-18.17.54:503][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-18.17.54:503][ 78]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.12.26-18.17.54:503][ 78]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.26-18.17.54:503][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-18.17.54:516][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.26-18.17.54:521][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.26-18.17.54:555][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.26-18.17.54:555][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.26-18.17.54:557][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.26-18.17.54:562][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.26-18.17.54:565][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.26-18.17.54:597][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.12.26-18.18.23:022][341]Cmd: DELETE
+[2022.12.26-18.18.23:022][341]Cmd: ACTOR DELETE
+[2022.12.26-18.18.23:141][341]LogEditorActor: Actor NavMeshBoundsVolume is referenced by Enemy.
+[2022.12.26-18.18.24:723][341]LogSlate: Window 'Message' being destroyed
+[2022.12.26-18.18.24:728][341]Message dialog closed, result: Cancel, title: Message, text: Actor NavMeshBoundsVolume is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Enemy
+[2022.12.26-18.18.24:763][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.26-18.18.24:765][341]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2022.12.26-18.18.43:011][339]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerVolume
+[2022.12.26-18.18.43:011][339]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerVolume
+[2022.12.26-18.18.43:011][339]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerVolume as actor: TriggerVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TriggerVolume_0
+[2022.12.26-18.18.43:012][339]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerVolume as actor: TriggerVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TriggerVolume_0
+[2022.12.26-18.18.45:030][564]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerVolume
+[2022.12.26-18.18.45:030][564]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerVolume
+[2022.12.26-18.18.45:033][564]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerVolume as actor: TriggerVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TriggerVolume_UAID_244BFE56F5CCC85601_2006232177
+[2022.12.26-18.18.45:033][564]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerVolume as actor: TriggerVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TriggerVolume_UAID_244BFE56F5CCC85601_2006232177
+[2022.12.26-18.18.50:118][ 85]Cmd: DELETE
+[2022.12.26-18.18.50:118][ 85]Cmd: ACTOR DELETE
+[2022.12.26-18.18.50:120][ 85]LogEditorActor: Actor NavMeshBoundsVolume is referenced by Enemy.
+[2022.12.26-18.18.51:650][ 85]LogSlate: Window 'Message' being destroyed
+[2022.12.26-18.18.51:655][ 85]Message dialog closed, result: Yes, title: Message, text: Actor NavMeshBoundsVolume is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Enemy
+[2022.12.26-18.18.51:655][ 85]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2022.12.26-18.18.51:690][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.12.26-18.18.51:692][ 85]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.12.26-18.18.51:719][ 85]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.18.51:719][ 85]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.12.26-18.19.22:916][920]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.12.26-18.19.23:018][920]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.19.28:832][410]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.12.26-18.19.28:836][410]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.12.26-18.20.22:068][635]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.20.27:631][174]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.20.30:051][386]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.20.52:332][388]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.22.32:102][957]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.22.49:323][333]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.22.51:830][518]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.23.28:417][492]BlueprintLog: New page: Compile Enemy
+[2022.12.26-18.23.28:512][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.26-18.23.28:525][492]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.26-18.23.28:874][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/Enemy" FILE="C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset" SILENT=true
+[2022.12.26-18.23.28:881][512]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2022.12.26-18.23.28:881][512]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/Enemy06702AD3479D5757133EAD989091ABFE.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2022.12.26-18.23.28:894][512]AssetCheck: New page: Asset Save: Enemy
+[2022.12.26-18.23.28:894][512]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2022.12.26-18.23.37:125][327]Cmd: DELETE
+[2022.12.26-18.23.37:125][327]Cmd: ACTOR DELETE
+[2022.12.26-18.23.37:126][327]LogEditorActor: Deleted Actor: TriggerVolume
+[2022.12.26-18.23.37:164][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.26-18.23.37:166][327]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.12.26-18.24.21:399][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.26-18.24.21:474][417]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_244BFE56F5CCC85601_1293526175 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6N/M0HVTQYXQ63L00ISVO126P.PackageMetaData in its package
+[2022.12.26-18.24.21:476][417]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TriggerVolume_UAID_244BFE56F5CCC85601_2006232177 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EK/A04O35BJZM7VFJKNF31OGW.PackageMetaData in its package
+[2022.12.26-18.24.21:478][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.26-18.24.21:513][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.12.26-18.24.21:548][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.26-18.24.21:550][417]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/4G/07W8ZJF38OON9HCDAYT67L
+[2022.12.26-18.24.21:550][417]LogSavePackage: Moving 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Saved/07W8ZJF38OON9HCDAYT67L12A0ED444CB7B7842FAE7E9B82066C0F.tmp' to 'C:/Users/Lucas Diamond/source/repos/testRepo/WinterWonderJamGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/4G/07W8ZJF38OON9HCDAYT67L.uasset'
+[2022.12.26-18.24.21:565][417]AssetCheck: New page: Asset Save: Enemy_C_UAID_244BFE56F5CCC85601_1870930176
+[2022.12.26-18.24.21:565][417]LogContentValidation: Display: Validating Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_UAID_244BFE56F5CCC85601_1870930176
+[2022.12.26-18.24.21:600][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
