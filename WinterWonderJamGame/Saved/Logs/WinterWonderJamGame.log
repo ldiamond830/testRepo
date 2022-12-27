@@ -4097,3 +4097,21 @@ Script call stack:
 [2022.12.27-19.02.15:026][ 47]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.27-19.02.15:026][ 47]LogContentValidation: Display: Validating Material /Game/Models/Bolt_text.Bolt_text
 [2022.12.27-19.02.15:026][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_LightiningBolt.SM_LightiningBolt
+[2022.12.27-19.25.10:335][157]LogDerivedDataCache: C:/Users/Lucas Diamond/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.127 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.27-20.08.22:261][889]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.12.27-20.08.22:261][889]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10392
+[2022.12.27-20.08.22:599][889]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{155f0cd9-3f29-4217-96c1-dc5b9a0c3f6a}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=55.87
+[2022.12.27-20.08.22:600][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.27-20.08.22:619][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.27-20.09.11:814][909]LogHttp: Warning: 0000046D904DAF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87952C84-4E98-F1D1-C474-E6B3CC37909B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=fee6d13646e5913a54de8e9b7f406de3%7Ceadf116bdfbb43fe89bf7cf29577e2d3%7Ccac53a7e-5e82-4d7d-aa63-3abae8674599&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x46cc88d0000 [can pipeline])
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.215.11.166) port 443 (#0))
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 7 (Closing connection 0)
+[2022.12.27-20.09.11:975][909]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87952C84-4E98-F1D1-C474-E6B3CC37909B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=fee6d13646e5913a54de8e9b7f406de3%7Ceadf116bdfbb43fe89bf7cf29577e2d3%7Ccac53a7e-5e82-4d7d-aa63-3abae8674599&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.12.27-20.25.44:209][870]LogDerivedDataCache: C:/Users/Lucas Diamond/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.297 and deleted 0 file(s) with total size 0 MiB.
