@@ -4115,3 +4115,103 @@ Script call stack:
 [2022.12.27-20.09.11:920][909]LogHttp: Warning: 0000046D904DAF00: libcurl info message cache 7 (Closing connection 0)
 [2022.12.27-20.09.11:975][909]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87952C84-4E98-F1D1-C474-E6B3CC37909B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=fee6d13646e5913a54de8e9b7f406de3%7Ceadf116bdfbb43fe89bf7cf29577e2d3%7Ccac53a7e-5e82-4d7d-aa63-3abae8674599&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2022.12.27-20.25.44:209][870]LogDerivedDataCache: C:/Users/Lucas Diamond/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.297 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.27-20.29.19:151][571]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.12.27-20.29.19:259][571]LogStall: Shutdown...
+[2022.12.27-20.29.19:276][571]LogStall: Shutdown complete.
+[2022.12.27-20.29.20:026][571]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.20:045][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.27-20.29.20:859][571]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.27-20.29.20:859][571]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.20:860][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.27-20.29.21:048][571]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.27-20.29.21:048][571]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.21:049][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.27-20.29.21:247][571]LogSlate: Window 'SM_LightiningBolt' being destroyed
+[2022.12.27-20.29.21:629][571]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.21:630][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.27-20.29.21:931][571]LogSlate: Window 'WinterWonderJamGame - Unreal Editor' being destroyed
+[2022.12.27-20.29.22:401][572]Cmd: QUIT_EDITOR
+[2022.12.27-20.29.22:416][572]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.27-20.29.22:501][572]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.27-20.29.22:523][572]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.27-20.29.22:524][572]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.27-20.29.23:120][572]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.27-20.29.23:120][572]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.27-20.29.23:121][572]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2022.12.27-20.29.23:218][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.27-20.29.23:220][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.27-20.29.23:258][572]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.27-20.29.23:305][572]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.27-20.29.23:351][572]LogExit: Preparing to exit.
+[2022.12.27-20.29.23:920][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.27-20.29.23:935][572]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:936][572]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:951][572]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:952][572]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.23:952][572]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.27-20.29.26:510][572]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:511][572]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:512][572]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:513][572]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:514][572]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:515][572]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:516][572]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:516][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:516][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:516][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:516][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:516][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.27-20.29.26:517][572]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.26:788][572]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.27-20.29.27:250][572]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.27-20.29.27:673][572]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.27-20.29.27:740][572]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.27-20.29.27:849][572]LogExit: Editor shut down
+[2022.12.27-20.29.27:854][572]LogExit: Transaction tracking system shut down
+[2022.12.27-20.29.31:094][572]LogExit: Object subsystem successfully closed.
+[2022.12.27-20.29.31:112][572]LogShaderCompilers: Display: ================================================
+[2022.12.27-20.29.31:112][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.27-20.29.31:112][572]LogShaderCompilers: Display: Total job queries 60, among them cache hits 3 (5.00%)
+[2022.12.27-20.29.31:113][572]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 33 distinct outputs (57.89%)
+[2022.12.27-20.29.31:125][572]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: Shaders Compiled: 43
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: Jobs assigned 57, completed 57 (100.00%)
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: Average time worker was idle: 236.55 s
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: Time job spent in pending queue: average 3.57 s, longest 19.70 s
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: Job execution time: average 9.42 s, max 15.99 s
+[2022.12.27-20.29.31:134][572]LogShaderCompilers: Display: Job life time (pending + execution): average 12.98 s, max 22.93
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.15 s
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 2.59 jobs/batch
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display: Average processing rate: 1.89 jobs/sec
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display: Effective parallelization: 2.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.29 sec, max 1.76 sec, min 0.59 sec)
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.27-20.29.31:135][572]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 6.16% of total time (compiled    3 times, average 1.29 sec, max 1.76 sec, min 0.59 sec)
+[2022.12.27-20.29.31:144][572]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.69% of total time (compiled    3 times, average 1.19 sec, max 1.55 sec, min 0.57 sec)
+[2022.12.27-20.29.31:144][572]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.50% of total time (compiled    3 times, average 1.15 sec, max 1.69 sec, min 0.61 sec)
+[2022.12.27-20.29.31:144][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.47% of total time (compiled    3 times, average 1.15 sec, max 1.36 sec, min 0.99 sec)
+[2022.12.27-20.29.31:144][572]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.47% of total time (compiled    3 times, average 1.15 sec, max 1.59 sec, min 0.57 sec)
+[2022.12.27-20.29.31:144][572]LogShaderCompilers: Display: ================================================
+[2022.12.27-20.29.31:189][572]LogShaderCompilers: Display: Shaders left to compile 0
