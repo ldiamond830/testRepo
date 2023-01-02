@@ -1,0 +1,1397 @@
+﻿Log file open, 01/02/23 11:53:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=19948)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WinterWonderJamGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\andre\source\repos\testRepo\WinterWonderJamGame\WinterWonderJamGame.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1335] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="5c3a40a043e0825e8520af96332e835a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.248900
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-FDC612A74F75392E6FAF06B4F824F151
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1335] (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.02-16.53.08:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.02-16.53.08:354][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.02-16.53.08:354][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.02-16.53.08:354][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.02-16.53.08:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.02-16.53.08:355][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.02-16.53.08:355][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.02-16.53.08:355][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.02-16.53.08:357][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.02-16.53.08:384][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.02-16.53.08:384][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.02-16.53.08:491][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.02-16.53.08:491][  0]LogD3D12RHI: Adapter has 10067MB of dedicated video memory, 0MB of dedicated system memory, and 16353MB of shared system memory, 2 output[s]
+[2023.01.02-16.53.08:501][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.02-16.53.08:501][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16353MB of shared system memory, 0 output[s]
+[2023.01.02-16.53.08:501][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.02-16.53.08:501][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.02-16.53.08:501][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.02-16.53.08:501][  0]LogHAL: Display: Platform has ~ 32 GB [34295054336 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.02-16.53.08:501][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.02-16.53.08:501][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.02-16.53.08:501][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.02-16.53.08:501][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.02-16.53.08:501][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.02-16.53.08:502][  0]LogInit: Computer: ANDREW-DESKTOP
+[2023.01.02-16.53.08:502][  0]LogInit: User: andre
+[2023.01.02-16.53.08:502][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.02-16.53.08:502][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.02-16.53.08:502][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.01.02-16.53.08:502][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.02-16.53.08:502][  0]LogMemory: Process Physical Memory: 262.17 MB used, 272.48 MB peak
+[2023.01.02-16.53.08:502][  0]LogMemory: Process Virtual Memory: 204.29 MB used, 204.29 MB peak
+[2023.01.02-16.53.08:502][  0]LogMemory: Physical Memory: 9830.56 MB used,  22875.75 MB free, 32706.31 MB total
+[2023.01.02-16.53.08:502][  0]LogMemory: Virtual Memory: 15474.90 MB used,  49231.41 MB free, 64706.31 MB total
+[2023.01.02-16.53.08:502][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.02-16.53.08:506][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.02-16.53.08:519][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.02-16.53.08:520][  0]LogInit: Using OS detected language (en-US).
+[2023.01.02-16.53.08:520][  0]LogInit: Using OS detected locale (en-US).
+[2023.01.02-16.53.08:524][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.02-16.53.08:711][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.02-16.53.08:727][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.02-16.53.08:727][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.02-16.53.08:727][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2023.01.02-16.53.08:727][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.01.02-16.53.08:727][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.01.02-16.53.08:754][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.02-16.53.08:754][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.02-16.53.10:814][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.02-16.53.10:817][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.02-16.53.10:817][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.02-16.53.10:878][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.02-16.53.10:914][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.02-16.53.10:919][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.02-16.53.10:931][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.02-16.53.10:939][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.02-16.53.10:939][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.02-16.53.10:973][  0]LogD3D12RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.02-16.53.10:973][  0]LogWindows: Attached monitors:
+[2023.01.02-16.53.10:973][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1392), device: '\\.\DISPLAY9' [PRIMARY]
+[2023.01.02-16.53.10:973][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 357) -> (4480, 1389), device: '\\.\DISPLAY8'
+[2023.01.02-16.53.10:973][  0]LogWindows: Found 2 attached monitors.
+[2023.01.02-16.53.10:973][  0]LogWindows: EnumDisplayDevices:
+[2023.01.02-16.53.10:973][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY8'
+[2023.01.02-16.53.10:973][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY9'
+[2023.01.02-16.53.10:973][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY10'
+[2023.01.02-16.53.10:973][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY11'
+[2023.01.02-16.53.10:973][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.02-16.53.10:973][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.01.02-16.53.10:973][  0]LogD3D12RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.01.02-16.53.10:973][  0]LogD3D12RHI:      Driver Date: 12-5-2022
+[2023.01.02-16.53.10:973][  0]LogRHI: Texture pool is 5858 MB (70% of 8369 MB)
+[2023.01.02-16.53.10:973][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.02-16.53.10:974][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.02-16.53.10:982][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.02-16.53.10:986][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/WinterWonderJamGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/WinterWonderJamGame.uproject"  -platform=all'
+[2023.01.02-16.53.10:986][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/WinterWonderJamGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/WinterWonderJamGame.uproject"  -platform=all" ]
+[2023.01.02-16.53.11:021][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.02-16.53.11:055][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.02-16.53.11:055][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.02-16.53.11:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.02-16.53.11:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.02-16.53.11:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.02-16.53.11:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.02-16.53.11:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.02-16.53.11:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.02-16.53.11:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.02-16.53.11:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.02-16.53.11:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.02-16.53.11:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.02-16.53.11:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.02-16.53.11:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.02-16.53.11:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.02-16.53.11:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.02-16.53.11:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.02-16.53.11:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.02-16.53.11:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.02-16.53.11:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.02-16.53.11:096][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.02-16.53.11:133][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.02-16.53.11:135][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.02-16.53.11:135][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.02-16.53.11:135][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.02-16.53.11:135][  0]LogTargetPlatformManager:   PCM
+[2023.01.02-16.53.11:137][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.02-16.53.11:137][  0]LogTargetPlatformManager:   BINKA
+[2023.01.02-16.53.11:137][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.02-16.53.11:138][  0]LogTargetPlatformManager:   OGG
+[2023.01.02-16.53.11:138][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.02-16.53.11:138][  0]LogTargetPlatformManager:   OPUS
+[2023.01.02-16.53.11:234][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.02-16.53.11:240][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.02-16.53.11:242][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.02-16.53.11:243][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.02-16.53.11:243][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.02-16.53.11:246][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.02-16.53.11:246][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.02-16.53.11:250][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.02-16.53.11:252][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.02-16.53.11:252][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.02-16.53.11:252][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.02-16.53.11:252][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.02-16.53.11:273][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.02-16.53.11:273][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.02-16.53.11:273][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.02-16.53.11:279][  0]LogDerivedDataCache: Speed tests for C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.02-16.53.11:279][  0]LogDerivedDataCache: Display: Performance to C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=311.18MBs, RandomWriteSpeed=278.81MBs. Assigned SpeedClass 'Local'
+[2023.01.02-16.53.11:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.02-16.53.11:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.02-16.53.11:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.02-16.53.11:286][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.02-16.53.11:286][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.02-16.53.11:287][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Intermediate/Shaders/WorkingDirectory/10328/).
+[2023.01.02-16.53.11:287][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/BE44FB7446BCAF1247DEDB86F8B3E4EC/'.
+[2023.01.02-16.53.11:287][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.02-16.53.11:287][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.01.02-16.53.15:245][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.02-16.53.15:245][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.02-16.53.15:257][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.02-16.53.15:291][  0]LogAssetRegistry: FAssetRegistry took 0.0121 seconds to start up
+[2023.01.02-16.53.15:296][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.02-16.53.15:454][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.02-16.53.15:454][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.02-16.53.15:726][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.02-16.53.15:727][  0]LogDeviceProfileManager: Active device profile: [00000B28C84A2140][00000B28AAA7C800 50] WindowsEditor
+[2023.01.02-16.53.15:727][  0]LogDeviceProfileManager: Profiles: [00000B28C84A1C00][00000B28C075C800 50] Windows, [00000B28C84A2140][00000B28AAA7C800 50] WindowsEditor, [00000B28C84A2680][00000B28BA690000 50] WindowsServer, [00000B28C84A24C0][00000B28BA64A000 50] WindowsClient, [00000B28C84A2BC0][00000B28C84B0000 50] IOS, [00000B28C84A1A40][00000B28C84B5000 50] iPadAir2, [00000B28C84A5240][00000B28C84BA000 50] IPadPro, [00000B28C84A55C0][00000B28C84B7800 50] iPadAir3, [00000B28C84A4440][00000B28C84BC800 50] iPadAir4, [00000B28C84A0FC0][00000B28BA5FA000 50] iPadMini4, [00000B28C84A2300][00000B28C8480000 50] iPadMini5, [00000B28C84A5080][00000B28C8485000 50] iPadMini6, [00000B28C84A7FC0][00000B28C848C800 50] iPhone6S, [00000B28C84A8340][00000B28C848A000 50] iPhone7, [00000B28C84A86C0][00000B28C8487800 50] iPodTouch7, [00000B28C84A5400][00000B28C84B2800 50] iPhone6SPlus, [00000B28C84A7C40][00000B28C84C0000 50] iPhone7Plus, [00000B28C84A2A00][00000B28C84C5000 50] iPhoneSE, [00000B28C84A47C0][00000B28C84C7800 50] iPhone8, [00000B28C84A7A80][00000B28C84CA000 50] iPhone8Plus, [00000B28C84A1500][00000B28C84CC800 50] iPhoneX, [00000B28C84A5780][00000B28C8482800 50] iPhoneXS, [00000B28C84A78C0][00000B28C84E0000 50] iPhoneXSMax, [00000B28C84A0C40][00000B28C84E5000 50] iPhoneXR, [00000B28C84A3640][00000B28C84E7800 50] iPhone11, [00000B28C84A7E00][00000B28C84EA000 50] iPhone11Pro, [00000B28C84A4D00][00000B28C84EC800 50] iPhone11ProMax, [00000B28C84A7540][00000B28C84C2800 50] iPhoneSE2, [00000B28C84A8C00][00000B28C84F0000 50] iPhone12Mini, [00000B28C84A63C0][00000B28C84F5000 50] iPhone12, [00000B28C84A08C0][00000B28C84F7800 50] iPhone12Pro, [00000B28C84A1340][00000B28C84FA000 50] iPhone12ProMax, [00000B28C84A2D80][00000B28C84FC800 50] iPhone13Mini, [00000B28C84A6C80][00000B28C84E2800 50] iPhone13, [00000B28C84A3B80][00000B28C8500000 50] iPhone13Pro, [00000B28C84A6900][00000B28C8505000 50] iPhone13ProMax, [00000B28C84A16C0][00000B28C8507800 50] iPadPro105, [00000B28C84A40C0][00000B28C850A000 50] iPadPro129, [00000B28C84A0540][00000B28C850C800 50] iPadPro97, [00000B28C84A6200][00000B28C84F2800 50] iPadPro2_129, [00000B28C84A5B00][00000B28C8520000 50] iPad5, [00000B28C84A4280][00000B28C8525000 50] iPad6, [00000B28C84A4EC0][00000B28C8527800 50] iPad7, [00000B28C84A5940][00000B28C852A000 50] iPad8, [00000B28C84A3480][00000B28C852C800 50] iPad9, [00000B28C84A0A80][00000B28C8502800 50] iPadPro11, [00000B28C84A8500][00000B28C8530000 50] iPadPro2_11, [00000B28C84A0380][00000B28C8535000 50] iPadPro3_11, [00000B28C84A32C0][00000B28C8537800 50] iPadPro3_129, [00000B28C84A2840][00000B28C853A000 50] iPadPro4_129, [00000B28C84A3D40][00000B28C853C800 50] iPadPro5_129, [00000B28C84A1180][00000B28C8522800 50] AppleTV, [00000B28C84A4980][00000B28C8540000 50] AppleTV4K, [00000B28C84A6E40][00000B28C8545000 50] TVOS, [00000B28C84AA2C0][00000B28C854A000 50] Mac, [00000B28C84AA640][00000B28C8547800 50] MacEditor, [00000B28C84A7000][00000B28C854C800 50] MacClient, [00000B28C84A8880][00000B28C8532800 50] MacServer, [00000B28C84AA9C0][00000B28C8552800 50] Linux, [00000B28C84A1F80][00000B28C8550000 50] LinuxEditor, [00000B28C84A5CC0][00000B28C8557800 50] LinuxArm64Editor, [00000B28C84A8180][00000B28C855A000 50] LinuxArm64, [00000B28C84AA100][00000B28C855C800 50] LinuxClient, [00000B28C84A9D80][00000B28C8542800 50] LinuxArm64Client, [00000B28C84A3100][00000B28C8560000 50] LinuxServer, [00000B28C84AA480][00000B28C8565000 50] LinuxArm64Server, [00000B28C84A8A40][00000B28C8567800 50] Android, [00000B28C84A9A00][00000B28C856A000 50] Android_Preview_OpenGL, [00000B28C84A8DC0][00000B28C856C800 50] Android_Preview_Vulkan, [00000B28C84A6740][00000B28C8555000 50] Android_Low, [00000B28C84A4600][00000B28C8570000 50] Android_Mid, [00000B28C84A7700][00000B28C8575000 50] Android_High, [00000B28C84A0E00][00000B28C8577800 50] Android_Default, [00000B28C84A7380][00000B28C857A000 50] Android_Adreno4xx, [00000B28C84A0700][00000B28C857C800 50] Android_Adreno5xx_Low, [00000B28C84AA800][00000B28C8562800 50] Android_Adreno5xx, [00000B28C84A39C0][00000B28C8580000 50] Android_Adreno6xx, [00000B28C84A9BC0][00000B28C8585000 50] Android_Adreno6xx_Vulkan, [00000B28C84A1880][00000B28C8587800 50] Android_Adreno7xx, [00000B28C84A01C0][00000B28C858A000 50] Android_Adreno7xx_Vulkan, [00000B28C84A6AC0][00000B28C858C800 50] Android_Mali_T6xx, [00000B28C84A5E80][00000B28C8572800 50] Android_Mali_T7xx, [00000B28C84AB7C0][00000B28C8590000 50] Android_Mali_T8xx, [00000B28C84A94C0][00000B28C8595000 50] Android_Mali_G71, [00000B28C84AB440][00000B28C8597800 50] Android_Mali_G72, [00000B28C84A71C0][00000B28C859A000 50] Android_Mali_G72_Vulkan, [00000B28C84ABD00][00000B28C859C800 50] Android_Mali_G76, [00000B28C84AB280][00000B28C8582800 50] Android_Mali_G76_Vulkan, [00000B28C84A0000][00000B28C85A0000 50] Android_Mali_G77, [00000B28C84ABB40][00000B28C85A5000 50] Android_Mali_G77_Vulkan, [00000B28C84AAB80][00000B28C85A7800 50] Android_Mali_G78, [00000B28C84A6040][00000B28C85AA000 50] Android_Mali_G78_Vulkan, [00000B28C84AC240][00000B28C85AC800 50] Android_Mali_G710, [00000B28C84AC400][00000B28C8592800 50] Android_Mali_G710_Vulkan, [00000B28C84AB0C0][00000B28C85B0000 50] Android_Xclipse_920, [00000B28C84A9F40][00000B28C85B5000 50] Android_Xclipse_920_Vulkan, [00000B28C84ACE80][00000B28C85B7800 50] Android_Vulkan_SM5, [00000B28C84AC5C0][00000B28C85BA000 50] Android_PowerVR_G6xxx, [00000B28C84A4B40][00000B28C85BC800 50] Android_PowerVR_GT7xxx, [00000B28C84AB600][00000B28C85A2800 50] Android_PowerVR_GE8xxx, [00000B28C84A3F00][00000B28C85C0000 50] Android_PowerVR_GM9xxx, [00000B28C84AD900][00000B28C85C5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B28C84AC940][00000B28C85C7800 50] Android_TegraK1, [00000B28C84AB980][00000B28C85CA000 50] Android_Unknown_Vulkan, [00000B28C84ACCC0][00000B28C85CC800 50] Oculus_Quest, [00000B28C84ADC80][00000B28C85B2800 50] Oculus_Quest2, [00000B28C84AE1C0][00000B28C85D0000 50] HoloLens, 
+[2023.01.02-16.53.15:727][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.02-16.53.15:730][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2023.01.02-16.53.15:730][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.02-16.53.15:730][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.02-16.53.15:730][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.02-16.53.15:730][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.02-16.53.15:813][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.02-16.53.16:012][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.02-16.53.16:012][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.02-16.53.16:012][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.02-16.53.16:012][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.02-16.53.16:012][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.02-16.53.16:044][  0]LogNetVersion: WinterWonderJamGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1630969576)
+[2023.01.02-16.53.16:430][  0]LogSlate: Border
+[2023.01.02-16.53.16:430][  0]LogSlate: BreadcrumbButton
+[2023.01.02-16.53.16:430][  0]LogSlate: Default
+[2023.01.02-16.53.16:430][  0]LogSlate: Icons.Save
+[2023.01.02-16.53.16:430][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.02-16.53.16:430][  0]LogSlate: ListView
+[2023.01.02-16.53.16:430][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.02-16.53.16:430][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.02-16.53.16:430][  0]LogSlate: TableView.DarkRow
+[2023.01.02-16.53.16:430][  0]LogSlate: TableView.Row
+[2023.01.02-16.53.16:430][  0]LogSlate: TreeView
+[2023.01.02-16.53.16:747][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.16:810][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.16:810][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.16:972][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.02-16.53.16:972][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.02-16.53.16:972][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.02-16.53.17:429][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D780B8EA47565CFD38604A9E9DACA5CB | Instance: F7B2128D4045865DF865109B3032042F (ANDREW-DESKTOP-10328).
+[2023.01.02-16.53.17:458][  0]LogPython: Using Python 3.9.7
+[2023.01.02-16.53.18:330][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.02-16.53.18:336][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.02-16.53.18:411][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.18:418][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.18:440][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.18:470][  0]LogUProjectInfo: Found projects:
+[2023.01.02-16.53.18:749][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.02-16.53.18:804][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.02-16.53.18:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.02-16.53.18:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.02-16.53.18:910][  0]LogCollectionManager: Loaded 0 collections in 0.001559 seconds
+[2023.01.02-16.53.19:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Saved/Collections/' took 0.00s
+[2023.01.02-16.53.19:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/Developers/andre/Collections/' took 0.00s
+[2023.01.02-16.53.19:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/Collections/' took 0.00s
+[2023.01.02-16.53.19:300][  0]LogEngine: Initializing Engine...
+[2023.01.02-16.53.19:314][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.02-16.53.19:330][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.02-16.53.19:741][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.02-16.53.19:741][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.02-16.53.19:750][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.02-16.53.19:779][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.02-16.53.19:779][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.02-16.53.19:801][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.02-16.53.19:804][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.02-16.53.19:804][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.02-16.53.19:805][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.02-16.53.19:805][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.02-16.53.19:805][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.02-16.53.19:805][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.02-16.53.19:805][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.02-16.53.19:805][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.02-16.53.19:805][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.02-16.53.19:810][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.02-16.53.19:836][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2023.01.02-16.53.19:836][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.02-16.53.19:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.02-16.53.19:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.02-16.53.19:855][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.02-16.53.19:855][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.02-16.53.19:856][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.02-16.53.19:856][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.02-16.53.19:856][  0]LogInit: FAudioDevice initialized.
+[2023.01.02-16.53.19:856][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.02-16.53.19:856][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.02-16.53.19:856][  0]LogInit: Texture streaming: Enabled
+[2023.01.02-16.53.19:890][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.02-16.53.19:899][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.02-16.53.19:925][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.02-16.53.19:932][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.02-16.53.19:932][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.02-16.53.21:173][  0]LogLiveCoding: Display: First instance in process group "UE_WinterWonderJamGame_0x658d1dd0", spawning console
+[2023.01.02-16.53.21:173][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.02-16.53.21:173][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.02-16.53.21:200][  0]LogInit: Transaction tracking system initialized
+[2023.01.02-16.53.21:278][  0]BlueprintLog: New page: Editor Load
+[2023.01.02-16.53.21:472][  0]LocalizationService: Localization service is disabled
+[2023.01.02-16.53.21:520][  0]TimingProfiler: Initialize
+[2023.01.02-16.53.21:520][  0]TimingProfiler: OnSessionChanged
+[2023.01.02-16.53.21:520][  0]LoadingProfiler: Initialize
+[2023.01.02-16.53.21:520][  0]LoadingProfiler: OnSessionChanged
+[2023.01.02-16.53.21:520][  0]NetworkingProfiler: Initialize
+[2023.01.02-16.53.21:520][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.02-16.53.21:520][  0]MemoryProfiler: Initialize
+[2023.01.02-16.53.21:521][  0]MemoryProfiler: OnSessionChanged
+[2023.01.02-16.53.22:355][  0]LogFileCache: Scanning file cache for directory 'C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/' took 0.01s
+[2023.01.02-16.53.22:355][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.02-16.53.22:431][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.02-16.53.22:433][  0]SourceControl: Source control is disabled
+[2023.01.02-16.53.22:433][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.124
+[2023.01.02-16.53.22:433][  0]Cmd: MAP LOAD FILE="../../../../../../Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.02-16.53.22:438][  0]LightingResults: New page: Lighting Build
+[2023.01.02-16.53.22:445][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-16.53.22:445][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-16.53.22:445][  0]MapCheck: New page: Map Check
+[2023.01.02-16.53.22:445][  0]LightingResults: New page: Lighting Build
+[2023.01.02-16.53.22:450][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.02-16.53.22:453][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.02-16.53.23:226][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.01.02-16.53.23:235][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.02-16.53.23:235][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.01.02-16.53.23:239][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.02-16.53.23:239][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.02-16.53.23:547][  0]LogLinker: Warning: [AssetLog] C:\Users\andre\source\repos\testRepo\WinterWonderJamGame\Content\Models\book\3D_OpenBook.uasset: Failed to load '/Game/_Levels/MindPalace/MindPalaceVFX/OpenBook/M_BookMaterial': Can't find file.
+[2023.01.02-16.53.23:547][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_Levels/MindPalace/MindPalaceVFX/OpenBook/M_BookMaterial'
+[2023.01.02-16.53.23:694][  0]LogWorldPartition: Display: WorldPartition initialize took 454 ms
+[2023.01.02-16.53.23:704][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.02-16.53.23:713][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.02-16.53.23:713][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.02-16.53.23:713][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.353ms to complete.
+[2023.01.02-16.53.23:713][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.280
+[2023.01.02-16.53.23:727][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.417
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: ================================================
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.02-16.53.23:727][  0]LogShaderCompilers: Display: ================================================
+[2023.01.02-16.53.23:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-16.53.23:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-16.53.23:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-16.53.23:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-16.53.23:871][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:871][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:875][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:876][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:880][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:880][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:884][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:884][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:894][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:894][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:899][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:899][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:902][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:902][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:907][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:907][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:910][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:916][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.02-16.53.23:916][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.02-16.53.23:916][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.02-16.53.24:145][  0]LogSlate: Took 0.003405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.02-16.53.24:150][  0]LogSlate: Took 0.003242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.02-16.53.24:156][  0]LogSlate: Took 0.003528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.02-16.53.24:160][  0]LogSlate: Took 0.003129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.02-16.53.24:164][  0]LogSlate: Took 0.004295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.02-16.53.24:216][  0]LogViewport: Scene viewport resized to 1564x815, mode Windowed.
+[2023.01.02-16.53.24:270][  0]LogSlate: Took 0.003128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.02-16.53.24:989][  0]LogStall: Startup...
+[2023.01.02-16.53.24:991][  0]LogStall: Startup complete.
+[2023.01.02-16.53.25:003][  0]LogLoad: (Engine Initialization) Total time: 18.69 seconds
+[2023.01.02-16.53.25:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.02-16.53.25:096][  0]LogAssetRegistry: Asset discovery search completed in 9.8061 seconds
+[2023.01.02-16.53.25:124][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.02-16.53.25:126][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.02-16.53.25:357][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/andre/source/repos/testRepo/WinterWonderJamGame/Content/' took 0.27s
+[2023.01.02-16.53.27:307][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.01.02-16.54.33:702][273]LogMaterial: Display: Missing cached shadermap for MI_Rock_Cliffs in PCD3D_SM5, Default, SM5 (DDC key hash: BE4C872E10CA8303B5BD8848C6A430DD54A8A099), compiling. 
+[2023.01.02-16.54.33:980][273]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Rocks_Cliff_AORM.T_Rocks_Cliff_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.33:980][273]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Rocks_Cliff_B.T_Rocks_Cliff_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.33:980][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.02-16.54.34:176][273]LogStaticMesh: Display: Building static mesh SM_Rock_Cliff_02...
+[2023.01.02-16.54.34:247][273]LogStaticMesh: Display: Building static mesh SM_Rock_Cliff_03...
+[2023.01.02-16.54.34:370][273]LogStaticMesh: Built static mesh [0.20s] /Game/StylizedProvencal/Meshes/SM_Rock_Cliff_02.SM_Rock_Cliff_02
+[2023.01.02-16.54.34:374][273]LogStaticMesh: Display: Building static mesh SM_Rock_Cliff_04...
+[2023.01.02-16.54.34:551][273]LogStaticMesh: Built static mesh [0.30s] /Game/StylizedProvencal/Meshes/SM_Rock_Cliff_03.SM_Rock_Cliff_03
+[2023.01.02-16.54.34:551][273]LogStaticMesh: Display: Building static mesh SM_Rock_Large_01...
+[2023.01.02-16.54.34:606][273]LogStaticMesh: Built static mesh [0.22s] /Game/StylizedProvencal/Meshes/SM_Rock_Cliff_04.SM_Rock_Cliff_04
+[2023.01.02-16.54.34:606][273]LogStaticMesh: Display: Building static mesh SM_Rock_Large_02...
+[2023.01.02-16.54.34:901][273]LogStaticMesh: Built static mesh [0.29s] /Game/StylizedProvencal/Meshes/SM_Rock_Large_02.SM_Rock_Large_02
+[2023.01.02-16.54.34:901][273]LogStaticMesh: Display: Building static mesh SM_Rock_Small_01...
+[2023.01.02-16.54.34:921][273]LogStaticMesh: Built static mesh [0.03s] /Game/StylizedProvencal/Meshes/SM_Rock_Small_01.SM_Rock_Small_01
+[2023.01.02-16.54.34:925][273]LogStaticMesh: Display: Building static mesh SM_Rock_Small_02...
+[2023.01.02-16.54.34:994][273]LogStaticMesh: Built static mesh [0.06s] /Game/StylizedProvencal/Meshes/SM_Rock_Small_02.SM_Rock_Small_02
+[2023.01.02-16.54.34:994][273]LogStaticMesh: Display: Building static mesh SM_Rock_Small_03...
+[2023.01.02-16.54.34:998][273]LogStaticMesh: Built static mesh [0.45s] /Game/StylizedProvencal/Meshes/SM_Rock_Large_01.SM_Rock_Large_01
+[2023.01.02-16.54.35:011][273]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Rock_Small_03.SM_Rock_Small_03
+[2023.01.02-16.54.35:100][273]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Rocks_AORM.T_Rocks_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.35:136][273]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Rocks_Cliff_N.T_Rocks_Cliff_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.35:502][273]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Rocks_B.T_Rocks_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.35:514][273]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Rocks_N.T_Rocks_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.43:510][273]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.02-16.54.47:860][708]LogMeshUtilities: Finished distance field build in 4.3s - 77x63x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 77% occupied, 458 triangles, SM_Rock_Cliff_02
+[2023.01.02-16.54.49:609][877]LogMeshUtilities: Finished distance field build in 6.1s - 126x98x91 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 65% occupied, 628 triangles, SM_Rock_Cliff_03
+[2023.01.02-16.54.50:982][ 10]LogMeshUtilities: Finished distance field build in 2.8s - 63x63x126 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 82% occupied, 476 triangles, SM_Rock_Cliff_04
+[2023.01.02-16.54.54:644][384]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.02-16.54.55:645][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Overview_BuiltData.Overview_BuiltData:NewReflectionComponentTexture62D1E3F046D1D7A7D74B2391F318D0F9 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.55:645][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WindMill_AORM.T_WindMill_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.55:645][384]LogMaterial: Display: Missing cached shadermap for MI_WindMill_Palms in PCD3D_SM5, Default, SM5 (DDC key hash: EE43EF97E9744C690C9D016C7CE88ECA3FD43742), compiling. 
+[2023.01.02-16.54.55:846][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WindMill_B.T_WindMill_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.55:846][384]LogMaterial: Display: Missing cached shadermap for MM_Decals_Basecolor in PCD3D_SM5, Default, SM5 (DDC key hash: E05B646B8AF25D5A85B820517AC36E81B8903CF8), compiling. 
+[2023.01.02-16.54.56:004][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Overview.Overview:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.56:004][384]LogStaticMesh: Display: Building static mesh SM_WindMill_Palms...
+[2023.01.02-16.54.56:004][384]LogStaticMesh: Built static mesh [0.06s] /Game/StylizedProvencal/Meshes/SM_WindMill_Palms.SM_WindMill_Palms
+[2023.01.02-16.54.56:004][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Overview.Overview:PersistentLevel.Landscape_0.Texture2D_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.56:004][384]LogStaticMesh: Display: Building static mesh SM_WindMill_SM_WindMill...
+[2023.01.02-16.54.56:004][384]LogMaterial: Display: Missing cached shadermap for MM_Master_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 50B00C32C98728F74CF18A9F1E9981B71AE6370F), compiling. 
+[2023.01.02-16.54.56:113][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WindMill_N.T_WindMill_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.56:113][384]LogMaterial: Display: Missing cached shadermap for MI_Grass_a in PCD3D_SM5, Default, SM5 (DDC key hash: E045A1D84BFFE917E4107C30E9CBED0F3B594A19), compiling. 
+[2023.01.02-16.54.56:215][384]LogMaterial: Display: Missing cached shadermap for MM_PP_Sharpen in PCD3D_SM5, Default, SM5 (DDC key hash: E1322B257DCB9DC8474FEE353B610F6B0F7777B5), compiling. 
+[2023.01.02-16.54.56:236][384]LogMaterial: Display: Missing cached shadermap for MM_Master_Flora in PCD3D_SM5, Default, SM5 (DDC key hash: 118B1758DC3DDD1B0BEE2D15D523F9B4092856E9), compiling. 
+[2023.01.02-16.54.56:333][384]LogStaticMesh: Display: Building static mesh SM_Grass_Small_01_a...
+[2023.01.02-16.54.56:333][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Grass_Small_01_a.SM_Grass_Small_01_a
+[2023.01.02-16.54.56:333][384]LogStaticMesh: Display: Building static mesh SM_Grass_Small_01_b...
+[2023.01.02-16.54.56:333][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Grass_Small_01_b.SM_Grass_Small_01_b
+[2023.01.02-16.54.56:333][384]LogStaticMesh: Display: Building static mesh SM_Grass_Small_02_a...
+[2023.01.02-16.54.56:333][384]LogMaterial: Display: Missing cached shadermap for MI_Flora_02_TwoSided in PCD3D_SM5, Default, SM5 (DDC key hash: 80F1AB5B54ED2DAD4720058860F6D6A22E458755), compiling. 
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Grass_Small_02_a.SM_Grass_Small_02_a
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Display: Building static mesh SM_Grass_Small_02_b...
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Grass_Small_02_b.SM_Grass_Small_02_b
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Display: Building static mesh SM_GrassField_01_a...
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_GrassField_01_a.SM_GrassField_01_a
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Display: Building static mesh SM_GrassField_01_b...
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_GrassField_01_b.SM_GrassField_01_b
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Display: Building static mesh SM_GrassField_02_a...
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_GrassField_02_a.SM_GrassField_02_a
+[2023.01.02-16.54.56:430][384]LogStaticMesh: Display: Building static mesh SM_GrassField_02_b...
+[2023.01.02-16.54.56:430][384]LogMaterial: Display: Missing cached shadermap for MI_Flora_Flowers in PCD3D_SM5, Default, SM5 (DDC key hash: 928FB8E3C669E1837DE135B5ED7774C381F92A87), compiling. 
+[2023.01.02-16.54.56:529][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_GrassField_02_b.SM_GrassField_02_b
+[2023.01.02-16.54.56:529][384]LogStaticMesh: Display: Building static mesh SM_Bush_02...
+[2023.01.02-16.54.56:529][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Bush_02.SM_Bush_02
+[2023.01.02-16.54.56:529][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Decals_B.T_Decals_B (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.56:529][384]LogMaterial: Display: Missing cached shadermap for MI_Flora_02_TwoSided_2_Field in PCD3D_SM5, Default, SM5 (DDC key hash: DAEAABEC6C0254A43F0FFFD81989420982E2579E), compiling. 
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Display: Building static mesh SM_Flower_01_a...
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Flower_01_a.SM_Flower_01_a
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Display: Building static mesh SM_Flower_01_b...
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Flower_01_b.SM_Flower_01_b
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Display: Building static mesh SM_Flower_01_c...
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Built static mesh [0.03s] /Game/StylizedProvencal/Meshes/SM_Flower_01_c.SM_Flower_01_c
+[2023.01.02-16.54.56:625][384]LogStaticMesh: Display: Building static mesh SM_Flower_02_a...
+[2023.01.02-16.54.56:625][384]LogMaterial: Display: Missing cached shadermap for MM_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: E8DEA12E5B55A5BD4E13F858F94D00DD905179BE), compiling. 
+[2023.01.02-16.54.56:662][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Flower_02_a.SM_Flower_02_a
+[2023.01.02-16.54.56:662][384]LogStaticMesh: Display: Building static mesh SM_Flower_02_b...
+[2023.01.02-16.54.56:662][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Flower_02_b.SM_Flower_02_b
+[2023.01.02-16.54.56:662][384]LogStaticMesh: Display: Building static mesh SM_Flower_02_c...
+[2023.01.02-16.54.56:662][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Flower_02_c.SM_Flower_02_c
+[2023.01.02-16.54.56:662][384]LogStaticMesh: Display: Building static mesh SM_Flower_03_a...
+[2023.01.02-16.54.56:662][384]LogMaterial: Display: Missing cached shadermap for MI_Flora_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 557501AF14E304895CC7B1CC1C7F86B4C17DBB3B), compiling. 
+[2023.01.02-16.54.56:765][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Flower_03_a.SM_Flower_03_a
+[2023.01.02-16.54.56:765][384]LogStaticMesh: Display: Building static mesh SM_Flower_03_b...
+[2023.01.02-16.54.56:765][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Flower_03_b.SM_Flower_03_b
+[2023.01.02-16.54.56:765][384]LogMaterial: Display: Missing cached shadermap for MI_Flora_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 41E9B8373667419D6C331BDFBF4A5898C9C68CD2), compiling. 
+[2023.01.02-16.54.56:859][384]LogMaterial: Display: Missing cached shadermap for MI_StoneWall_VertexPaint_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 501BECD266EFC6FA5F4FA16DFEA15AB05FEAB755), compiling. 
+[2023.01.02-16.54.56:929][384]LogMaterial: Display: Missing cached shadermap for MM_Clouds in PCD3D_SM5, Default, SM5 (DDC key hash: 5D0EC5C88FA737BAC8EE12B88F5E422743251F03), compiling. 
+[2023.01.02-16.54.56:969][384]LogMaterial: Display: Missing cached shadermap for MI_TunnelProps in PCD3D_SM5, Default, SM5 (DDC key hash: 546233E6383DAF39CAD266F226AD0785032C50C9), compiling. 
+[2023.01.02-16.54.57:092][384]LogStaticMesh: Display: Building static mesh SM_Barrel_Top...
+[2023.01.02-16.54.57:092][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0674B9F7AEA962A05D20EB364AF8BF8848B7DDDE), compiling. 
+[2023.01.02-16.54.57:158][384]LogStaticMesh: Built static mesh [0.06s] /Game/StylizedProvencal/Meshes/SM_Barrel_Top.SM_Barrel_Top
+[2023.01.02-16.54.57:944][384]LogStaticMesh: Display: Building static mesh SM_Bridge...
+[2023.01.02-16.54.57:944][384]LogMaterial: Warning: MM_Master_Grass: Requesting an invalid TextureIndex! (4294967295 / 6)
+[2023.01.02-16.54.57:944][384]LogMaterial: Display: Missing cached shadermap for MM_Water_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 798A2DA6BC1BC08E35A9E948FB85EDA1B9F9C787), compiling. 
+[2023.01.02-16.54.58:037][384]LogMaterial: Display: Missing cached shadermap for MI_Tree_Flora_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E10B69550AEC21D18A54A6D644E8F55450E2C95), compiling. 
+[2023.01.02-16.54.58:135][384]LogStaticMesh: Built static mesh [0.92s] /Game/StylizedProvencal/Meshes/SM_Bridge.SM_Bridge
+[2023.01.02-16.54.58:135][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_0 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:135][384]LogStaticMesh: Display: Building static mesh SM_Bush_01...
+[2023.01.02-16.54.58:135][384]LogMaterial: Display: Missing cached shadermap for MM_PP_ToonShading in PCD3D_SM5, Default, SM5 (DDC key hash: 1F66474EE2A6050FC71861E2C4F2D2F4BFC53662), compiling. 
+[2023.01.02-16.54.58:146][384]LogMaterial: Display: Missing cached shadermap for MI_PP_ToonShading in PCD3D_SM5, Default, SM5 (DDC key hash: 5748E453B9A283834AE993C7B781F626C53D0438), compiling. 
+[2023.01.02-16.54.58:211][384]LogMaterial: Display: Missing cached shadermap for MM_WindTrails in PCD3D_SM5, Default, SM5 (DDC key hash: 6FAC626FF0E0283CEF9F6D5025E4F5ADC15897BE), compiling. 
+[2023.01.02-16.54.58:338][384]LogStaticMesh: Built static mesh [0.09s] /Game/StylizedProvencal/Meshes/SM_Bush_01.SM_Bush_01
+[2023.01.02-16.54.58:338][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_10 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:338][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_100 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:338][384]LogStaticMesh: Display: Building static mesh SM_Bush_03...
+[2023.01.02-16.54.58:338][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Bush_03.SM_Bush_03
+[2023.01.02-16.54.58:338][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_102 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:338][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_103 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:338][384]LogStaticMesh: Display: Building static mesh SM_Bush_04...
+[2023.01.02-16.54.58:338][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_Castle_Wall) ...
+[2023.01.02-16.54.58:927][384]LogStaticMesh: Built static mesh [0.36s] /Game/StylizedProvencal/Meshes/SM_Bush_04.SM_Bush_04
+[2023.01.02-16.54.58:927][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_105 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:928][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_107 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.58:928][384]LogStaticMesh: Display: Building static mesh SM_Cart...
+[2023.01.02-16.54.58:928][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_67 in PCD3D_SM5, Default, SM5 (DDC key hash: D710D798F65E835745C2D3B354A7C1EC272B671C), compiling. 
+[2023.01.02-16.54.59:001][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_115 in PCD3D_SM5, Default, SM5 (DDC key hash: 4CC9D2EC4755B870DF403ADE7813F4C02589156A), compiling. 
+[2023.01.02-16.54.59:072][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_126 in PCD3D_SM5, Default, SM5 (DDC key hash: 11DF9DF4D72519B294EF208105EF21EE18EA6428), compiling. 
+[2023.01.02-16.54.59:141][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F6DDF52BE7339BD90EC406C1A3149A3547BDD04), compiling. 
+[2023.01.02-16.54.59:208][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_102 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D43190A29B5E053E3BBD16A86CAB1B984B02E54), compiling. 
+[2023.01.02-16.54.59:277][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_394 in PCD3D_SM5, Default, SM5 (DDC key hash: 84B5099C39EDCB0EEF6A9A2EA6CB3A6FFFF24E0D), compiling. 
+[2023.01.02-16.54.59:345][384]LogStaticMesh: Built static mesh [0.64s] /Game/StylizedProvencal/Meshes/SM_Cart.SM_Cart
+[2023.01.02-16.54.59:345][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_108 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.59:345][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_109 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.54.59:345][384]LogStaticMesh: Display: Building static mesh SM_Clouds...
+[2023.01.02-16.54.59:345][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_89 in PCD3D_SM5, Default, SM5 (DDC key hash: 86CDD60977F3C5E5620E95C8BA6DD97B8FC8ED28), compiling. 
+[2023.01.02-16.54.59:419][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_110 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B8031B560276B4C573D1BC86BC848B5D43A48EE), compiling. 
+[2023.01.02-16.54.59:489][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_118 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DAEBAE8D234FCF4F24B8FE4F896C3625D6C9437), compiling. 
+[2023.01.02-16.54.59:558][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_543 in PCD3D_SM5, Default, SM5 (DDC key hash: E8DDF2BD7F34D823A2701D61FAAB7E1D32B91DB3), compiling. 
+[2023.01.02-16.54.59:643][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_172 in PCD3D_SM5, Default, SM5 (DDC key hash: 0018E8771F212C3A6F5809A9204E36C543F1E429), compiling. 
+[2023.01.02-16.54.59:715][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_207 in PCD3D_SM5, Default, SM5 (DDC key hash: 05D25DF76B035455006EF4F6F41D1897B5C9DDE9), compiling. 
+[2023.01.02-16.54.59:785][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_163 in PCD3D_SM5, Default, SM5 (DDC key hash: 710DE223AE61422E8542ABE433195A735EB01539), compiling. 
+[2023.01.02-16.54.59:856][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_53 in PCD3D_SM5, Default, SM5 (DDC key hash: 19C52AF314F13E2DED3B60A5D9693A81B0C780C2), compiling. 
+[2023.01.02-16.54.59:935][384]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_85 in PCD3D_SM5, Default, SM5 (DDC key hash: DC1908841D2FD3CB80468A9BA468697B8841A236), compiling. 
+[2023.01.02-16.55.00:019][384]LogStaticMesh: Built static mesh [0.66s] /Game/StylizedProvencal/Meshes/SM_Clouds.SM_Clouds
+[2023.01.02-16.55.00:019][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_11 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:019][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_12 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:019][384]LogStaticMesh: Display: Building static mesh SM_Crate_01...
+[2023.01.02-16.55.00:105][384]LogStaticMesh: Built static mesh [4.04s] /Game/StylizedProvencal/Meshes/SM_WindMill_SM_WindMill.SM_WindMill_SM_WindMill
+[2023.01.02-16.55.00:105][384]LogStaticMesh: Built static mesh [0.07s] /Game/StylizedProvencal/Meshes/SM_Crate_01.SM_Crate_01
+[2023.01.02-16.55.00:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_14 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_167 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_168 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_169 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:105][384]LogStaticMesh: Display: Building static mesh SM_Crate_03...
+[2023.01.02-16.55.00:136][384]LogStaticMesh: Display: Building static mesh SM_RockBrick_Small_03...
+[2023.01.02-16.55.00:136][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RockBrick_Small_03.SM_RockBrick_Small_03
+[2023.01.02-16.55.00:136][384]LogStaticMesh: Built static mesh [0.03s] /Game/StylizedProvencal/Meshes/SM_Crate_03.SM_Crate_03
+[2023.01.02-16.55.00:136][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_170 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:136][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_171 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:136][384]LogStaticMesh: Display: Building static mesh SM_Door...
+[2023.01.02-16.55.00:136][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_RockBrick_Small_03) ...
+[2023.01.02-16.55.00:159][384]LogStaticMesh: Display: Building static mesh SM_Fence_01...
+[2023.01.02-16.55.00:159][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_RockBrick_Small_01) ...
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Built static mesh [0.16s] /Game/StylizedProvencal/Meshes/SM_Door.SM_Door
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Display: Building static mesh SM_RockBrick_Small_01...
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RockBrick_Small_01.SM_RockBrick_Small_01
+[2023.01.02-16.55.00:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_172 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Display: Building static mesh SM_RockBrick_Medium_02...
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02
+[2023.01.02-16.55.00:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_173 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Display: Building static mesh SM_RockBrick_Small_02...
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RockBrick_Small_02.SM_RockBrick_Small_02
+[2023.01.02-16.55.00:351][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_01) ...
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_175 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_176 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogStaticMesh: Display: Building static mesh SM_Flower_Pot...
+[2023.01.02-16.55.00:757][384]LogStaticMesh: Built static mesh [0.05s] /Game/StylizedProvencal/Meshes/SM_Flower_Pot.SM_Flower_Pot
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_177 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_178 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_179 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_180 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogStaticMesh: Display: Building static mesh SM_House_Barn...
+[2023.01.02-16.55.00:757][384]LogStaticMesh: Built static mesh [0.57s] /Game/StylizedProvencal/Meshes/SM_Fence_01.SM_Fence_01
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_181 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_182 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.00:757][384]LogStaticMesh: Display: Building static mesh SM_House_Ivy...
+[2023.01.02-16.55.00:757][384]LogObjectTools: Deleting 2 worlds: /Game/StylizedProvencal/Maps/Overview.Overview, /Game/StylizedProvencal/Maps/Main.Main
+[2023.01.02-16.55.00:757][384]LogObjectTools: Currently 14 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12
+[2023.01.02-16.55.00:796][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.01.02-16.55.01:550][384]LogStaticMesh: Built static mesh [1.07s] /Game/StylizedProvencal/Meshes/SM_House_Barn.SM_House_Barn
+[2023.01.02-16.55.01:565][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_183 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.01:565][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_184 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.01:565][384]LogStaticMesh: Display: Building static mesh SM_House_Main...
+[2023.01.02-16.55.03:485][384]LogStaticMesh: Built static mesh [2.76s] /Game/StylizedProvencal/Meshes/SM_House_Ivy.SM_House_Ivy
+[2023.01.02-16.55.03:520][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_185 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.03:520][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_186 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.03:520][384]LogStaticMesh: Display: Building static mesh SM_House_Main_Decals...
+[2023.01.02-16.55.03:537][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_House_Main_Decals.SM_House_Main_Decals
+[2023.01.02-16.55.03:537][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_187 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.03:537][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_188 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.03:537][384]LogStaticMesh: Display: Building static mesh SM_House_Passage...
+[2023.01.02-16.55.09:296][384]LogStaticMesh: Built static mesh [5.75s] /Game/StylizedProvencal/Meshes/SM_House_Passage.SM_House_Passage
+[2023.01.02-16.55.09:333][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_189 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:333][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_20 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:333][384]LogStaticMesh: Display: Building static mesh SM_Jar_01...
+[2023.01.02-16.55.09:471][384]LogStaticMesh: Built static mesh [0.13s] /Game/StylizedProvencal/Meshes/SM_Jar_01.SM_Jar_01
+[2023.01.02-16.55.09:471][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_21 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:471][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_24 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:508][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_245 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:508][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_246 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:508][384]LogStaticMesh: Display: Building static mesh SM_MatTest...
+[2023.01.02-16.55.09:666][384]LogStaticMesh: Built static mesh [0.17s] /Game/StylizedProvencal/Meshes/SM_MatTest.SM_MatTest
+[2023.01.02-16.55.09:668][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_247 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:668][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_25 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:700][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_250 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:700][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_251 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:700][384]LogStaticMesh: Display: Building static mesh SM_Rock_Wall_02...
+[2023.01.02-16.55.09:856][384]LogStaticMesh: Built static mesh [0.16s] /Game/StylizedProvencal/Meshes/SM_Rock_Wall_02.SM_Rock_Wall_02
+[2023.01.02-16.55.09:856][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_252 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:856][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_255 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:856][384]LogStaticMesh: Display: Building static mesh SM_RoofTile_01...
+[2023.01.02-16.55.09:861][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RoofTile_01.SM_RoofTile_01
+[2023.01.02-16.55.09:862][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_256 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:862][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_257 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:862][384]LogStaticMesh: Display: Building static mesh SM_RoofTile_02...
+[2023.01.02-16.55.09:874][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RoofTile_02.SM_RoofTile_02
+[2023.01.02-16.55.09:874][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_26 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:874][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_260 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:874][384]LogStaticMesh: Display: Building static mesh SM_RoofTile_03...
+[2023.01.02-16.55.09:879][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RoofTile_03.SM_RoofTile_03
+[2023.01.02-16.55.09:891][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_261 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:891][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_262 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:891][384]LogStaticMesh: Display: Building static mesh SM_RoofTile_04...
+[2023.01.02-16.55.09:891][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RoofTile_04.SM_RoofTile_04
+[2023.01.02-16.55.09:897][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_27 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:897][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_28 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.09:897][384]LogStaticMesh: Display: Building static mesh SM_Shrine...
+[2023.01.02-16.55.10:534][384]LogStaticMesh: Built static mesh [0.64s] /Game/StylizedProvencal/Meshes/SM_Shrine.SM_Shrine
+[2023.01.02-16.55.10:538][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_29 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.10:538][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_299 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.10:538][384]LogStaticMesh: Display: Building static mesh SM_Shrine_Candle...
+[2023.01.02-16.55.11:050][384]LogStaticMesh: Built static mesh [0.51s] /Game/StylizedProvencal/Meshes/SM_Shrine_Candle.SM_Shrine_Candle
+[2023.01.02-16.55.11:050][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_30 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:051][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_305 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:071][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_306 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:086][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_31 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:086][384]LogStaticMesh: Display: Building static mesh SM_Test_RoofTile...
+[2023.01.02-16.55.11:174][384]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.02-16.55.11:198][384]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/StylizedProvencal/Maps/Overview_BuiltData.Overview_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/StylizedProvencal/Maps/Overview.Overview
+	Asset Type: World
+	Asset Name: /Game/StylizedProvencal/Maps/Main_BuiltData.Main_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/StylizedProvencal/Maps/Main.Main
+	Asset Type: World
+	Asset Name: /Game/StylizedProvencal/Maps/LayerInfo/Grass_LayerInfo.Grass_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+	Asset Name: /Game/StylizedProvencal/Maps/LayerInfo/Grass_02_LayerInfo.Grass_02_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+	Asset Name: /Game/StylizedProvencal/Maps/LayerInfo/Flowers_Light_LayerInfo.Flowers_Light_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+	Asset Name: /Game/StylizedProvencal/Maps/LayerInfo/Flowers_LayerInfo.Flowers_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+	Asset Name: /Game/StylizedProvencal/Maps/LayerInfo/Flowers_Full_LayerInfo.Flowers_Full_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+	Asset Name: /Game/StylizedProvencal/Maps/LayerInfo/Dirt_LayerInfo.Dirt_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+[2023.01.02-16.55.11:359][384]LogStaticMesh: Built static mesh [0.27s] /Game/StylizedProvencal/Meshes/SM_Test_RoofTile.SM_Test_RoofTile
+[2023.01.02-16.55.11:359][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_313 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:359][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_314 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:359][384]LogStaticMesh: Display: Building static mesh SM_Tree_01...
+[2023.01.02-16.55.11:359][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_House_Main) ...
+[2023.01.02-16.55.11:775][384]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.291 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.02-16.55.11:775][384]LogStaticMesh: Built static mesh [10.09s] /Game/StylizedProvencal/Meshes/SM_House_Main.SM_House_Main
+[2023.01.02-16.55.11:775][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_315 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:775][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_316 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.11:775][384]LogStaticMesh: Display: Building static mesh SM_Tree_02...
+[2023.01.02-16.55.11:775][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_Tree_01) ...
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Built static mesh [0.30s] /Game/StylizedProvencal/Meshes/SM_Tree_02.SM_Tree_02
+[2023.01.02-16.55.12:353][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_317 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:353][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_32 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Display: Building static mesh SM_Tree_03...
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Built static mesh [0.21s] /Game/StylizedProvencal/Meshes/SM_Tree_03.SM_Tree_03
+[2023.01.02-16.55.12:353][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_325 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:353][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_326 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Display: Building static mesh SM_Tree_Cypress...
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Built static mesh [0.99s] /Game/StylizedProvencal/Meshes/SM_Tree_01.SM_Tree_01
+[2023.01.02-16.55.12:353][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_33 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:353][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_337 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Display: Building static mesh SM_Tunnel...
+[2023.01.02-16.55.12:353][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_Tree_Cypress) ...
+[2023.01.02-16.55.12:650][384]LogStaticMesh: Built static mesh [0.35s] /Game/StylizedProvencal/Meshes/SM_Tree_Cypress.SM_Tree_Cypress
+[2023.01.02-16.55.12:650][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_338 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:650][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_339 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.12:650][384]LogStaticMesh: Display: Building static mesh SM_Vine_01...
+[2023.01.02-16.55.12:650][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_Tunnel) ...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Vine_01.SM_Vine_01
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_34 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_340 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_01_b...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Vine_01_b.SM_Vine_01_b
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_341 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_342 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_02...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Vine_02.SM_Vine_02
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_35 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_36 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_03...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Vine_03.SM_Vine_03
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_38 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_387 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_04...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Vine_04.SM_Vine_04
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_39 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_40 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_05...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Vine_05.SM_Vine_05
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_41 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_43 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_06...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Vine_06.SM_Vine_06
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_44 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_441 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vine_Flowers...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_Vine_Flowers.SM_Vine_Flowers
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_442 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_443 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_01...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_01.SM_Vines_Group_01
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_444 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_445 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_01_b...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_01_b.SM_Vines_Group_01_b
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_446 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_447 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_02...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.17s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_02.SM_Vines_Group_02
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_448 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_449 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_02_b...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.17s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_02_b.SM_Vines_Group_02_b
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_45 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_450 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_03...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [0.22s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_03.SM_Vines_Group_03
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_451 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_46 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_03_b...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Built static mesh [1.06s] /Game/StylizedProvencal/Meshes/SM_Tunnel.SM_Tunnel
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_48 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_49 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_04...
+[2023.01.02-16.55.13:444][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_Vines_Group_03_b) ...
+[2023.01.02-16.55.13:584][384]LogStaticMesh: Built static mesh [0.10s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_04.SM_Vines_Group_04
+[2023.01.02-16.55.13:584][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_5 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:584][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_50 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:584][384]LogStaticMesh: Display: Building static mesh SM_Vines_Group_04_b...
+[2023.01.02-16.55.13:584][384]LogStaticMesh: Built static mesh [0.23s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_03_b.SM_Vines_Group_03_b
+[2023.01.02-16.55.13:584][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_52 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:584][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_53 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:584][384]LogStaticMesh: Display: Building static mesh SM_WaterMill_Wheel...
+[2023.01.02-16.55.13:584][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_Vines_Group_04_b) ...
+[2023.01.02-16.55.13:628][384]LogStaticMesh: Built static mesh [0.10s] /Game/StylizedProvencal/Meshes/SM_Vines_Group_04_b.SM_Vines_Group_04_b
+[2023.01.02-16.55.13:628][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_54 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:628][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_55 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:628][384]LogStaticMesh: Display: Building static mesh SM_Wheel...
+[2023.01.02-16.55.13:628][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_WaterMill_Wheel) ...
+[2023.01.02-16.55.13:865][384]LogStaticMesh: Built static mesh [0.17s] /Game/StylizedProvencal/Meshes/SM_Wheel.SM_Wheel
+[2023.01.02-16.55.13:865][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_57 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:865][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_58 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:865][384]LogStaticMesh: Display: Building static mesh SM_Wooden_Arch_Tunnel...
+[2023.01.02-16.55.13:865][384]LogStaticMesh: Built static mesh [0.23s] /Game/StylizedProvencal/Meshes/SM_WaterMill_Wheel.SM_WaterMill_Wheel
+[2023.01.02-16.55.13:865][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel
+[2023.01.02-16.55.13:865][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_59 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:865][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_60 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:865][384]LogStaticMesh: Display: Building static mesh SM_Wooden_Pillar...
+[2023.01.02-16.55.13:865][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_62 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_63 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenArch...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_Wooden_Pillar.SM_Wooden_Pillar
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_64 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_65 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenBeam_01...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_WoodenArch.SM_WoodenArch
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_WoodenBeam_01.SM_WoodenBeam_01
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_67 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_68 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenBeam_02...
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_69 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_7 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenBeam_03...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_WoodenBeam_03.SM_WoodenBeam_03
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_70 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_72 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenBeam_04...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_WoodenBeam_02.SM_WoodenBeam_02
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_73 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_74 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenBeam_05...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.00s] /Game/StylizedProvencal/Meshes/SM_WoodenBeam_04.SM_WoodenBeam_04
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_75 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_77 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenPlank_01...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_WoodenPlank_01.SM_WoodenPlank_01
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_WoodenBeam_05.SM_WoodenBeam_05
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_78 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_79 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenPlank_02...
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_8 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_80 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WoodenPlank_03...
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_WoodenPlank_02.SM_WoodenPlank_02
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_WoodenPlank_03.SM_WoodenPlank_03
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_82 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_83 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_RiverPlane...
+[2023.01.02-16.55.13:866][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_84 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:866][384]LogStaticMesh: Display: Building static mesh SM_WindTrail...
+[2023.01.02-16.55.13:868][384]LogStaticMesh: Built static mesh [0.01s] /Game/StylizedProvencal/Meshes/SM_RiverPlane.SM_RiverPlane
+[2023.01.02-16.55.13:868][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_85 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:868][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_87 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:868][384]LogStaticMesh: Display: Building static mesh SM_WindTrail_02...
+[2023.01.02-16.55.13:879][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main_BuiltData.Main_BuiltData:NewReflectionComponentTextureD51E6305448B8417BDDF8592C0D6B77C (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:884][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main_BuiltData.Main_BuiltData:NewReflectionComponentTextureFBD4F6AC49253E0E6EB9D899923A7DD4 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:922][384]LogStaticMesh: Built static mesh [0.03s] /Game/StylizedProvencal/Meshes/SM_WindTrail.SM_WindTrail
+[2023.01.02-16.55.13:922][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_88 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:922][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_89 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:922][384]LogStaticMesh: Display: Building static mesh SM_House_01...
+[2023.01.02-16.55.13:922][384]LogStaticMesh: Built static mesh [0.03s] /Game/StylizedProvencal/Meshes/SM_WindTrail_02.SM_WindTrail_02
+[2023.01.02-16.55.13:922][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_9 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:922][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_90 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.13:922][384]LogStaticMesh: Display: Building static mesh SM_House_Tower...
+[2023.01.02-16.55.13:922][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StylizedProvencal/Meshes/SM_House_01) ...
+[2023.01.02-16.55.16:441][384]LogStaticMesh: Built static mesh [2.39s] /Game/StylizedProvencal/Meshes/SM_House_Tower.SM_House_Tower
+[2023.01.02-16.55.16:441][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_92 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.16:441][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_93 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.16:441][384]LogStaticMesh: Display: Building static mesh SM_Rock_Cliff_01...
+[2023.01.02-16.55.16:657][384]LogStaticMesh: Built static mesh [0.21s] /Game/StylizedProvencal/Meshes/SM_Rock_Cliff_01.SM_Rock_Cliff_01
+[2023.01.02-16.55.16:657][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_94 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.16:657][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_95 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.16:657][384]LogStaticMesh: Display: Building static mesh SM_WaterMill_House...
+[2023.01.02-16.55.20:105][384]LogStaticMesh: Built static mesh [3.43s] /Game/StylizedProvencal/Meshes/SM_WaterMill_House.SM_WaterMill_House
+[2023.01.02-16.55.20:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_97 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.20:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_98 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.20:105][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_99 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.24:715][384]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2023.01.02-16.55.24:715][384]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049974s
+[2023.01.02-16.55.27:012][384]LogStaticMesh: Built static mesh [12.55s] /Game/StylizedProvencal/Meshes/SM_House_01.SM_House_01
+[2023.01.02-16.55.27:042][384]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.004102s (2.376473s overbudget)
+[2023.01.02-16.55.28:714][384]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-16.55.28:715][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-16.55.28:749][384]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-16.55.28:752][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-16.55.29:008][384]LogTexture: Display: Waiting for textures to be ready 160/358 (/Game/StylizedProvencal/Textures/T_RoofTiles_02_B) ...
+[2023.01.02-16.55.29:034][384]LogTexture: Display: Waiting for textures to be ready 161/358 (/Game/StylizedProvencal/Textures/T_RoofTiles_03_B) ...
+[2023.01.02-16.55.29:056][384]LogTexture: Display: Waiting for textures to be ready 162/358 (/Game/StylizedProvencal/Textures/T_RoofTiles_AORM) ...
+[2023.01.02-16.55.29:076][384]LogTexture: Display: Waiting for textures to be ready 163/358 (/Game/StylizedProvencal/Textures/T_RoofTiles_H) ...
+[2023.01.02-16.55.29:104][384]LogTexture: Display: Waiting for textures to be ready 164/358 (/Game/StylizedProvencal/Textures/T_RoofTiles_Normal) ...
+[2023.01.02-16.55.29:128][384]LogTexture: Display: Waiting for textures to be ready 165/358 (/Game/StylizedProvencal/Textures/T_Windows_AORM) ...
+[2023.01.02-16.55.29:149][384]LogTexture: Display: Waiting for textures to be ready 166/358 (/Game/StylizedProvencal/Textures/T_Windows_B) ...
+[2023.01.02-16.55.29:171][384]LogTexture: Display: Waiting for textures to be ready 167/358 (/Game/StylizedProvencal/Textures/T_Windows_E) ...
+[2023.01.02-16.55.29:192][384]LogTexture: Display: Waiting for textures to be ready 168/358 (/Game/StylizedProvencal/Textures/T_Windows_N) ...
+[2023.01.02-16.55.29:214][384]LogTexture: Display: Waiting for textures to be ready 169/358 (/Game/StylizedProvencal/Textures/T_WoodenMeshes_AORM) ...
+[2023.01.02-16.55.29:244][384]LogTexture: Display: Waiting for textures to be ready 170/358 (/Game/StylizedProvencal/Textures/T_WoodenMeshes_B) ...
+[2023.01.02-16.55.29:269][384]LogTexture: Display: Waiting for textures to be ready 171/358 (/Game/StylizedProvencal/Textures/T_WoodenMeshes_N) ...
+[2023.01.02-16.55.29:293][384]LogTexture: Display: Waiting for textures to be ready 172/358 (/Game/StylizedProvencal/Textures/T_FieldGrass_02_M) ...
+[2023.01.02-16.55.29:310][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_FieldGrass_02_M.T_FieldGrass_02_M (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.29:384][384]LogTexture: Display: Waiting for textures to be ready 173/358 (/Game/StylizedProvencal/Textures/T_Flora_Atlas_01_B) ...
+[2023.01.02-16.55.29:527][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Flora_Atlas_01_B.T_Flora_Atlas_01_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.29:608][384]LogTexture: Display: Waiting for textures to be ready 174/358 (/Game/StylizedProvencal/Textures/T_Flora_Atlas_02_B) ...
+[2023.01.02-16.55.29:681][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Flora_Atlas_02_B.T_Flora_Atlas_02_B (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.29:681][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Default_AORM.T_Default_AORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.29:681][384]LogTexture: Display: Waiting for textures to be ready 175/358 (/Game/StylizedProvencal/Textures/T_Default_AORM) ...
+[2023.01.02-16.55.29:729][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Grid02.T_Grid02 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.29:729][384]LogTexture: Display: Waiting for textures to be ready 176/358 (/Game/StylizedProvencal/Textures/T_Grid02) ...
+[2023.01.02-16.55.29:800][384]LogTexture: Display: Waiting for textures to be ready 177/358 (/Game/StylizedProvencal/Textures/T_Dirt_A0RM) ...
+[2023.01.02-16.55.29:943][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Dirt_A0RM.T_Dirt_A0RM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.30:009][384]LogTexture: Display: Waiting for textures to be ready 178/358 (/Game/StylizedProvencal/Textures/T_Dirt_B) ...
+[2023.01.02-16.55.30:153][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Dirt_B.T_Dirt_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.30:254][384]LogTexture: Display: Waiting for textures to be ready 179/358 (/Game/StylizedProvencal/Textures/T_Dirt_M) ...
+[2023.01.02-16.55.30:362][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Dirt_M.T_Dirt_M (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.30:473][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Default_N.T_Default_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.30:473][384]LogTexture: Display: Waiting for textures to be ready 181/358 (/Game/StylizedProvencal/Textures/T_Default_N) ...
+[2023.01.02-16.55.30:522][384]LogTexture: Display: Waiting for textures to be ready 182/358 (/Game/StylizedProvencal/Textures/T_Plaster_02_B) ...
+[2023.01.02-16.55.30:766][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Plaster_02_B.T_Plaster_02_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.30:766][384]LogTexture: Display: Waiting for textures to be ready 183/358 (/Game/StylizedProvencal/Textures/T_Ropes_AORM) ...
+[2023.01.02-16.55.30:998][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Ropes_AORM.T_Ropes_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:022][384]LogTexture: Display: Waiting for textures to be ready 184/358 (/Game/StylizedProvencal/Textures/T_Ropes_B) ...
+[2023.01.02-16.55.31:201][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Ropes_B.T_Ropes_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:357][384]LogMeshUtilities: Finished distance field build in 10.8s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 72% occupied, 7868 triangles, SM_WindMill_SM_WindMill
+[2023.01.02-16.55.31:357][384]LogTexture: Display: Waiting for textures to be ready 185/358 (/Game/StylizedProvencal/Textures/T_Ropes_N) ...
+[2023.01.02-16.55.31:411][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_StoneWall02_A0RM.T_StoneWall02_A0RM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:411][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Ropes_N.T_Ropes_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:576][384]LogTexture: Display: Waiting for textures to be ready 187/358 (/Game/StylizedProvencal/Textures/T_StoneWall02_B) ...
+[2023.01.02-16.55.31:794][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_StoneWall02_B.T_StoneWall02_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:794][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_StoneWall02_N.T_StoneWall02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:794][384]LogTexture: Display: Waiting for textures to be ready 188/358 (/Game/StylizedProvencal/Textures/T_StoneWall02_N) ...
+[2023.01.02-16.55.31:830][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_StoneWall01_A0RM.T_StoneWall01_A0RM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.31:883][384]LogTexture: Display: Waiting for textures to be ready 189/358 (/Game/StylizedProvencal/Textures/T_StoneWall01_A0RM) ...
+[2023.01.02-16.55.31:946][384]LogTexture: Display: Waiting for textures to be ready 190/358 (/Game/StylizedProvencal/Textures/T_StoneWall01_N) ...
+[2023.01.02-16.55.32:036][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_StoneWall01_N.T_StoneWall01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:036][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WoodTrunk_AORM.T_WoodTrunk_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:094][384]LogTexture: Display: Waiting for textures to be ready 191/358 (/Game/StylizedProvencal/Textures/T_WoodTrunk_AORM) ...
+[2023.01.02-16.55.32:173][384]LogTexture: Display: Waiting for textures to be ready 192/358 (/Game/StylizedProvencal/Textures/T_WoodTrunk_B) ...
+[2023.01.02-16.55.32:245][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WoodTrunk_B.T_WoodTrunk_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:341][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WoodTrunk_N.T_WoodTrunk_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:341][384]LogTexture: Display: Waiting for textures to be ready 193/358 (/Game/StylizedProvencal/Textures/T_WoodTrunk_N) ...
+[2023.01.02-16.55.32:511][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Cloud_01.T_Cloud_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:511][384]LogTexture: Display: Waiting for textures to be ready 199/358 (/Game/StylizedProvencal/Textures/T_Cart_N) ...
+[2023.01.02-16.55.32:562][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Cloud_02.T_Cloud_02 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:562][384]LogTexture: Display: Waiting for textures to be ready 201/358 (/Game/StylizedProvencal/Textures/T_Cloud_02) ...
+[2023.01.02-16.55.32:597][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_FlowMap_01_N.T_FlowMap_01_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:597][384]LogTexture: Display: Waiting for textures to be ready 202/358 (/Game/StylizedProvencal/Textures/T_FlowMap_01_N) ...
+[2023.01.02-16.55.32:659][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Flower_Pot_AORM.T_Flower_Pot_AORM (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:659][384]LogTexture: Display: Waiting for textures to be ready 205/358 (/Game/StylizedProvencal/Textures/T_Crates_N) ...
+[2023.01.02-16.55.32:708][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Flower_Pot_B.T_Flower_Pot_B (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:708][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Flower_Pot_N.T_Flower_Pot_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:708][384]LogTexture: Display: Waiting for textures to be ready 209/358 (/Game/StylizedProvencal/Textures/T_Decals_N) ...
+[2023.01.02-16.55.32:726][384]LogTexture: Display: Waiting for textures to be ready 211/358 (/Game/StylizedProvencal/Textures/T_TunnelProps_AORM) ...
+[2023.01.02-16.55.32:870][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_TunnelProps_AORM.T_TunnelProps_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:870][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_TunnelProps_B.T_TunnelProps_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.32:919][384]LogTexture: Display: Waiting for textures to be ready 212/358 (/Game/StylizedProvencal/Textures/T_TunnelProps_B) ...
+[2023.01.02-16.55.32:949][384]LogTexture: Display: Waiting for textures to be ready 213/358 (/Game/StylizedProvencal/Textures/T_TunnelProps_N) ...
+[2023.01.02-16.55.33:079][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_TunnelProps_N.T_TunnelProps_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:079][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Shrine_Candle_AORM.T_Shrine_Candle_AORM (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:079][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Shrine_Candle_B.T_Shrine_Candle_B (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:079][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Shrine_Candle_N.T_Shrine_Candle_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:098][384]LogTexture: Display: Waiting for textures to be ready 220/358 (/Game/StylizedProvencal/Textures/T_WaterMill_Wheel_AORM) ...
+[2023.01.02-16.55.33:295][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WaterMill_Wheel_AORM.T_WaterMill_Wheel_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:295][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WaterMill_Wheel_B.T_WaterMill_Wheel_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:397][384]LogTexture: Display: Waiting for textures to be ready 221/358 (/Game/StylizedProvencal/Textures/T_WaterMill_Wheel_B) ...
+[2023.01.02-16.55.33:501][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_WaterMill_Wheel_N.T_WaterMill_Wheel_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:520][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Overview.Overview:PersistentLevel.Landscape_0.Texture2D_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:520][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Fire_Distortion_M.T_Fire_Distortion_M (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:520][384]LogTexture: Display: Waiting for textures to be ready 222/358 (/Game/StylizedProvencal/Textures/T_WaterMill_Wheel_N) ...
+[2023.01.02-16.55.33:668][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Textures/T_Water_02_N.T_Water_02_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:668][384]LogTexture: Display: Waiting for textures to be ready 228/358 (/Game/StylizedProvencal/Materials/Landscape/RVT_Landscape_Color_SVT) ...
+[2023.01.02-16.55.33:920][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Materials/RVT_Landscape_Height_SVT.RVT_Landscape_Height_SVT:Texture (G16, 4096X4096 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:920][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Materials/Landscape/RVT_Landscape_Color_SVT.RVT_Landscape_Color_SVT:Texture (TFO_AutoDXT, 4096X4096 X1X2) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.33:920][384]LogTexture: Texture /Game/StylizedProvencal/Materials/Landscape/RVT_Landscape_Color_SVT.RVT_Landscape_Color_SVT:Texture has 2 layers but VirtualTexturing is not enabled, only the first layer will be available
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_19 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_230 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_15 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_149 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_145 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_150 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_6 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_236 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_132 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_17 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_134 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_123 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_2 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_142 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_127 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_1 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_23 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_16 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_146 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_4 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_128 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_3 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_124 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_13 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_141 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_18 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_140 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_151 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_148 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_133 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_116 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_51 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_152 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_110 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_126 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_144 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_125 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_143 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_120 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_237 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_37 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_231 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_112 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_113 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_129 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_130 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_42 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_47 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_131 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_118 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_115 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_56 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_114 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_117 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_119 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_61 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_66 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_71 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_111 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_104 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_76 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_147 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_81 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_139 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_22 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_138 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_135 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_224 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_86 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_225 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_219 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_226 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_91 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_232 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_121 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_238 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_319 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_137 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_309 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_136 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_96 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_220 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_218 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_301 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_101 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_106 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_332 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_204 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_308 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_205 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_206 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_207 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:350][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_208 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_209 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_210 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_324 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_212 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_213 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_302 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_214 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_215 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_216 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_217 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_221 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_222 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_223 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_227 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_228 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_229 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_233 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_234 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_235 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_266 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_267 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_268 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_269 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_270 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_300 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_307 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_388 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_312 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_318 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_390 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_389 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_333 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_336 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_320 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.34:351][384]LogTexture: Display: Building textures: /Game/StylizedProvencal/Maps/Main.Main:PersistentLevel.Landscape_1.Texture2D_323 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2023.01.02-16.55.35:817][384]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 0.7Mb total, 0.1Mb always loaded, 17% occupied, 181 triangles, SM_WindMill_Palms
+[2023.01.02-16.55.37:239][384]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.01.02-16.55.37:239][384]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049982s
+[2023.01.02-16.55.38:073][384]LogMeshUtilities: Finished distance field build in 2.0s - 56x126x70 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 71% occupied, 1840 triangles, SM_Bridge
+[2023.01.02-16.55.42:028][384]LogMeshUtilities: Finished distance field build in 4.6s - 77x63x49 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 92% occupied, 528 triangles, SM_Bush_01
+[2023.01.02-16.55.45:774][384]LogMeshUtilities: Finished distance field build in 3.8s - 63x56x49 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 94% occupied, 1490 triangles, SM_Bush_04
+[2023.01.02-16.55.52:438][384]LogMeshUtilities: Finished distance field build in 6.4s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 1958 triangles, SM_House_Barn
+[2023.01.02-16.55.52:645][384]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.0Mb total, 0.1Mb always loaded, 24% occupied, 5501 triangles, SM_House_Ivy
+[2023.01.02-16.56.00:772][384]LogMeshUtilities: Finished distance field build in 8.4s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 61% occupied, 19998 triangles, SM_House_Main
+[2023.01.02-16.56.06:812][384]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 60% occupied, 10450 triangles, SM_House_Passage
+[2023.01.02-16.56.11:602][384]LogMeshUtilities: Finished distance field build in 4.3s - 105x98x126 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 58% occupied, 1266 triangles, SM_Shrine
+[2023.01.02-16.56.13:268][384]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 97% occupied, 636 triangles, SM_Test_RoofTile
+[2023.01.02-16.56.23:054][384]LogMeshUtilities: Finished distance field build in 10.4s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 36% occupied, 3720 triangles, SM_Tree_01
+[2023.01.02-16.56.42:836][384]LogMeshUtilities: Finished distance field build in 22.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 3908 triangles, SM_Tree_02
+[2023.01.02-16.57.02:609][384]LogMeshUtilities: Finished distance field build in 25.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 2575 triangles, SM_Tree_03
+[2023.01.02-16.57.02:818][384]LogMeshUtilities: Finished distance field build in 5.9s - 49x49x126 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 91% occupied, 1403 triangles, SM_Tree_Cypress
+[2023.01.02-16.57.08:438][384]LogMeshUtilities: Finished distance field build in 5.9s - 126x126x105 sparse distance field, 1.9Mb total, 0.0Mb always loaded, 64% occupied, 2562 triangles, SM_Tunnel
+[2023.01.02-16.57.15:102][384]LogMeshUtilities: Finished distance field build in 4.5s - 91x126x126 sparse distance field, 1.7Mb total, 0.0Mb always loaded, 65% occupied, 604 triangles, SM_WaterMill_Wheel
+[2023.01.02-16.57.26:344][384]LogMeshUtilities: Finished distance field build in 10.7s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 65% occupied, 5422 triangles, SM_House_Tower
+[2023.01.02-16.57.30:299][384]LogMeshUtilities: Finished distance field build in 14.7s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 60% occupied, 25589 triangles, SM_House_01
+[2023.01.02-16.57.30:716][384]LogMeshUtilities: Finished distance field build in 3.8s - 63x77x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 74% occupied, 508 triangles, SM_Rock_Cliff_01
+[2023.01.02-16.57.35:710][384]LogMeshUtilities: Finished distance field build in 5.2s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 7668 triangles, SM_WaterMill_House
